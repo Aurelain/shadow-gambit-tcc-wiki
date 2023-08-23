@@ -1,0 +1,14 @@
+{{Character
+ | name         = {{PAGENAME}}
+ | image        = Portrait character GAELLE LE BRIES.png
+ | imagecaption = 
+ | aliases      = The Master Cannoness
+ | nationality  = Breton
+ | role         = 
+ | weapon       = ''Ar Kanol''
+ | signature    = 
+ | passive      =  
+ | archtypes    = 
+}}
+
+[[Category:Crew]]

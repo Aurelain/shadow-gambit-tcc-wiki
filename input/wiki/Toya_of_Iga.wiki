@@ -1,0 +1,19 @@
+{{Character
+ | name         = {{PAGENAME}}
+ | image        = Portrait character TOYA OF IGA.png
+ | imagecaption = 
+ | aliases      = The Ship’s Cook (by [[Red Marley]])<br>Toya of the East (by [[Afia]])
+ | nationality  = Japanese
+ | role         = 
+ | weapon       = Katana
+ | signature    = [[Toya of Iga#Signature Skills|Katashiro]]<br>[[Toya of Iga#Signature Skills|Shadow Step]]<br>[[Toya of Iga#Signature Skills|Bird's Voice]]
+ | passive      = Can climb ivies<br>Can swim
+ | archtypes    = Position Changer<br>Killer
+}}
+
+==Signature Skills==
+*Katashiro: Can leave behind a small, humanoid paper charm called Katashiro that only he can see. Katashiro can be pinned on enemies.
+*Shadow Step: Teleports back to the Katashiro from any distance. Toya will attack any marked enemy by the Katashiro
+*Bird's Voice: Uses a whistle to draw the attention of nearby enemies and make them come to his location.
+
+[[Category:Crew]]

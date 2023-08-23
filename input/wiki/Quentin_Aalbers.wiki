@@ -1,0 +1,14 @@
+{{Character
+ | name         = {{PAGENAME}}
+ | image        = Portrait character QUENTIN AALBERS.png
+ | imagecaption = 
+ | nationality  = Dutch
+ | aliases      = The Treasure Hunter
+ | role         = 
+ | weapon       = Fishing Rod
+ | signature    = 
+ | passive      =  
+ | archtypes    = 
+}}
+
+[[Category:Crew]]

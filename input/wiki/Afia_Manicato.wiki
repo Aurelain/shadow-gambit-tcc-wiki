@@ -1,0 +1,42 @@
+Afia is the first playable character in the game. She is the latest recruit in Red Marley's crew and she serves as the ship's navigator.{{Character
+ | name         = {{PAGENAME}}
+ | image        = Portrait character AFIA MANICATO.png
+ | imagecaption = 
+ | nationality  = Jamaican
+ | aliases      = The Navigator
+ | role         = 
+ | weapon       = Cutlass, Flintlock Pistol
+ | signature    = 
+ | passive      =  
+ | archtypes    = 
+}}
+
+== Abilities ==
+
+=== Blink ===
+Afia blinks through space-time, instantly traveling through a short distance to either reposition herself or take out an enemy. She can only blink to high ground if she's targeting an enemy.<blockquote>Aim type: single point, straight line with line of sight
+
+Noise: only around the enemy when targeting one</blockquote>
+
+
+=== Time Freeze ===
+Afia extends the power of her broken watch to an enemy, freezing them in time momentarily. Frozen enemies do not react to anything and can still be attacked. This is the only ability in the game that deafens enemies.<blockquote>Aim type: enemy, does not need line of sight</blockquote>Notes:
+
+* Like most distractions in the game, time freeze has a shorter duration on Commissariuses.
+* Witnessing a frozen guard does not raise the alarm.
+
+== Passive traits ==
+{| class="fandom-table"
+|Kill animation
+|Long
+|-
+|Can climb ivies?
+|Yes
+|-
+|Can swim
+|No
+|-
+|Body carrying
+|Crouching
+|}
+[[Category:Crew]]

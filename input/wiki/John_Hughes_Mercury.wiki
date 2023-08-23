@@ -1,0 +1,14 @@
+{{Character
+ | name         = {{PAGENAME}}
+ | image        = Portrait character MERCURY.png
+ | imagecaption = 
+ | aliases      = The Shipwright
+ | nationality  = Scottish
+ | role         = 
+ | weapon       = Anchor, ''Sir Reginald''
+ | signature    = 
+ | passive      =  
+ | archtypes    = 
+}}
+
+[[Category:Crew]]

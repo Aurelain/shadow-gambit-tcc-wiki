@@ -1,0 +1,50 @@
+Pinkus is the Quartermaster on the Red Marley. He is in charge of the crew's bookkeeping and logistics.{{Character
+ | name         = {{PAGENAME}}
+ | image        = Portrait character PINKUS VON PRESSWALD.png
+ | imagecaption = 
+ | nationality  = Prussian
+ | aliases      = The Quartermaster
+ | role         = 
+ | weapon       = 
+ | signature    = 
+ | passive      =  
+ | archtypes    = 
+}}
+
+==Abilities==
+
+===Peruse Mind===
+Pinkus possesses an enemy, inhabiting their body and taking control over it. This lets Pinkus move around undetected by enemies. There is a radius starting from where the ability is used that limits Pinkus' movement in guard form. When in guard form, Pinkus can:
+
+*Knock out enemies (but not kill them)
+*Tie up unconscious enemies
+*Use Peruse Mind again on another enemy, resetting the center of his movement radius
+*Use the Converse ability explained below
+*Use his Coin Toss ability explained below
+*Carry bodies (standing stance)
+*Exit the body, rendering the guard KO'd and automatically tied up
+
+However, Pinkus cannot crouch or jump while in guard form. If the alarm is sounded, Pinkus loses control over the body and the guard is back in control instead while the alarm is still active. Pinkus cannot control the guard's movement and loses his abilities, but he can still exit the body.
+
+===Coin Toss===
+Pinkus throws a coin, causing nearby guards to look at it.<blockquote>Aim type: area of effect, arc</blockquote>
+
+===Converse===
+Only available in guard form, Pinkus converses with another guard to hold them in place and make them look at him for a while. Unlike the converse ability in Shadow Tactics and Desperados 3, this ability has a limited duration and a cooldown.
+
+==Passive skills==
+{| class="fandom-table"
+|-
+|Kill animation
+|Long
+|-
+|Can climb ivies?
+|No
+|-
+|Can swim?
+|No
+|-
+|Body carrying
+|Crouching
+|}
+[[Category:Crew]]

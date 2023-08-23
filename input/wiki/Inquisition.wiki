@@ -1,0 +1,8 @@
+
+==Gallery==
+<gallery captionalign="center" position="center">
+enemies_confessor_concept.png|Confessor concept art.
+inquisition concept art.png|Concept art.
+</gallery>
+
+[[Category:Shadow Gambit]]

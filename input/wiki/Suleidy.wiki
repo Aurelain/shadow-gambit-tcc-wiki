@@ -1,0 +1,14 @@
+{{Character
+ | name         = {{PAGENAME}}
+ | image        = Portrait character SULEIDY.png
+ | imagecaption = 
+ | aliases      = The Ship Doctor
+ | nationality  = Unknown
+ | role         = 
+ | weapon       = Seeds and Spores<br>Scimitar
+ | signature    = Cover Seeds<br>Wander Dust
+ | passive      = Can climb ivies<br>Can swim
+ | archtypes    = Position Changer<br>Body Hider
+}}
+
+[[Category:Crew]]

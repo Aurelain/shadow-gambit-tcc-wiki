@@ -1,0 +1,44 @@
+Teresa is the crew's sharpshooter and serves as the lookout on the Red Marley. She used to be part of the Inquisition before joining the Red Marley and her crew.{{Character
+ | name         = {{PAGENAME}}
+ | image        = Portrait character TERESA LA CIEGA.png
+ | imagecaption = 
+ | aliases      = The Sharpshooter
+ | nationality  = Spanish
+ | role         = 
+ | weapon       = Crossbow
+ | signature    = 
+ | passive      =  
+ | archtypes    = 
+}}
+
+==Abilities==
+
+===Iron Judgement===
+Teresa takes out an enemy from a distance by shooting a piece of her soul. She can shoot infinite times, but she needs to retrieve her soul fragment before shooting again.<blockquote>Aim type: straight line with line of sight
+
+Noise: only around the targeted enemy
+
+</blockquote>
+
+===Ashen Judgement===
+Teresa shoots a bolt with ash to an enemy, blinding them momentarily. Blinded enemies have a much shorter and slightly narrower view cone. The enemy also stops moving their view cone throughout the duration of the ability.<blockquote>Aim type: straight line with line of sight
+
+Noise: no noise</blockquote>Notes:
+
+* Contrary to the blind abilities in the previous games (Shadow Tactics and Desperados 3), Ashen Judgement has a smaller duration on Commissariuses.
+
+==Passive skills==
+{| class="fandom-table"
+|Kill animation
+|Long
+|-
+|Can climb ivies?
+|No
+|-
+|Can swim?
+|No
+|-
+|Body carrying
+|Crouching
+|}
+[[Category:Crew]]
