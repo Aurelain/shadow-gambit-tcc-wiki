@@ -9,6 +9,7 @@ import findFiles from '../utils/findFiles.js';
 import isEmpty from '../utils/isEmpty.js';
 import sortJson from '../utils/sortJson.js';
 import {BADGES} from './BADGES.js';
+import generateWikiTable from '../utils/generateWikiTable.js';
 
 // =====================================================================================================================
 //  D E C L A R A T I O N S
@@ -51,11 +52,16 @@ const suggestBadges = () => {
     assert(languagePaths.length > 1, 'Expecting many language files!');
     const i18n = readI18n(languagePaths);
     enrichByNid(badgesList, i18n);
-    console.log('badgesList:', badgesList.length);
 
     validateBadges(badgesList, BADGES);
+    const table = buildBadgesTable(badgesList, BADGES);
 
-    fs.writeFileSync(OUTPUT_PAGE, JSON.stringify(sortJson(badgesList), null, 4));
+    const badgesWiki = `
+${generateWikiTable(table)}
+    `.trim();
+
+    // fs.writeFileSync(OUTPUT_PAGE, JSON.stringify(sortJson(badgesList), null, 4));
+    fs.writeFileSync(OUTPUT_PAGE, badgesWiki);
     open(OUTPUT_PAGE);
 };
 
@@ -214,16 +220,15 @@ const validateBadges = (badgesList, BADGES) => {
     let sumGen = 0;
     for (const badge of BADGES) {
         const {steps, loc, mis, crew} = badge;
-        const actualSteps = steps ? steps : 1;
-        sumAll += actualSteps;
+        sumAll += steps;
         if (crew) {
-            sumCrew += actualSteps;
+            sumCrew += steps;
         } else if (mis) {
-            sumMis += actualSteps;
+            sumMis += steps;
         } else if (loc) {
-            sumLoc += actualSteps;
+            sumLoc += steps;
         } else {
-            sumGen += actualSteps;
+            sumGen += steps;
         }
     }
     console.log('sumAll:', sumAll);

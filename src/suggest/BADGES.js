@@ -58,7 +58,7 @@ export const BADGES = [
         loc: LOC_MORROWS_REACH,
         mis: null,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_loc_generic_all_spawns',
@@ -66,7 +66,7 @@ export const BADGES = [
         loc: LOC_MORROWS_REACH,
         mis: null,
         crew: null,
-        steps: 0,
+        steps: 2,
     },
     {
         name: 'badge_loc_starting_concurrent_kill_enemy_types',
@@ -74,7 +74,7 @@ export const BADGES = [
         loc: LOC_MORROWS_REACH,
         mis: null,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_loc_starting_cross_wooden_bridge',
@@ -82,7 +82,7 @@ export const BADGES = [
         loc: LOC_MORROWS_REACH,
         mis: null,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_loc_starting_throw_down_distance',
@@ -90,7 +90,7 @@ export const BADGES = [
         loc: LOC_MORROWS_REACH,
         mis: null,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_loc_starting_throw_into_water_pit',
@@ -98,7 +98,7 @@ export const BADGES = [
         loc: LOC_MORROWS_REACH,
         mis: null,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_loc_starting_use_hidden_shrine',
@@ -106,7 +106,7 @@ export const BADGES = [
         loc: LOC_MORROWS_REACH,
         mis: null,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_generic_finish_mission',
@@ -114,7 +114,7 @@ export const BADGES = [
         loc: LOC_MORROWS_REACH,
         mis: MIS_RED_MARLEY_RISING,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_generic_no_distractions',
@@ -122,7 +122,7 @@ export const BADGES = [
         loc: LOC_MORROWS_REACH,
         mis: MIS_RED_MARLEY_RISING,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_starting_01_intro1_no_enter_ship_by_chain',
@@ -130,7 +130,7 @@ export const BADGES = [
         loc: LOC_MORROWS_REACH,
         mis: MIS_RED_MARLEY_RISING,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_starting_01_intro1_no_kill_freezer',
@@ -138,7 +138,7 @@ export const BADGES = [
         loc: LOC_MORROWS_REACH,
         mis: MIS_RED_MARLEY_RISING,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_starting_01_intro1_no_kill_or_ko_on_marley',
@@ -146,7 +146,7 @@ export const BADGES = [
         loc: LOC_MORROWS_REACH,
         mis: MIS_RED_MARLEY_RISING,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_starting_01_intro1_no_time_freeze_bomb',
@@ -154,7 +154,7 @@ export const BADGES = [
         loc: LOC_MORROWS_REACH,
         mis: MIS_RED_MARLEY_RISING,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_generic_no_load',
@@ -162,7 +162,7 @@ export const BADGES = [
         loc: LOC_MORROWS_REACH,
         mis: MIS_A_SHIP_NEEDS_A_CREW,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_starting_02_intro2_catatonic_simultaneous',
@@ -170,7 +170,7 @@ export const BADGES = [
         loc: LOC_MORROWS_REACH,
         mis: MIS_A_SHIP_NEEDS_A_CREW,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_generic_finish_mission',
@@ -178,7 +178,7 @@ export const BADGES = [
         loc: LOC_MORROWS_REACH,
         mis: MIS_A_SHIP_NEEDS_A_CREW,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_starting_02_intro2_no_alarm_limited_kill_or_ko',
@@ -186,7 +186,7 @@ export const BADGES = [
         loc: LOC_MORROWS_REACH,
         mis: MIS_A_SHIP_NEEDS_A_CREW,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_generic_no_swim',
@@ -194,7 +194,7 @@ export const BADGES = [
         loc: LOC_MORROWS_REACH,
         mis: MIS_A_SHIP_NEEDS_A_CREW,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_generic_solo_bln',
@@ -202,7 +202,7 @@ export const BADGES = [
         loc: LOC_MORROWS_REACH,
         mis: MIS_A_SHIP_NEEDS_A_CREW,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_starting_04_a3finale_capture_ships',
@@ -210,7 +210,7 @@ export const BADGES = [
         loc: LOC_MORROWS_REACH,
         mis: MIS_THE_CAPTAINS_TREASURE,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_generic_finish_mission',
@@ -218,7 +218,7 @@ export const BADGES = [
         loc: LOC_MORROWS_REACH,
         mis: MIS_THE_CAPTAINS_TREASURE,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_generic_kill_all',
@@ -226,7 +226,7 @@ export const BADGES = [
         loc: LOC_MORROWS_REACH,
         mis: MIS_THE_CAPTAINS_TREASURE,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_starting_04_a3finale_kill_freezer_simultaneous',
@@ -234,7 +234,7 @@ export const BADGES = [
         loc: LOC_MORROWS_REACH,
         mis: MIS_THE_CAPTAINS_TREASURE,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_generic_no_alarm',
@@ -242,7 +242,7 @@ export const BADGES = [
         loc: LOC_MORROWS_REACH,
         mis: MIS_THE_CAPTAINS_TREASURE,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_starting_04_a3finale_overtake_inquisitor',
@@ -250,7 +250,7 @@ export const BADGES = [
         loc: LOC_MORROWS_REACH,
         mis: MIS_THE_CAPTAINS_TREASURE,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_loc_generic_all_exits',
@@ -258,7 +258,7 @@ export const BADGES = [
         loc: LOC_NEW_KRUCBURY,
         mis: null,
         crew: null,
-        steps: 0,
+        steps: 2,
     },
     {
         name: 'badge_loc_generic_all_spawns',
@@ -266,7 +266,7 @@ export const BADGES = [
         loc: LOC_NEW_KRUCBURY,
         mis: null,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_loc_trading_capture_the_flag',
@@ -274,7 +274,7 @@ export const BADGES = [
         loc: LOC_NEW_KRUCBURY,
         mis: null,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_loc_trading_extinguish_lights',
@@ -282,7 +282,7 @@ export const BADGES = [
         loc: LOC_NEW_KRUCBURY,
         mis: null,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_loc_trading_kill_all_within_time',
@@ -290,7 +290,7 @@ export const BADGES = [
         loc: LOC_NEW_KRUCBURY,
         mis: null,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_loc_trading_kill_by_envkill_within_time',
@@ -298,7 +298,7 @@ export const BADGES = [
         loc: LOC_NEW_KRUCBURY,
         mis: null,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_loc_trading_kill_custodes_within_time',
@@ -306,7 +306,7 @@ export const BADGES = [
         loc: LOC_NEW_KRUCBURY,
         mis: null,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_generic_finish_mission',
@@ -314,7 +314,7 @@ export const BADGES = [
         loc: LOC_NEW_KRUCBURY,
         mis: MIS_GAELLES_LETTER_CH3,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_generic_no_guns',
@@ -322,7 +322,7 @@ export const BADGES = [
         loc: LOC_NEW_KRUCBURY,
         mis: MIS_GAELLES_LETTER_CH3,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_trading_02_cnn_no_kill_or_ko',
@@ -330,7 +330,7 @@ export const BADGES = [
         loc: LOC_NEW_KRUCBURY,
         mis: MIS_GAELLES_LETTER_CH3,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_trading_02_cnn_no_kill_or_ko_warden',
@@ -338,7 +338,7 @@ export const BADGES = [
         loc: LOC_NEW_KRUCBURY,
         mis: MIS_GAELLES_LETTER_CH3,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_generic_no_load',
@@ -346,7 +346,7 @@ export const BADGES = [
         loc: LOC_NEW_KRUCBURY,
         mis: MIS_GAELLES_LETTER_CH3,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_trading_02_cnn_no_whistlestone',
@@ -354,7 +354,7 @@ export const BADGES = [
         loc: LOC_NEW_KRUCBURY,
         mis: MIS_GAELLES_LETTER_CH3,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_trading_03_intro3_all_memories_collected',
@@ -362,7 +362,7 @@ export const BADGES = [
         loc: LOC_NEW_KRUCBURY,
         mis: MIS_FRAGMENTS,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_generic_finish_mission',
@@ -370,7 +370,7 @@ export const BADGES = [
         loc: LOC_NEW_KRUCBURY,
         mis: MIS_FRAGMENTS,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_trading_03_intro3_kill_sharpshooter_no_water',
@@ -378,7 +378,7 @@ export const BADGES = [
         loc: LOC_NEW_KRUCBURY,
         mis: MIS_FRAGMENTS,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_generic_no_bushes',
@@ -386,7 +386,7 @@ export const BADGES = [
         loc: LOC_NEW_KRUCBURY,
         mis: MIS_FRAGMENTS,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_generic_no_carry',
@@ -394,7 +394,7 @@ export const BADGES = [
         loc: LOC_NEW_KRUCBURY,
         mis: MIS_FRAGMENTS,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_trading_03_intro3_no_ladders_on_beach',
@@ -402,7 +402,7 @@ export const BADGES = [
         loc: LOC_NEW_KRUCBURY,
         mis: MIS_FRAGMENTS,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_loc_generic_all_exits',
@@ -410,7 +410,7 @@ export const BADGES = [
         loc: LOC_IRON_BAY,
         mis: null,
         crew: null,
-        steps: 0,
+        steps: 4,
     },
     {
         name: 'badge_loc_generic_all_missions',
@@ -418,7 +418,7 @@ export const BADGES = [
         loc: LOC_IRON_BAY,
         mis: null,
         crew: null,
-        steps: 0,
+        steps: 5,
     },
     {
         name: 'badge_loc_generic_all_spawns',
@@ -426,7 +426,7 @@ export const BADGES = [
         loc: LOC_IRON_BAY,
         mis: null,
         crew: null,
-        steps: 0,
+        steps: 4,
     },
     {
         name: 'badge_loc_furnace_forced_meditation',
@@ -434,7 +434,7 @@ export const BADGES = [
         loc: LOC_IRON_BAY,
         mis: null,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_loc_generic_kill_all',
@@ -442,7 +442,7 @@ export const BADGES = [
         loc: LOC_IRON_BAY,
         mis: null,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_loc_furnace_kill_by_envkill',
@@ -450,7 +450,7 @@ export const BADGES = [
         loc: LOC_IRON_BAY,
         mis: null,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_loc_furnace_kill_freezer_tower',
@@ -458,7 +458,7 @@ export const BADGES = [
         loc: LOC_IRON_BAY,
         mis: null,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_loc_furnace_throw_coin_into_well',
@@ -466,7 +466,7 @@ export const BADGES = [
         loc: LOC_IRON_BAY,
         mis: null,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_loc_furnace_throw_freezer_into_pit',
@@ -474,7 +474,7 @@ export const BADGES = [
         loc: LOC_IRON_BAY,
         mis: null,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_loc_furnace_throw_tied_up_into_prison',
@@ -482,7 +482,7 @@ export const BADGES = [
         loc: LOC_IRON_BAY,
         mis: null,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_furnace_01_pearl_enter_pit_not_from_bridge',
@@ -490,7 +490,7 @@ export const BADGES = [
         loc: LOC_IRON_BAY,
         mis: MIS_SNATCHED_FROM_THE_PIT,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_generic_finish_mission',
@@ -498,7 +498,7 @@ export const BADGES = [
         loc: LOC_IRON_BAY,
         mis: MIS_SNATCHED_FROM_THE_PIT,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_furnace_01_pearl_limited_charset',
@@ -506,7 +506,7 @@ export const BADGES = [
         loc: LOC_IRON_BAY,
         mis: MIS_SNATCHED_FROM_THE_PIT,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_generic_no_bushes',
@@ -514,7 +514,7 @@ export const BADGES = [
         loc: LOC_IRON_BAY,
         mis: MIS_SNATCHED_FROM_THE_PIT,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_furnace_01_pearl_no_fire_crates',
@@ -522,7 +522,7 @@ export const BADGES = [
         loc: LOC_IRON_BAY,
         mis: MIS_SNATCHED_FROM_THE_PIT,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_furnace_01_pearl_no_pickup_keys',
@@ -530,7 +530,7 @@ export const BADGES = [
         loc: LOC_IRON_BAY,
         mis: MIS_SNATCHED_FROM_THE_PIT,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_generic_finish_mission',
@@ -538,7 +538,7 @@ export const BADGES = [
         loc: LOC_IRON_BAY,
         mis: MIS_PINKUS_DUTY_CH1,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_generic_no_climb',
@@ -546,7 +546,7 @@ export const BADGES = [
         loc: LOC_IRON_BAY,
         mis: MIS_PINKUS_DUTY_CH1,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_generic_no_distractions',
@@ -554,7 +554,7 @@ export const BADGES = [
         loc: LOC_IRON_BAY,
         mis: MIS_PINKUS_DUTY_CH1,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_furnace_02_compass_no_prison',
@@ -562,7 +562,7 @@ export const BADGES = [
         loc: LOC_IRON_BAY,
         mis: MIS_PINKUS_DUTY_CH1,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_furnace_02_compass_solo_ovt',
@@ -570,7 +570,7 @@ export const BADGES = [
         loc: LOC_IRON_BAY,
         mis: MIS_PINKUS_DUTY_CH1,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_furnace_02_compass_use_secret_cave',
@@ -578,7 +578,7 @@ export const BADGES = [
         loc: LOC_IRON_BAY,
         mis: MIS_PINKUS_DUTY_CH1,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_generic_finish_mission',
@@ -586,7 +586,7 @@ export const BADGES = [
         loc: LOC_IRON_BAY,
         mis: MIS_ASH_AND_ORE,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_generic_no_distractions',
@@ -594,7 +594,7 @@ export const BADGES = [
         loc: LOC_IRON_BAY,
         mis: MIS_ASH_AND_ORE,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_generic_no_guns',
@@ -602,7 +602,7 @@ export const BADGES = [
         loc: LOC_IRON_BAY,
         mis: MIS_ASH_AND_ORE,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_furnace_03_soulenergy_no_kill_or_ko_in_bookshelfs',
@@ -610,7 +610,7 @@ export const BADGES = [
         loc: LOC_IRON_BAY,
         mis: MIS_ASH_AND_ORE,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_furnace_03_soulenergy_solo_bridge',
@@ -618,7 +618,7 @@ export const BADGES = [
         loc: LOC_IRON_BAY,
         mis: MIS_ASH_AND_ORE,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_furnace_03_soulenergy_throw_guard_into_pit',
@@ -626,7 +626,7 @@ export const BADGES = [
         loc: LOC_IRON_BAY,
         mis: MIS_ASH_AND_ORE,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_generic_finish_mission',
@@ -634,7 +634,7 @@ export const BADGES = [
         loc: LOC_IRON_BAY,
         mis: MIS_TERESAS_LAMENT_CH1,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_furnace_04_snp_kill_all_in_zen_garden',
@@ -642,7 +642,7 @@ export const BADGES = [
         loc: LOC_IRON_BAY,
         mis: MIS_TERESAS_LAMENT_CH1,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_furnace_04_snp_limited_charset',
@@ -650,7 +650,7 @@ export const BADGES = [
         loc: LOC_IRON_BAY,
         mis: MIS_TERESAS_LAMENT_CH1,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_generic_no_climb',
@@ -658,7 +658,7 @@ export const BADGES = [
         loc: LOC_IRON_BAY,
         mis: MIS_TERESAS_LAMENT_CH1,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_furnace_04_snp_no_doors',
@@ -666,7 +666,7 @@ export const BADGES = [
         loc: LOC_IRON_BAY,
         mis: MIS_TERESAS_LAMENT_CH1,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_generic_no_guns',
@@ -674,7 +674,7 @@ export const BADGES = [
         loc: LOC_IRON_BAY,
         mis: MIS_TERESAS_LAMENT_CH1,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_generic_finish_mission',
@@ -682,7 +682,7 @@ export const BADGES = [
         loc: LOC_IRON_BAY,
         mis: MIS_QUENTINS_HUNT_CH2,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_furnace_05_fsh_kill_freezer_no_enter_prison',
@@ -690,7 +690,7 @@ export const BADGES = [
         loc: LOC_IRON_BAY,
         mis: MIS_QUENTINS_HUNT_CH2,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_generic_no_alarm',
@@ -698,7 +698,7 @@ export const BADGES = [
         loc: LOC_IRON_BAY,
         mis: MIS_QUENTINS_HUNT_CH2,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_furnace_05_fsh_no_bridge',
@@ -706,7 +706,7 @@ export const BADGES = [
         loc: LOC_IRON_BAY,
         mis: MIS_QUENTINS_HUNT_CH2,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_generic_no_bushes',
@@ -714,7 +714,7 @@ export const BADGES = [
         loc: LOC_IRON_BAY,
         mis: MIS_QUENTINS_HUNT_CH2,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_fortress_02_mission2_no_planning',
@@ -722,7 +722,7 @@ export const BADGES = [
         loc: LOC_IRON_BAY,
         mis: MIS_QUENTINS_HUNT_CH2,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_loc_generic_all_exits',
@@ -730,7 +730,7 @@ export const BADGES = [
         loc: LOC_TWINS,
         mis: null,
         crew: null,
-        steps: 0,
+        steps: 2,
     },
     {
         name: 'badge_loc_generic_all_spawns',
@@ -738,7 +738,7 @@ export const BADGES = [
         loc: LOC_TWINS,
         mis: null,
         crew: null,
-        steps: 0,
+        steps: 2,
     },
     {
         name: 'badge_loc_pillars_kill_from_ground_to_top',
@@ -746,7 +746,7 @@ export const BADGES = [
         loc: LOC_TWINS,
         mis: null,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_loc_pillars_no_kill',
@@ -754,7 +754,7 @@ export const BADGES = [
         loc: LOC_TWINS,
         mis: null,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_loc_pillars_switcheroo',
@@ -762,7 +762,7 @@ export const BADGES = [
         loc: LOC_TWINS,
         mis: null,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_loc_pillars_use_bottle',
@@ -770,7 +770,7 @@ export const BADGES = [
         loc: LOC_TWINS,
         mis: null,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_loc_pillars_use_door',
@@ -778,7 +778,7 @@ export const BADGES = [
         loc: LOC_TWINS,
         mis: null,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_generic_finish_mission',
@@ -786,7 +786,7 @@ export const BADGES = [
         loc: LOC_TWINS,
         mis: MIS_PREPARE_FOR_TROUBLE,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_pillars_01_mission1_hide_in_both_bushes',
@@ -794,7 +794,7 @@ export const BADGES = [
         loc: LOC_TWINS,
         mis: MIS_PREPARE_FOR_TROUBLE,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_pillars_01_mission1_hide_in_bushes',
@@ -802,7 +802,7 @@ export const BADGES = [
         loc: LOC_TWINS,
         mis: MIS_PREPARE_FOR_TROUBLE,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_generic_no_bushes',
@@ -810,7 +810,7 @@ export const BADGES = [
         loc: LOC_TWINS,
         mis: MIS_PREPARE_FOR_TROUBLE,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_pillars_01_mission1_no_cave',
@@ -818,7 +818,7 @@ export const BADGES = [
         loc: LOC_TWINS,
         mis: MIS_PREPARE_FOR_TROUBLE,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_pillars_01_mission1_no_kill_monks',
@@ -826,7 +826,7 @@ export const BADGES = [
         loc: LOC_TWINS,
         mis: MIS_PREPARE_FOR_TROUBLE,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_generic_finish_mission',
@@ -834,7 +834,7 @@ export const BADGES = [
         loc: LOC_TWINS,
         mis: MIS_JOHNS_REVENGE_CH1,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_pillars_02_gcw_kill_all_with_lanterns',
@@ -842,7 +842,7 @@ export const BADGES = [
         loc: LOC_TWINS,
         mis: MIS_JOHNS_REVENGE_CH1,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_pillars_02_gcw_limited_dig_in',
@@ -850,7 +850,7 @@ export const BADGES = [
         loc: LOC_TWINS,
         mis: MIS_JOHNS_REVENGE_CH1,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_generic_no_distractions',
@@ -858,7 +858,7 @@ export const BADGES = [
         loc: LOC_TWINS,
         mis: MIS_JOHNS_REVENGE_CH1,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_generic_no_lights_extinguished',
@@ -866,7 +866,7 @@ export const BADGES = [
         loc: LOC_TWINS,
         mis: MIS_JOHNS_REVENGE_CH1,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_generic_no_swim',
@@ -874,7 +874,7 @@ export const BADGES = [
         loc: LOC_TWINS,
         mis: MIS_JOHNS_REVENGE_CH1,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_loc_generic_all_exits',
@@ -882,7 +882,7 @@ export const BADGES = [
         loc: LOC_ISLE_OF_PENANCE,
         mis: null,
         crew: null,
-        steps: 0,
+        steps: 2,
     },
     {
         name: 'badge_loc_generic_all_spawns',
@@ -890,7 +890,7 @@ export const BADGES = [
         loc: LOC_ISLE_OF_PENANCE,
         mis: null,
         crew: null,
-        steps: 0,
+        steps: 2,
     },
     {
         name: 'badge_loc_sfort_chain_reaction',
@@ -898,7 +898,7 @@ export const BADGES = [
         loc: LOC_ISLE_OF_PENANCE,
         mis: null,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_loc_sfort_kill_all_within_time',
@@ -906,7 +906,7 @@ export const BADGES = [
         loc: LOC_ISLE_OF_PENANCE,
         mis: null,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_loc_sfort_kill_ship_guard',
@@ -914,7 +914,7 @@ export const BADGES = [
         loc: LOC_ISLE_OF_PENANCE,
         mis: null,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_loc_sfort_firecracker_storage',
@@ -922,7 +922,7 @@ export const BADGES = [
         loc: LOC_ISLE_OF_PENANCE,
         mis: null,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_loc_sfort_throw_into_body_hatch',
@@ -930,7 +930,7 @@ export const BADGES = [
         loc: LOC_ISLE_OF_PENANCE,
         mis: null,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_generic_finish_mission',
@@ -938,7 +938,7 @@ export const BADGES = [
         loc: LOC_ISLE_OF_PENANCE,
         mis: MIS_BONE_AND_FINGERS,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_generic_no_climb',
@@ -946,7 +946,7 @@ export const BADGES = [
         loc: LOC_ISLE_OF_PENANCE,
         mis: MIS_BONE_AND_FINGERS,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_generic_no_doors',
@@ -954,7 +954,7 @@ export const BADGES = [
         loc: LOC_ISLE_OF_PENANCE,
         mis: MIS_BONE_AND_FINGERS,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_sfort_01_mission1_no_enter_tower',
@@ -962,7 +962,7 @@ export const BADGES = [
         loc: LOC_ISLE_OF_PENANCE,
         mis: MIS_BONE_AND_FINGERS,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_sfort_01_mission1_no_kill_or_ko_monk',
@@ -970,7 +970,7 @@ export const BADGES = [
         loc: LOC_ISLE_OF_PENANCE,
         mis: MIS_BONE_AND_FINGERS,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_sfort_01_mission1_no_kill_or_ko_outside_fort',
@@ -978,7 +978,7 @@ export const BADGES = [
         loc: LOC_ISLE_OF_PENANCE,
         mis: MIS_BONE_AND_FINGERS,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_loc_generic_all_exits',
@@ -986,7 +986,7 @@ export const BADGES = [
         loc: LOC_DREAD_VINE,
         mis: null,
         crew: null,
-        steps: 0,
+        steps: 4,
     },
     {
         name: 'badge_loc_generic_all_missions',
@@ -994,7 +994,7 @@ export const BADGES = [
         loc: LOC_DREAD_VINE,
         mis: null,
         crew: null,
-        steps: 0,
+        steps: 4,
     },
     {
         name: 'badge_loc_generic_all_spawns',
@@ -1002,7 +1002,7 @@ export const BADGES = [
         loc: LOC_DREAD_VINE,
         mis: null,
         crew: null,
-        steps: 0,
+        steps: 4,
     },
     {
         name: 'badge_loc_ritual_concurrent_visit_inquisition_towers',
@@ -1010,7 +1010,7 @@ export const BADGES = [
         loc: LOC_DREAD_VINE,
         mis: null,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_loc_ritual_find_hidden_grotto',
@@ -1018,7 +1018,7 @@ export const BADGES = [
         loc: LOC_DREAD_VINE,
         mis: null,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_loc_generic_kill_all',
@@ -1026,7 +1026,7 @@ export const BADGES = [
         loc: LOC_DREAD_VINE,
         mis: null,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_loc_ritual_kill_by_toxic_plants',
@@ -1034,7 +1034,7 @@ export const BADGES = [
         loc: LOC_DREAD_VINE,
         mis: null,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_loc_ritual_kill_custodes',
@@ -1042,7 +1042,7 @@ export const BADGES = [
         loc: LOC_DREAD_VINE,
         mis: null,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_loc_ritual_throw_feed_dreadvine',
@@ -1050,7 +1050,7 @@ export const BADGES = [
         loc: LOC_DREAD_VINE,
         mis: null,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_loc_ritual_visit_highest_point',
@@ -1058,7 +1058,7 @@ export const BADGES = [
         loc: LOC_DREAD_VINE,
         mis: null,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_ritual_01_mission1_collect_all_echoes',
@@ -1066,7 +1066,7 @@ export const BADGES = [
         loc: LOC_DREAD_VINE,
         mis: MIS_FRUITS_OF_HER_LABOR,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_generic_finish_mission',
@@ -1074,7 +1074,7 @@ export const BADGES = [
         loc: LOC_DREAD_VINE,
         mis: MIS_FRUITS_OF_HER_LABOR,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_ritual_01_mission1_kill_all_in_camp',
@@ -1082,7 +1082,7 @@ export const BADGES = [
         loc: LOC_DREAD_VINE,
         mis: MIS_FRUITS_OF_HER_LABOR,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_generic_no_bushes',
@@ -1090,7 +1090,7 @@ export const BADGES = [
         loc: LOC_DREAD_VINE,
         mis: MIS_FRUITS_OF_HER_LABOR,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_generic_no_lights_extinguished',
@@ -1098,7 +1098,7 @@ export const BADGES = [
         loc: LOC_DREAD_VINE,
         mis: MIS_FRUITS_OF_HER_LABOR,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_ritual_01_mission1_steal_key_without_kill_or_ko',
@@ -1106,7 +1106,7 @@ export const BADGES = [
         loc: LOC_DREAD_VINE,
         mis: MIS_FRUITS_OF_HER_LABOR,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_generic_finish_mission',
@@ -1114,7 +1114,7 @@ export const BADGES = [
         loc: LOC_DREAD_VINE,
         mis: MIS_BARK_AND_BRAMBLE,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_ritual_02_mission2_limited_charset',
@@ -1122,7 +1122,7 @@ export const BADGES = [
         loc: LOC_DREAD_VINE,
         mis: MIS_BARK_AND_BRAMBLE,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_ritual_02_mission2_no_kill_or_ko_on_beach',
@@ -1130,7 +1130,7 @@ export const BADGES = [
         loc: LOC_DREAD_VINE,
         mis: MIS_BARK_AND_BRAMBLE,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_ritual_02_mission2_no_multiple_chars_on_beach',
@@ -1138,7 +1138,7 @@ export const BADGES = [
         loc: LOC_DREAD_VINE,
         mis: MIS_BARK_AND_BRAMBLE,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_generic_no_swim',
@@ -1146,7 +1146,7 @@ export const BADGES = [
         loc: LOC_DREAD_VINE,
         mis: MIS_BARK_AND_BRAMBLE,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_ritual_02_mission2_search_creates_simultaneous',
@@ -1154,7 +1154,7 @@ export const BADGES = [
         loc: LOC_DREAD_VINE,
         mis: MIS_BARK_AND_BRAMBLE,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_generic_finish_mission',
@@ -1162,7 +1162,7 @@ export const BADGES = [
         loc: LOC_DREAD_VINE,
         mis: MIS_HAGGLING_WITH_A_PLANT,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_generic_no_alarm',
@@ -1170,7 +1170,7 @@ export const BADGES = [
         loc: LOC_DREAD_VINE,
         mis: MIS_HAGGLING_WITH_A_PLANT,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_ritual_03_mission3_no_bridges',
@@ -1178,7 +1178,7 @@ export const BADGES = [
         loc: LOC_DREAD_VINE,
         mis: MIS_HAGGLING_WITH_A_PLANT,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_generic_no_bushes',
@@ -1186,7 +1186,7 @@ export const BADGES = [
         loc: LOC_DREAD_VINE,
         mis: MIS_HAGGLING_WITH_A_PLANT,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_ritual_03_mission3_no_multiple_chars_on_island',
@@ -1194,7 +1194,7 @@ export const BADGES = [
         loc: LOC_DREAD_VINE,
         mis: MIS_HAGGLING_WITH_A_PLANT,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_ritual_03_mission3_solo_kill_targets_no_alarm',
@@ -1202,7 +1202,7 @@ export const BADGES = [
         loc: LOC_DREAD_VINE,
         mis: MIS_HAGGLING_WITH_A_PLANT,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_ritual_04_bsp_feed_dread_vine',
@@ -1210,7 +1210,7 @@ export const BADGES = [
         loc: LOC_DREAD_VINE,
         mis: MIS_SULEIDYS_CURE,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_generic_finish_mission',
@@ -1218,7 +1218,7 @@ export const BADGES = [
         loc: LOC_DREAD_VINE,
         mis: MIS_SULEIDYS_CURE,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_ritual_04_bsp_kill_freezer_bsp',
@@ -1226,7 +1226,7 @@ export const BADGES = [
         loc: LOC_DREAD_VINE,
         mis: MIS_SULEIDYS_CURE,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_ritual_04_bsp_kill_monks_bsp',
@@ -1234,7 +1234,7 @@ export const BADGES = [
         loc: LOC_DREAD_VINE,
         mis: MIS_SULEIDYS_CURE,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_ritual_04_bsp_no_kill_before_examination',
@@ -1242,7 +1242,7 @@ export const BADGES = [
         loc: LOC_DREAD_VINE,
         mis: MIS_SULEIDYS_CURE,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_generic_no_load',
@@ -1250,7 +1250,7 @@ export const BADGES = [
         loc: LOC_DREAD_VINE,
         mis: MIS_SULEIDYS_CURE,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_loc_generic_all_exits',
@@ -1258,7 +1258,7 @@ export const BADGES = [
         loc: LOC_GRAN_ALCAZAR,
         mis: null,
         crew: null,
-        steps: 0,
+        steps: 4,
     },
     {
         name: 'badge_loc_generic_all_missions',
@@ -1266,7 +1266,7 @@ export const BADGES = [
         loc: LOC_GRAN_ALCAZAR,
         mis: null,
         crew: null,
-        steps: 0,
+        steps: 4,
     },
     {
         name: 'badge_loc_generic_all_spawns',
@@ -1274,7 +1274,7 @@ export const BADGES = [
         loc: LOC_GRAN_ALCAZAR,
         mis: null,
         crew: null,
-        steps: 0,
+        steps: 4,
     },
     {
         name: 'badge_loc_fortress_conquer_island',
@@ -1282,7 +1282,7 @@ export const BADGES = [
         loc: LOC_GRAN_ALCAZAR,
         mis: null,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_loc_fortress_hopeless_blacksmith',
@@ -1290,7 +1290,7 @@ export const BADGES = [
         loc: LOC_GRAN_ALCAZAR,
         mis: null,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_loc_generic_kill_all',
@@ -1298,7 +1298,7 @@ export const BADGES = [
         loc: LOC_GRAN_ALCAZAR,
         mis: null,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_loc_fortress_kill_all_and_only_bell_guards',
@@ -1306,7 +1306,7 @@ export const BADGES = [
         loc: LOC_GRAN_ALCAZAR,
         mis: null,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_loc_fortress_kill_lonely_sharpshooter',
@@ -1314,7 +1314,7 @@ export const BADGES = [
         loc: LOC_GRAN_ALCAZAR,
         mis: null,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_loc_fortress_kill_sharpshooter_within_time',
@@ -1322,7 +1322,7 @@ export const BADGES = [
         loc: LOC_GRAN_ALCAZAR,
         mis: null,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_loc_fortress_zen_garden',
@@ -1330,7 +1330,7 @@ export const BADGES = [
         loc: LOC_GRAN_ALCAZAR,
         mis: null,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_generic_finish_mission',
@@ -1338,7 +1338,7 @@ export const BADGES = [
         loc: LOC_GRAN_ALCAZAR,
         mis: MIS_INTO_THE_LIONS_DEN,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_fortress_01_mission1_kill_custodes_three_times',
@@ -1346,7 +1346,7 @@ export const BADGES = [
         loc: LOC_GRAN_ALCAZAR,
         mis: MIS_INTO_THE_LIONS_DEN,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_fortress_01_mission1_kill_or_ko_only_melee',
@@ -1354,7 +1354,7 @@ export const BADGES = [
         loc: LOC_GRAN_ALCAZAR,
         mis: MIS_INTO_THE_LIONS_DEN,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_fortress_01_mission1_kill_sharpshooter_within_time',
@@ -1362,7 +1362,7 @@ export const BADGES = [
         loc: LOC_GRAN_ALCAZAR,
         mis: MIS_INTO_THE_LIONS_DEN,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_generic_no_distractions',
@@ -1370,7 +1370,7 @@ export const BADGES = [
         loc: LOC_GRAN_ALCAZAR,
         mis: MIS_INTO_THE_LIONS_DEN,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_generic_no_lights_extinguished',
@@ -1378,7 +1378,7 @@ export const BADGES = [
         loc: LOC_GRAN_ALCAZAR,
         mis: MIS_INTO_THE_LIONS_DEN,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_fortress_02_mission2_avoid_forced_unleash',
@@ -1386,7 +1386,7 @@ export const BADGES = [
         loc: LOC_GRAN_ALCAZAR,
         mis: MIS_IGNACIA_UNLEASHED,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_generic_finish_mission',
@@ -1394,7 +1394,7 @@ export const BADGES = [
         loc: LOC_GRAN_ALCAZAR,
         mis: MIS_IGNACIA_UNLEASHED,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_generic_no_alarm',
@@ -1402,7 +1402,7 @@ export const BADGES = [
         loc: LOC_GRAN_ALCAZAR,
         mis: MIS_IGNACIA_UNLEASHED,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_fortress_02_mission2_no_barracks_or_scriptorium',
@@ -1410,7 +1410,7 @@ export const BADGES = [
         loc: LOC_GRAN_ALCAZAR,
         mis: MIS_IGNACIA_UNLEASHED,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_generic_no_bushes',
@@ -1418,7 +1418,7 @@ export const BADGES = [
         loc: LOC_GRAN_ALCAZAR,
         mis: MIS_IGNACIA_UNLEASHED,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_fortress_02_mission2_no_planning',
@@ -1426,7 +1426,7 @@ export const BADGES = [
         loc: LOC_GRAN_ALCAZAR,
         mis: MIS_IGNACIA_UNLEASHED,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_generic_finish_mission',
@@ -1434,7 +1434,7 @@ export const BADGES = [
         loc: LOC_GRAN_ALCAZAR,
         mis: MIS_PINKUS_DUTY_CH2,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_fortress_03_ovt_kill_monks_scriptorium',
@@ -1442,7 +1442,7 @@ export const BADGES = [
         loc: LOC_GRAN_ALCAZAR,
         mis: MIS_PINKUS_DUTY_CH2,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_fortress_03_ovt_no_overtake_until_ceremony',
@@ -1450,7 +1450,7 @@ export const BADGES = [
         loc: LOC_GRAN_ALCAZAR,
         mis: MIS_PINKUS_DUTY_CH2,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_fortress_03_ovt_priest_first',
@@ -1458,7 +1458,7 @@ export const BADGES = [
         loc: LOC_GRAN_ALCAZAR,
         mis: MIS_PINKUS_DUTY_CH2,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_generic_solo_ovt',
@@ -1466,7 +1466,7 @@ export const BADGES = [
         loc: LOC_GRAN_ALCAZAR,
         mis: MIS_PINKUS_DUTY_CH2,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_fortress_03_ovt_start_burial_as_priest',
@@ -1474,7 +1474,7 @@ export const BADGES = [
         loc: LOC_GRAN_ALCAZAR,
         mis: MIS_PINKUS_DUTY_CH2,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_generic_finish_mission',
@@ -1482,7 +1482,7 @@ export const BADGES = [
         loc: LOC_GRAN_ALCAZAR,
         mis: MIS_TERESAS_LAMENT_CH2,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_fortress_04_snp_judgement_before_confessor',
@@ -1490,7 +1490,7 @@ export const BADGES = [
         loc: LOC_GRAN_ALCAZAR,
         mis: MIS_TERESAS_LAMENT_CH2,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_fortress_04_snp_kill_snipe',
@@ -1498,7 +1498,7 @@ export const BADGES = [
         loc: LOC_GRAN_ALCAZAR,
         mis: MIS_TERESAS_LAMENT_CH2,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_fortress_04_snp_limited_charset',
@@ -1506,7 +1506,7 @@ export const BADGES = [
         loc: LOC_GRAN_ALCAZAR,
         mis: MIS_TERESAS_LAMENT_CH2,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_generic_no_alarm',
@@ -1514,7 +1514,7 @@ export const BADGES = [
         loc: LOC_GRAN_ALCAZAR,
         mis: MIS_TERESAS_LAMENT_CH2,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_fortress_04_snp_no_climb_snp',
@@ -1522,7 +1522,7 @@ export const BADGES = [
         loc: LOC_GRAN_ALCAZAR,
         mis: MIS_TERESAS_LAMENT_CH2,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_loc_generic_all_exits',
@@ -1530,7 +1530,7 @@ export const BADGES = [
         loc: LOC_ANGLERS_GRAVE,
         mis: null,
         crew: null,
-        steps: 0,
+        steps: 6,
     },
     {
         name: 'badge_loc_generic_all_missions',
@@ -1538,7 +1538,7 @@ export const BADGES = [
         loc: LOC_ANGLERS_GRAVE,
         mis: null,
         crew: null,
-        steps: 0,
+        steps: 5,
     },
     {
         name: 'badge_loc_generic_all_spawns',
@@ -1546,7 +1546,7 @@ export const BADGES = [
         loc: LOC_ANGLERS_GRAVE,
         mis: null,
         crew: null,
-        steps: 0,
+        steps: 5,
     },
     {
         name: 'badge_loc_shanty_different_exits',
@@ -1554,7 +1554,7 @@ export const BADGES = [
         loc: LOC_ANGLERS_GRAVE,
         mis: null,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_loc_shanty_head_to_tail',
@@ -1562,7 +1562,7 @@ export const BADGES = [
         loc: LOC_ANGLERS_GRAVE,
         mis: null,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_loc_shanty_kill_all_in_fortress',
@@ -1570,7 +1570,7 @@ export const BADGES = [
         loc: LOC_ANGLERS_GRAVE,
         mis: null,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_loc_shanty_kill_knocking_enemy',
@@ -1578,7 +1578,7 @@ export const BADGES = [
         loc: LOC_ANGLERS_GRAVE,
         mis: null,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_loc_shanty_throw_freezer_into_water',
@@ -1586,7 +1586,7 @@ export const BADGES = [
         loc: LOC_ANGLERS_GRAVE,
         mis: null,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_loc_shanty_use_all_graves',
@@ -1594,7 +1594,7 @@ export const BADGES = [
         loc: LOC_ANGLERS_GRAVE,
         mis: null,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_loc_shanty_visit_crows_nest',
@@ -1602,7 +1602,7 @@ export const BADGES = [
         loc: LOC_ANGLERS_GRAVE,
         mis: null,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_generic_finish_mission',
@@ -1610,7 +1610,7 @@ export const BADGES = [
         loc: LOC_ANGLERS_GRAVE,
         mis: MIS_GRAVEYARD_HAUNT,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_shanty_03_mission3_limited_charset',
@@ -1618,7 +1618,7 @@ export const BADGES = [
         loc: LOC_ANGLERS_GRAVE,
         mis: MIS_GRAVEYARD_HAUNT,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_generic_no_alarm',
@@ -1626,7 +1626,7 @@ export const BADGES = [
         loc: LOC_ANGLERS_GRAVE,
         mis: MIS_GRAVEYARD_HAUNT,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_shanty_03_mission3_no_graveyard',
@@ -1634,7 +1634,7 @@ export const BADGES = [
         loc: LOC_ANGLERS_GRAVE,
         mis: MIS_GRAVEYARD_HAUNT,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_generic_no_load',
@@ -1642,7 +1642,7 @@ export const BADGES = [
         loc: LOC_ANGLERS_GRAVE,
         mis: MIS_GRAVEYARD_HAUNT,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_shanty_03_mission3_solo_graveyard',
@@ -1650,7 +1650,7 @@ export const BADGES = [
         loc: LOC_ANGLERS_GRAVE,
         mis: MIS_GRAVEYARD_HAUNT,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_generic_finish_mission',
@@ -1658,7 +1658,7 @@ export const BADGES = [
         loc: LOC_ANGLERS_GRAVE,
         mis: MIS_THE_KUMQUAT_CONNECTION,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_shanty_04_mission4_no_climb_agile',
@@ -1666,7 +1666,7 @@ export const BADGES = [
         loc: LOC_ANGLERS_GRAVE,
         mis: MIS_THE_KUMQUAT_CONNECTION,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_generic_no_distractions',
@@ -1674,7 +1674,7 @@ export const BADGES = [
         loc: LOC_ANGLERS_GRAVE,
         mis: MIS_THE_KUMQUAT_CONNECTION,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_shanty_04_mission4_no_kill_or_ko_sharpshooter',
@@ -1682,7 +1682,7 @@ export const BADGES = [
         loc: LOC_ANGLERS_GRAVE,
         mis: MIS_THE_KUMQUAT_CONNECTION,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_shanty_04_mission4_no_outer_fort_ring',
@@ -1690,7 +1690,7 @@ export const BADGES = [
         loc: LOC_ANGLERS_GRAVE,
         mis: MIS_THE_KUMQUAT_CONNECTION,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_shanty_04_mission4_shoot_beschwerdetisch',
@@ -1698,7 +1698,7 @@ export const BADGES = [
         loc: LOC_ANGLERS_GRAVE,
         mis: MIS_THE_KUMQUAT_CONNECTION,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_shanty_05_cnn_arimtrice_garden',
@@ -1706,7 +1706,7 @@ export const BADGES = [
         loc: LOC_ANGLERS_GRAVE,
         mis: MIS_GAELLES_LETTER_CH2,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_generic_finish_mission',
@@ -1714,7 +1714,7 @@ export const BADGES = [
         loc: LOC_ANGLERS_GRAVE,
         mis: MIS_GAELLES_LETTER_CH2,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_generic_no_climb',
@@ -1722,7 +1722,7 @@ export const BADGES = [
         loc: LOC_ANGLERS_GRAVE,
         mis: MIS_GAELLES_LETTER_CH2,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_shanty_05_cnn_no_drop_arimtrice',
@@ -1730,7 +1730,7 @@ export const BADGES = [
         loc: LOC_ANGLERS_GRAVE,
         mis: MIS_GAELLES_LETTER_CH2,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_shanty_05_cnn_no_whistlestone',
@@ -1738,7 +1738,7 @@ export const BADGES = [
         loc: LOC_ANGLERS_GRAVE,
         mis: MIS_GAELLES_LETTER_CH2,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_generic_solo_cnn',
@@ -1746,7 +1746,7 @@ export const BADGES = [
         loc: LOC_ANGLERS_GRAVE,
         mis: MIS_GAELLES_LETTER_CH2,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_generic_finish_mission',
@@ -1754,7 +1754,7 @@ export const BADGES = [
         loc: LOC_ANGLERS_GRAVE,
         mis: MIS_JOHNS_REVENGE_CH2,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_shanty_06_gcw_kill_all_at_pub',
@@ -1762,7 +1762,7 @@ export const BADGES = [
         loc: LOC_ANGLERS_GRAVE,
         mis: MIS_JOHNS_REVENGE_CH2,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_shanty_06_gcw_ledger',
@@ -1770,7 +1770,7 @@ export const BADGES = [
         loc: LOC_ANGLERS_GRAVE,
         mis: MIS_JOHNS_REVENGE_CH2,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_generic_no_load',
@@ -1778,7 +1778,7 @@ export const BADGES = [
         loc: LOC_ANGLERS_GRAVE,
         mis: MIS_JOHNS_REVENGE_CH2,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_generic_no_three_chars',
@@ -1786,7 +1786,7 @@ export const BADGES = [
         loc: LOC_ANGLERS_GRAVE,
         mis: MIS_JOHNS_REVENGE_CH2,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_shanty_06_gcw_yolanda',
@@ -1794,7 +1794,7 @@ export const BADGES = [
         loc: LOC_ANGLERS_GRAVE,
         mis: MIS_JOHNS_REVENGE_CH2,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_generic_finish_mission',
@@ -1802,7 +1802,7 @@ export const BADGES = [
         loc: LOC_ANGLERS_GRAVE,
         mis: MIS_TOYAS_PERFECTION_CH1,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_shanty_07_tpb_merchant_a',
@@ -1810,7 +1810,7 @@ export const BADGES = [
         loc: LOC_ANGLERS_GRAVE,
         mis: MIS_TOYAS_PERFECTION_CH1,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_shanty_07_tpb_merchant_b',
@@ -1818,7 +1818,7 @@ export const BADGES = [
         loc: LOC_ANGLERS_GRAVE,
         mis: MIS_TOYAS_PERFECTION_CH1,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_shanty_07_tpb_no_climb_tpb',
@@ -1826,7 +1826,7 @@ export const BADGES = [
         loc: LOC_ANGLERS_GRAVE,
         mis: MIS_TOYAS_PERFECTION_CH1,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_generic_no_kill_or_ko',
@@ -1834,7 +1834,7 @@ export const BADGES = [
         loc: LOC_ANGLERS_GRAVE,
         mis: MIS_TOYAS_PERFECTION_CH1,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_generic_solo_tpb',
@@ -1842,7 +1842,7 @@ export const BADGES = [
         loc: LOC_ANGLERS_GRAVE,
         mis: MIS_TOYAS_PERFECTION_CH1,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_loc_generic_all_exits',
@@ -1850,7 +1850,7 @@ export const BADGES = [
         loc: LOC_CALAMITY_REEF,
         mis: null,
         crew: null,
-        steps: 0,
+        steps: 4,
     },
     {
         name: 'badge_loc_generic_all_missions',
@@ -1858,7 +1858,7 @@ export const BADGES = [
         loc: LOC_CALAMITY_REEF,
         mis: null,
         crew: null,
-        steps: 0,
+        steps: 5,
     },
     {
         name: 'badge_loc_generic_all_spawns',
@@ -1866,7 +1866,7 @@ export const BADGES = [
         loc: LOC_CALAMITY_REEF,
         mis: null,
         crew: null,
-        steps: 0,
+        steps: 4,
     },
     {
         name: 'badge_loc_bfield_go_fishing',
@@ -1874,7 +1874,7 @@ export const BADGES = [
         loc: LOC_CALAMITY_REEF,
         mis: null,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_loc_generic_kill_all',
@@ -1882,7 +1882,7 @@ export const BADGES = [
         loc: LOC_CALAMITY_REEF,
         mis: null,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_loc_bfield_kill_by_envkills_within_time',
@@ -1890,7 +1890,7 @@ export const BADGES = [
         loc: LOC_CALAMITY_REEF,
         mis: null,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_loc_bfield_lure_by_footprints_into_envkill',
@@ -1898,7 +1898,7 @@ export const BADGES = [
         loc: LOC_CALAMITY_REEF,
         mis: null,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_loc_bfield_no_water',
@@ -1906,7 +1906,7 @@ export const BADGES = [
         loc: LOC_CALAMITY_REEF,
         mis: null,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_loc_bfield_throw_monks_into_fire',
@@ -1914,7 +1914,7 @@ export const BADGES = [
         loc: LOC_CALAMITY_REEF,
         mis: null,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_loc_bfield_visit_lighthouse_top',
@@ -1922,7 +1922,7 @@ export const BADGES = [
         loc: LOC_CALAMITY_REEF,
         mis: null,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_generic_finish_mission',
@@ -1930,7 +1930,7 @@ export const BADGES = [
         loc: LOC_CALAMITY_REEF,
         mis: MIS_LIGHTHOUSE_LOCUTIONS,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_bfield_01_pearl_kill_freezer_before_lighthouse',
@@ -1938,7 +1938,7 @@ export const BADGES = [
         loc: LOC_CALAMITY_REEF,
         mis: MIS_LIGHTHOUSE_LOCUTIONS,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_bfield_01_pearl_kill_on_lighthouse',
@@ -1946,7 +1946,7 @@ export const BADGES = [
         loc: LOC_CALAMITY_REEF,
         mis: MIS_LIGHTHOUSE_LOCUTIONS,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_bfield_01_pearl_no_bridges',
@@ -1954,7 +1954,7 @@ export const BADGES = [
         loc: LOC_CALAMITY_REEF,
         mis: MIS_LIGHTHOUSE_LOCUTIONS,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_generic_no_bushes',
@@ -1962,7 +1962,7 @@ export const BADGES = [
         loc: LOC_CALAMITY_REEF,
         mis: MIS_LIGHTHOUSE_LOCUTIONS,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_generic_no_climb',
@@ -1970,7 +1970,7 @@ export const BADGES = [
         loc: LOC_CALAMITY_REEF,
         mis: MIS_LIGHTHOUSE_LOCUTIONS,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_generic_finish_mission',
@@ -1978,7 +1978,7 @@ export const BADGES = [
         loc: LOC_CALAMITY_REEF,
         mis: MIS_SMALL_CREW_BIG_PLANS,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_generic_no_kill_or_ko',
@@ -1986,7 +1986,7 @@ export const BADGES = [
         loc: LOC_CALAMITY_REEF,
         mis: MIS_SMALL_CREW_BIG_PLANS,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_bfield_02_soulenergy_no_kill_or_ko_sharpshooter',
@@ -1994,7 +1994,7 @@ export const BADGES = [
         loc: LOC_CALAMITY_REEF,
         mis: MIS_SMALL_CREW_BIG_PLANS,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_generic_no_three_chars',
@@ -2002,7 +2002,7 @@ export const BADGES = [
         loc: LOC_CALAMITY_REEF,
         mis: MIS_SMALL_CREW_BIG_PLANS,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_bfield_02_soulenergy_soul_trace_b',
@@ -2010,7 +2010,7 @@ export const BADGES = [
         loc: LOC_CALAMITY_REEF,
         mis: MIS_SMALL_CREW_BIG_PLANS,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_bfield_02_soulenergy_soul_trace_a',
@@ -2018,7 +2018,7 @@ export const BADGES = [
         loc: LOC_CALAMITY_REEF,
         mis: MIS_SMALL_CREW_BIG_PLANS,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_bfield_03_cnn_cannon_multikill',
@@ -2026,7 +2026,7 @@ export const BADGES = [
         loc: LOC_CALAMITY_REEF,
         mis: MIS_GAELLES_LETTER_CH1,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_generic_finish_mission',
@@ -2034,7 +2034,7 @@ export const BADGES = [
         loc: LOC_CALAMITY_REEF,
         mis: MIS_GAELLES_LETTER_CH1,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_generic_no_alarm',
@@ -2042,7 +2042,7 @@ export const BADGES = [
         loc: LOC_CALAMITY_REEF,
         mis: MIS_GAELLES_LETTER_CH1,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_generic_no_distractions',
@@ -2050,7 +2050,7 @@ export const BADGES = [
         loc: LOC_CALAMITY_REEF,
         mis: MIS_GAELLES_LETTER_CH1,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_bfield_03_cnn_no_kill_or_ko_monks_on_ship',
@@ -2058,7 +2058,7 @@ export const BADGES = [
         loc: LOC_CALAMITY_REEF,
         mis: MIS_GAELLES_LETTER_CH1,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_bfield_03_cnn_solo_ship',
@@ -2066,7 +2066,7 @@ export const BADGES = [
         loc: LOC_CALAMITY_REEF,
         mis: MIS_GAELLES_LETTER_CH1,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_generic_finish_mission',
@@ -2074,7 +2074,7 @@ export const BADGES = [
         loc: LOC_CALAMITY_REEF,
         mis: MIS_TOYAS_PERFECTION_CH2,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_bfield_04_tpb_kill_sam_always_gun',
@@ -2082,7 +2082,7 @@ export const BADGES = [
         loc: LOC_CALAMITY_REEF,
         mis: MIS_TOYAS_PERFECTION_CH2,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_bfield_04_tpb_no_kill',
@@ -2090,7 +2090,7 @@ export const BADGES = [
         loc: LOC_CALAMITY_REEF,
         mis: MIS_TOYAS_PERFECTION_CH2,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_bfield_04_tpb_no_kill_or_ko_monks',
@@ -2098,7 +2098,7 @@ export const BADGES = [
         loc: LOC_CALAMITY_REEF,
         mis: MIS_TOYAS_PERFECTION_CH2,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_generic_no_water',
@@ -2106,7 +2106,7 @@ export const BADGES = [
         loc: LOC_CALAMITY_REEF,
         mis: MIS_TOYAS_PERFECTION_CH2,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_generic_solo_tpb',
@@ -2114,7 +2114,7 @@ export const BADGES = [
         loc: LOC_CALAMITY_REEF,
         mis: MIS_TOYAS_PERFECTION_CH2,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_generic_finish_mission',
@@ -2122,7 +2122,7 @@ export const BADGES = [
         loc: LOC_CALAMITY_REEF,
         mis: MIS_QUENTINS_HUNT,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_bfield_05_fsh_no_fsh_skills_beside_fishing',
@@ -2130,7 +2130,7 @@ export const BADGES = [
         loc: LOC_CALAMITY_REEF,
         mis: MIS_QUENTINS_HUNT,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_generic_no_kill_or_ko',
@@ -2138,7 +2138,7 @@ export const BADGES = [
         loc: LOC_CALAMITY_REEF,
         mis: MIS_QUENTINS_HUNT,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_generic_no_lights_extinguished',
@@ -2146,7 +2146,7 @@ export const BADGES = [
         loc: LOC_CALAMITY_REEF,
         mis: MIS_QUENTINS_HUNT,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_generic_no_load',
@@ -2154,7 +2154,7 @@ export const BADGES = [
         loc: LOC_CALAMITY_REEF,
         mis: MIS_QUENTINS_HUNT,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_bfield_05_fsh_no_second_floor',
@@ -2162,7 +2162,7 @@ export const BADGES = [
         loc: LOC_CALAMITY_REEF,
         mis: MIS_QUENTINS_HUNT,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_generic_finish_mission',
@@ -2170,7 +2170,7 @@ export const BADGES = [
         loc: LOC_MEMORY,
         mis: MIS_MEASURE_IS_UNCEASING,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_granddes_01_mission1_military_first',
@@ -2178,7 +2178,7 @@ export const BADGES = [
         loc: LOC_MEMORY,
         mis: MIS_MEASURE_IS_UNCEASING,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_generic_no_alarm',
@@ -2186,7 +2186,7 @@ export const BADGES = [
         loc: LOC_MEMORY,
         mis: MIS_MEASURE_IS_UNCEASING,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_generic_no_planning',
@@ -2194,7 +2194,7 @@ export const BADGES = [
         loc: LOC_MEMORY,
         mis: MIS_MEASURE_IS_UNCEASING,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_granddes_01_mission1_science_first',
@@ -2202,7 +2202,7 @@ export const BADGES = [
         loc: LOC_MEMORY,
         mis: MIS_MEASURE_IS_UNCEASING,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_mis_granddes_01_mission1_solo_multiple_freezer',
@@ -2210,7 +2210,7 @@ export const BADGES = [
         loc: LOC_MEMORY,
         mis: MIS_MEASURE_IS_UNCEASING,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_cha_generic_finish_mission',
@@ -2226,7 +2226,7 @@ export const BADGES = [
         loc: null,
         mis: null,
         crew: CREW_AFIA,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_cha_bln_kill_during_timefreeze',
@@ -2234,7 +2234,7 @@ export const BADGES = [
         loc: null,
         mis: null,
         crew: CREW_AFIA,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_cha_generic_kill_ko',
@@ -2250,7 +2250,7 @@ export const BADGES = [
         loc: null,
         mis: null,
         crew: CREW_AFIA,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_cha_bln_solo_ritual',
@@ -2258,7 +2258,7 @@ export const BADGES = [
         loc: null,
         mis: null,
         crew: CREW_AFIA,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_cha_bln_timefreeze_in_conversation',
@@ -2266,7 +2266,7 @@ export const BADGES = [
         loc: null,
         mis: null,
         crew: CREW_AFIA,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_cha_bln_travel_blinking',
@@ -2282,7 +2282,7 @@ export const BADGES = [
         loc: null,
         mis: null,
         crew: CREW_AFIA,
-        steps: 0,
+        steps: 5,
     },
     {
         name: 'badge_cha_generic_visit_islands',
@@ -2290,7 +2290,7 @@ export const BADGES = [
         loc: null,
         mis: null,
         crew: CREW_AFIA,
-        steps: 0,
+        steps: 10,
     },
     {
         name: 'badge_cha_bsp_break_up_conversation',
@@ -2298,7 +2298,7 @@ export const BADGES = [
         loc: null,
         mis: null,
         crew: CREW_SULEIDY,
-        steps: 0,
+        steps: 5,
     },
     {
         name: 'badge_cha_generic_finish_mission',
@@ -2322,7 +2322,7 @@ export const BADGES = [
         loc: null,
         mis: null,
         crew: CREW_SULEIDY,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_cha_bsp_hide_player_simultaneously',
@@ -2330,7 +2330,7 @@ export const BADGES = [
         loc: null,
         mis: null,
         crew: CREW_SULEIDY,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_cha_generic_kill_ko',
@@ -2346,7 +2346,7 @@ export const BADGES = [
         loc: null,
         mis: null,
         crew: CREW_SULEIDY,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_cha_generic_visit_islands',
@@ -2354,7 +2354,7 @@ export const BADGES = [
         loc: null,
         mis: null,
         crew: CREW_SULEIDY,
-        steps: 0,
+        steps: 10,
     },
     {
         name: 'badge_cha_bsp_walk_away_distance',
@@ -2370,7 +2370,7 @@ export const BADGES = [
         loc: null,
         mis: null,
         crew: CREW_SULEIDY,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_cha_generic_finish_mission',
@@ -2386,7 +2386,7 @@ export const BADGES = [
         loc: null,
         mis: null,
         crew: CREW_PINKUS,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_cha_generic_kill_ko',
@@ -2402,7 +2402,7 @@ export const BADGES = [
         loc: null,
         mis: null,
         crew: CREW_PINKUS,
-        steps: 0,
+        steps: 10,
     },
     {
         name: 'badge_cha_ovt_overtaken_env_kill',
@@ -2410,7 +2410,7 @@ export const BADGES = [
         loc: null,
         mis: null,
         crew: CREW_PINKUS,
-        steps: 0,
+        steps: 4,
     },
     {
         name: 'badge_cha_ovt_ring_alarm_bell',
@@ -2418,7 +2418,7 @@ export const BADGES = [
         loc: null,
         mis: null,
         crew: CREW_PINKUS,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_cha_ovt_solo_sfort',
@@ -2426,7 +2426,7 @@ export const BADGES = [
         loc: null,
         mis: null,
         crew: CREW_PINKUS,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_cha_ovt_take_me_home',
@@ -2434,7 +2434,7 @@ export const BADGES = [
         loc: null,
         mis: null,
         crew: CREW_PINKUS,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_cha_ovt_travel_overtaken',
@@ -2450,7 +2450,7 @@ export const BADGES = [
         loc: null,
         mis: null,
         crew: CREW_PINKUS,
-        steps: 0,
+        steps: 10,
     },
     {
         name: 'badge_cha_generic_finish_mission',
@@ -2466,7 +2466,7 @@ export const BADGES = [
         loc: null,
         mis: null,
         crew: CREW_TERESA,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_cha_generic_kill_ko',
@@ -2490,7 +2490,7 @@ export const BADGES = [
         loc: null,
         mis: null,
         crew: CREW_TERESA,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_cha_snp_kills_over_distance',
@@ -2498,7 +2498,7 @@ export const BADGES = [
         loc: null,
         mis: null,
         crew: CREW_TERESA,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_cha_snp_kills_within_time',
@@ -2506,7 +2506,7 @@ export const BADGES = [
         loc: null,
         mis: null,
         crew: CREW_TERESA,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_cha_snp_solo_fortress',
@@ -2514,7 +2514,7 @@ export const BADGES = [
         loc: null,
         mis: null,
         crew: CREW_TERESA,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_cha_snp_visit_highest_points',
@@ -2522,7 +2522,7 @@ export const BADGES = [
         loc: null,
         mis: null,
         crew: CREW_TERESA,
-        steps: 0,
+        steps: 10,
     },
     {
         name: 'badge_cha_generic_visit_islands',
@@ -2530,7 +2530,7 @@ export const BADGES = [
         loc: null,
         mis: null,
         crew: CREW_TERESA,
-        steps: 0,
+        steps: 10,
     },
     {
         name: 'badge_cha_generic_finish_mission',
@@ -2554,7 +2554,7 @@ export const BADGES = [
         loc: null,
         mis: null,
         crew: CREW_TOYA,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_cha_tpb_solo_furnace',
@@ -2562,7 +2562,7 @@ export const BADGES = [
         loc: null,
         mis: null,
         crew: CREW_TOYA,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_cha_tpb_teleport_kill_detecting_sharpshooter',
@@ -2570,7 +2570,7 @@ export const BADGES = [
         loc: null,
         mis: null,
         crew: CREW_TOYA,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_cha_tpb_teleport_kill_ko_from_water',
@@ -2578,7 +2578,7 @@ export const BADGES = [
         loc: null,
         mis: null,
         crew: CREW_TOYA,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_cha_tpb_teleport_kill_multi_successive',
@@ -2586,7 +2586,7 @@ export const BADGES = [
         loc: null,
         mis: null,
         crew: CREW_TOYA,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_cha_tpb_teleport_travel',
@@ -2594,7 +2594,7 @@ export const BADGES = [
         loc: null,
         mis: null,
         crew: CREW_TOYA,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_cha_generic_visit_islands',
@@ -2602,7 +2602,7 @@ export const BADGES = [
         loc: null,
         mis: null,
         crew: CREW_TOYA,
-        steps: 0,
+        steps: 10,
     },
     {
         name: 'badge_cha_tpb_whistle_multi_acolytes_monks',
@@ -2610,7 +2610,7 @@ export const BADGES = [
         loc: null,
         mis: null,
         crew: CREW_TOYA,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_cha_fsh_baited',
@@ -2618,7 +2618,7 @@ export const BADGES = [
         loc: null,
         mis: null,
         crew: CREW_QUENTIN,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_cha_fsh_concurrent_tanuki_watchers',
@@ -2626,7 +2626,7 @@ export const BADGES = [
         loc: null,
         mis: null,
         crew: CREW_QUENTIN,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_cha_generic_finish_mission',
@@ -2642,7 +2642,7 @@ export const BADGES = [
         loc: null,
         mis: null,
         crew: CREW_QUENTIN,
-        steps: 0,
+        steps: 4,
     },
     {
         name: 'badge_cha_fsh_fish_hide_bodies',
@@ -2658,7 +2658,7 @@ export const BADGES = [
         loc: null,
         mis: null,
         crew: CREW_QUENTIN,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_cha_generic_kill_ko',
@@ -2674,7 +2674,7 @@ export const BADGES = [
         loc: null,
         mis: null,
         crew: CREW_QUENTIN,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_cha_fsh_solo_trading',
@@ -2682,7 +2682,7 @@ export const BADGES = [
         loc: null,
         mis: null,
         crew: CREW_QUENTIN,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_cha_generic_visit_islands',
@@ -2690,7 +2690,7 @@ export const BADGES = [
         loc: null,
         mis: null,
         crew: CREW_QUENTIN,
-        steps: 0,
+        steps: 10,
     },
     {
         name: 'badge_cha_cnn_carry_players_around',
@@ -2722,7 +2722,7 @@ export const BADGES = [
         loc: null,
         mis: null,
         crew: CREW_GAELLE,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_cha_cnn_long_range_character_pull',
@@ -2730,7 +2730,7 @@ export const BADGES = [
         loc: null,
         mis: null,
         crew: CREW_GAELLE,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_cha_cnn_shoot_char_far_down_into_water',
@@ -2738,7 +2738,7 @@ export const BADGES = [
         loc: null,
         mis: null,
         crew: CREW_GAELLE,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_cha_cnn_shoot_through_burning_ring',
@@ -2746,7 +2746,7 @@ export const BADGES = [
         loc: null,
         mis: null,
         crew: CREW_GAELLE,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_cha_cnn_solo_shanty',
@@ -2754,7 +2754,7 @@ export const BADGES = [
         loc: null,
         mis: null,
         crew: CREW_GAELLE,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_cha_cnn_take_dev_guard_home',
@@ -2762,7 +2762,7 @@ export const BADGES = [
         loc: null,
         mis: null,
         crew: CREW_GAELLE,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_cha_generic_visit_islands',
@@ -2770,7 +2770,7 @@ export const BADGES = [
         loc: null,
         mis: null,
         crew: CREW_GAELLE,
-        steps: 0,
+        steps: 10,
     },
     {
         name: 'badge_cha_gcw_dig_hide_bodies',
@@ -2786,7 +2786,7 @@ export const BADGES = [
         loc: null,
         mis: null,
         crew: CREW_JOHN,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_cha_gcw_dig_kill_freezer',
@@ -2794,7 +2794,7 @@ export const BADGES = [
         loc: null,
         mis: null,
         crew: CREW_JOHN,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_cha_gcw_dig_kills_in_single_mission',
@@ -2802,7 +2802,7 @@ export const BADGES = [
         loc: null,
         mis: null,
         crew: CREW_JOHN,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_cha_gcw_dig_multi_kill',
@@ -2810,7 +2810,7 @@ export const BADGES = [
         loc: null,
         mis: null,
         crew: CREW_JOHN,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_cha_generic_finish_mission',
@@ -2826,7 +2826,7 @@ export const BADGES = [
         loc: null,
         mis: null,
         crew: CREW_JOHN,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_cha_generic_kill_ko',
@@ -2842,7 +2842,7 @@ export const BADGES = [
         loc: null,
         mis: null,
         crew: CREW_JOHN,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_cha_generic_visit_islands',
@@ -2850,7 +2850,7 @@ export const BADGES = [
         loc: null,
         mis: null,
         crew: CREW_JOHN,
-        steps: 0,
+        steps: 10,
     },
     {
         name: 'badge_gen_all_badges',
@@ -2890,7 +2890,7 @@ export const BADGES = [
         loc: null,
         mis: null,
         crew: null,
-        steps: 0,
+        steps: 8,
     },
     {
         name: 'badge_gen_all_char_quests',
@@ -2898,7 +2898,7 @@ export const BADGES = [
         loc: null,
         mis: null,
         crew: null,
-        steps: 0,
+        steps: 7,
     },
     {
         name: 'badge_gen_all_chars_plan_execute_at_once',
@@ -2906,7 +2906,7 @@ export const BADGES = [
         loc: null,
         mis: null,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_gen_cannon_multi_kill',
@@ -2914,7 +2914,7 @@ export const BADGES = [
         loc: null,
         mis: null,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_gen_consecutive_alarm_duration',
@@ -2922,7 +2922,7 @@ export const BADGES = [
         loc: null,
         mis: null,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_gen_enter_marley',
@@ -2930,7 +2930,7 @@ export const BADGES = [
         loc: null,
         mis: null,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_gen_finish_mission_no_distractions',
@@ -2938,7 +2938,7 @@ export const BADGES = [
         loc: null,
         mis: null,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_gen_finish_mission_speedrun_any',
@@ -2946,7 +2946,7 @@ export const BADGES = [
         loc: null,
         mis: null,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_gen_finish_missions_hard_or_hardcore',
@@ -2954,7 +2954,7 @@ export const BADGES = [
         loc: null,
         mis: null,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_gen_finish_missions_no_alarms',
@@ -2962,7 +2962,7 @@ export const BADGES = [
         loc: null,
         mis: null,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_gen_finish_missions_no_kills',
@@ -2970,7 +2970,7 @@ export const BADGES = [
         loc: null,
         mis: null,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_gen_hide_bodies',
@@ -2978,7 +2978,7 @@ export const BADGES = [
         loc: null,
         mis: null,
         crew: null,
-        steps: 3,
+        steps: 4,
     },
     {
         name: 'badge_gen_hub_all_char_upgrades_unlocked',
@@ -2986,7 +2986,7 @@ export const BADGES = [
         loc: null,
         mis: null,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_gen_hub_all_chars_in_water',
@@ -2994,7 +2994,7 @@ export const BADGES = [
         loc: null,
         mis: null,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_gen_hub_all_chars_unlocked',
@@ -3002,7 +3002,7 @@ export const BADGES = [
         loc: null,
         mis: null,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_gen_hub_all_lights_extinguished_simultaneous',
@@ -3010,7 +3010,7 @@ export const BADGES = [
         loc: null,
         mis: null,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_gen_hub_all_questlines_finished',
@@ -3018,7 +3018,7 @@ export const BADGES = [
         loc: null,
         mis: null,
         crew: null,
-        steps: 0,
+        steps: 7,
     },
     {
         name: 'badge_gen_hub_kill_all_skeletons_before_revive',
@@ -3026,7 +3026,7 @@ export const BADGES = [
         loc: null,
         mis: null,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_gen_hub_run_on_ship_from_end_to_end',
@@ -3034,7 +3034,7 @@ export const BADGES = [
         loc: null,
         mis: null,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_gen_hub_shoot_skeleton_in_water',
@@ -3042,7 +3042,7 @@ export const BADGES = [
         loc: null,
         mis: null,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_gen_hub_unlock_trk',
@@ -3050,7 +3050,7 @@ export const BADGES = [
         loc: null,
         mis: null,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_gen_kill_devs',
@@ -3058,7 +3058,7 @@ export const BADGES = [
         loc: null,
         mis: null,
         crew: null,
-        steps: 0,
+        steps: 45,
     },
     {
         name: 'badge_gen_kill_enemies_environment',
@@ -3074,7 +3074,7 @@ export const BADGES = [
         loc: null,
         mis: null,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_gen_kill_or_ko_enemies',
@@ -3090,7 +3090,7 @@ export const BADGES = [
         loc: null,
         mis: null,
         crew: null,
-        steps: 0,
+        steps: 1,
     },
     {
         name: 'badge_gen_kill_or_ko_freezers',
