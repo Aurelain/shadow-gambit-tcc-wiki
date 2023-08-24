@@ -7,6 +7,8 @@ import assert from 'assert/strict';
 import isNumber from '../utils/isNumber.js';
 import findFiles from '../utils/findFiles.js';
 import isEmpty from '../utils/isEmpty.js';
+import sortJson from '../utils/sortJson.js';
+import {BADGES} from './BADGES.js';
 
 // =====================================================================================================================
 //  D E C L A R A T I O N S
@@ -51,7 +53,9 @@ const suggestBadges = () => {
     enrichByNid(badgesList, i18n);
     console.log('badgesList:', badgesList.length);
 
-    fs.writeFileSync(OUTPUT_PAGE, JSON.stringify(badgesList, null, 4));
+    validateBadges(badgesList, BADGES);
+
+    fs.writeFileSync(OUTPUT_PAGE, JSON.stringify(sortJson(badgesList), null, 4));
     open(OUTPUT_PAGE);
 };
 
@@ -175,6 +179,58 @@ const enrichByNid = (target, i18n) => {
             enrichByNid(item, i18n);
         }
     }
+};
+
+/**
+ *
+ */
+const validateBadges = (badgesList, BADGES) => {
+    const minedNames = {};
+    for (const badge of badgesList) {
+        minedNames[badge.name] = badge._text;
+    }
+
+    const hardcodedNames = {};
+    for (const badge of BADGES) {
+        hardcodedNames[badge.name] = true;
+    }
+
+    for (const minedName in minedNames) {
+        if (!hardcodedNames[minedName]) {
+            console.log(`Mined name "${minedName}" not found in hardcoded list!`);
+        }
+    }
+
+    for (const hardcodedName in hardcodedNames) {
+        if (!minedNames[hardcodedName]) {
+            console.log(`Hardcoded name "${hardcodedName}" not found in mined list!`);
+        }
+    }
+
+    let sumAll = 0;
+    let sumLoc = 0;
+    let sumMis = 0;
+    let sumCrew = 0;
+    let sumGen = 0;
+    for (const badge of BADGES) {
+        const {steps, loc, mis, crew} = badge;
+        const actualSteps = steps ? steps : 1;
+        sumAll += actualSteps;
+        if (crew) {
+            sumCrew += actualSteps;
+        } else if (mis) {
+            sumMis += actualSteps;
+        } else if (loc) {
+            sumLoc += actualSteps;
+        } else {
+            sumGen += actualSteps;
+        }
+    }
+    console.log('sumAll:', sumAll);
+    console.log('sumCrew:', sumCrew);
+    console.log('sumLoc:', sumLoc);
+    console.log('sumMis:', sumMis);
+    console.log('sumGen:', sumGen);
 };
 
 // =====================================================================================================================
