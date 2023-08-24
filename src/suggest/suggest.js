@@ -10,6 +10,7 @@ import isEmpty from '../utils/isEmpty.js';
 import sortJson from '../utils/sortJson.js';
 import {BADGES} from './BADGES.js';
 import generateWikiTable from '../utils/generateWikiTable.js';
+import buildBadgesTable from './buildBadgesTable.js';
 
 // =====================================================================================================================
 //  D E C L A R A T I O N S
@@ -60,7 +61,7 @@ const suggestBadges = () => {
 ${generateWikiTable(table)}
     `.trim();
 
-    // fs.writeFileSync(OUTPUT_PAGE, JSON.stringify(sortJson(badgesList), null, 4));
+    fs.writeFileSync(OUTPUT_DIR + '/Badges.json', JSON.stringify(sortJson(badgesList), null, 4));
     fs.writeFileSync(OUTPUT_PAGE, badgesWiki);
     open(OUTPUT_PAGE);
 };
