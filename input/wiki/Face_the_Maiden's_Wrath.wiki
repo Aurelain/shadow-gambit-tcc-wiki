@@ -1,0 +1,9 @@
+'''Face the Maiden's Wrath''' is a general [[Badges|badge]].
+
+Objective: <big style="color:yellow">Keep an alarm going for 5 consecutive minutes</big>
+
+{| class="mw-collapsible mw-collapsed"
+|+ style=white-space:nowrap;text-align:left | <big style="color:yellow">💡 Walkthrough</big>
+|-
+| Please contribute...
+|}

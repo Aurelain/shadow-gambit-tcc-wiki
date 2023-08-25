@@ -1,0 +1,9 @@
+'''Clean Sweep''' is a [[Badges|badge]] that can be obtained by playing the mission [[The Captain's Treasure]] on the island of [[Morrow's Reach]].
+
+Objective: <big style="color:yellow">Kill all guards in this mission.</big>
+
+{| class="mw-collapsible mw-collapsed"
+|+ style=white-space:nowrap;text-align:left | <big style="color:yellow">💡 Walkthrough</big>
+|-
+| Please contribute...
+|}

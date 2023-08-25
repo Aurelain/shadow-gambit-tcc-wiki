@@ -27,9 +27,7 @@ const ENUMERATE_SOME = 20;
 /**
  *
  */
-const upload = async (...args) => {
-    console.log('args:', args);
-    const filter = args[0] || '';
+const upload = async (filter = '') => {
     try {
         const regExpFilter = filter ? new RegExp(filter) : /\.wiki$/;
         console.log('regExpFilter:', regExpFilter);

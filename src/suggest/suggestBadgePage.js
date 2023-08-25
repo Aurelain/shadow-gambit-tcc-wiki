@@ -3,6 +3,7 @@ import {OUTPUT_DIR, WIKI_DIR} from '../CONFIG.js';
 import convertTitleToFileName from '../utils/convertTitleToFileName.js';
 import fs from 'fs';
 import assert from 'assert/strict';
+import getBadgeTitle from './getBadgeTitle.js';
 
 // =====================================================================================================================
 //  D E C L A R A T I O N S
@@ -14,9 +15,8 @@ import assert from 'assert/strict';
 /**
  *
  */
-const suggestBadgePage = (badge, englishBadges) => {
-    const {name} = badge;
-    const {title} = englishBadges[name];
+const suggestBadgePage = (badge, englishBadges, nameCollisions) => {
+    const title = getBadgeTitle(badge, englishBadges, nameCollisions);
     const fileName = convertTitleToFileName(title);
 
     let draft = buildHeader(badge, englishBadges) + '\n\n';

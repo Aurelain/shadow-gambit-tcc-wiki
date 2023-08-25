@@ -1,0 +1,9 @@
+'''Beach Episode''' is a general [[Badges|badge]].
+
+Objective: <big style="color:yellow">On the Marley, have all crewmates who can swim in the water at the same time.</big>
+
+{| class="mw-collapsible mw-collapsed"
+|+ style=white-space:nowrap;text-align:left | <big style="color:yellow">💡 Walkthrough</big>
+|-
+| Please contribute...
+|}

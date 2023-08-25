@@ -1,0 +1,9 @@
+'''Grand Design''' is a general [[Badges|badge]].
+
+Objective: <big style="color:yellow">Execute a plan with 8 crewmates.</big>
+
+{| class="mw-collapsible mw-collapsed"
+|+ style=white-space:nowrap;text-align:left | <big style="color:yellow">💡 Walkthrough</big>
+|-
+| Please contribute...
+|}

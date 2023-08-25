@@ -1,0 +1,9 @@
+'''Comfort Food''' is a [[Badges|badge]] that can be obtained by playing the mission [[Suleidy's Cure]] on the island of [[Dread Vine's Cove]].
+
+Objective: <big style="color:yellow">Feed the Dread Vine 8 bodies.</big>
+
+{| class="mw-collapsible mw-collapsed"
+|+ style=white-space:nowrap;text-align:left | <big style="color:yellow">💡 Walkthrough</big>
+|-
+| Please contribute...
+|}

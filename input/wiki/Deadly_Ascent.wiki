@@ -1,0 +1,9 @@
+'''Deadly Ascent''' is a [[Badges|badge]] that can be obtained by playing on the island of [[Twins of Nerechtemeresch]].
+
+Objective: <big style="color:yellow">Kill all guards on the island in ascending order. Guards on the same height level have to be killed before ascending to a higher level.</big>
+
+{| class="mw-collapsible mw-collapsed"
+|+ style=white-space:nowrap;text-align:left | <big style="color:yellow">💡 Walkthrough</big>
+|-
+| Please contribute...
+|}

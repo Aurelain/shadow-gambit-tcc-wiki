@@ -1,0 +1,9 @@
+'''Blasphemous Uncertainty''' is a general [[Badges|badge]].
+
+Objective: <big style="color:yellow">Take down 100 Prognosticars.</big>
+
+{| class="mw-collapsible mw-collapsed"
+|+ style=white-space:nowrap;text-align:left | <big style="color:yellow">💡 Walkthrough</big>
+|-
+| Please contribute...
+|}

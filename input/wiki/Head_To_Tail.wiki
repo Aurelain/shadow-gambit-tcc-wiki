@@ -1,0 +1,9 @@
+'''Head To Tail''' is a [[Badges|badge]] that can be obtained by playing on the island of [[Angler's Grave]].
+
+Objective: <big style="color:yellow">Start a mission at the Angler's Jaws landing and leave through the Tear at the Tailfin Piers.</big>
+
+{| class="mw-collapsible mw-collapsed"
+|+ style=white-space:nowrap;text-align:left | <big style="color:yellow">💡 Walkthrough</big>
+|-
+| Please contribute...
+|}

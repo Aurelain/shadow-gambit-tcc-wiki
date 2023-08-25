@@ -1,5 +1,6 @@
 import linkPage from '../shared/linkPage.js';
 import {GENERIC_BADGES} from '../CONFIG.js';
+import getBadgeTitle from './getBadgeTitle.js';
 
 // =====================================================================================================================
 //  D E C L A R A T I O N S
@@ -18,7 +19,7 @@ const VALID_STATUS = {
 /**
  *
  */
-const buildBadgesTable = (hardcodedList, englishBadges) => {
+const buildBadgesTable = (hardcodedList, englishBadges, nameCollisions) => {
     const output = [
         [
             // 'Name', // hidden
@@ -30,15 +31,6 @@ const buildBadgesTable = (hardcodedList, englishBadges) => {
             'Valid',
         ],
     ];
-
-    const nameCollisions = {};
-    const usedNames = {};
-    for (const {name} of hardcodedList) {
-        if (usedNames[name]) {
-            nameCollisions[name] = true;
-        }
-        usedNames[name] = true;
-    }
 
     for (let i = 0; i < hardcodedList.length; i++) {
         const badge = hardcodedList[i];
@@ -57,7 +49,10 @@ const buildBadgesTable = (hardcodedList, englishBadges) => {
  */
 const buildRow = (badge, nr, englishBadges, nameCollisions) => {
     const {name, steps} = badge;
-    const title = getTitle(badge, englishBadges, nameCollisions);
+
+    const badgeTitle = getBadgeTitle(badge, englishBadges, nameCollisions);
+    const title = name in GENERIC_BADGES ? badgeTitle : linkPage(badgeTitle);
+
     const {description} = englishBadges[name];
     const type = getType(badge);
     return {
@@ -69,23 +64,6 @@ const buildRow = (badge, nr, englishBadges, nameCollisions) => {
         steps,
         valid: VALID_STATUS[name] || '',
     };
-};
-
-/**
- *
- */
-const getTitle = (badge, englishBadges, nameCollisions) => {
-    const {name, loc, mis, crew} = badge;
-    let title = englishBadges[name].title;
-    if (name in nameCollisions) {
-        const clarification = mis || loc || crew;
-        title += ` (${clarification})`;
-        title = title.replace(/\(Ch. (\d)\)/, '$1');
-    }
-    if (name in GENERIC_BADGES) {
-        return title;
-    }
-    return linkPage(title);
 };
 
 /**

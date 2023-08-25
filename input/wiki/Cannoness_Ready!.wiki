@@ -1,0 +1,9 @@
+'''Cannoness Ready!''' is a [[Badges|badge]] that can be obtained by playing the mission [[Gaëlle's Letter (Ch. 1)]] on the island of [[Calamity Reef]].
+
+Objective: <big style="color:yellow">Shoot a cannon and kill at least 2 guards.</big>
+
+{| class="mw-collapsible mw-collapsed"
+|+ style=white-space:nowrap;text-align:left | <big style="color:yellow">💡 Walkthrough</big>
+|-
+| Please contribute...
+|}

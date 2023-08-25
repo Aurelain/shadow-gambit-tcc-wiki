@@ -25,6 +25,16 @@ const NAME_FIXES = {
     badge_mis_generic_desc_10: 'badge_mis_generic_guns_desc',
 };
 const OUTPUT_PAGE = OUTPUT_DIR + '/Badges.wiki';
+const SPELLING_FIXES = [
+    {
+        pattern: /\s+/g,
+        replacement: ' ',
+    },
+    {
+        pattern: /udgment/g,
+        replacement: 'udgement',
+    },
+];
 
 // =====================================================================================================================
 //  P U B L I C
@@ -60,20 +70,21 @@ const suggestBadges = () => {
     const englishBadges = getEnglishBadges(minedBadges);
 
     validateBadges(minedBadges, BADGES);
-    const table = buildBadgesTable(BADGES, englishBadges);
+    const nameCollisions = getNameCollisions(BADGES);
+    const table = buildBadgesTable(BADGES, englishBadges, nameCollisions);
 
     const badgesWiki = `
 ${generateWikiTable(table)}
 Texts have been data-mined from game version ''${GAME_VERSION}''. 
     `.trim();
 
-    // fs.writeFileSync(OUTPUT_DIR + '/Badges.json', JSON.stringify(sortJson(minedBadges), null, 4));
+    // fs.writeFileSync('Badges.json', JSON.stringify(sortJson(minedBadges), null, 4));
     fs.writeFileSync(OUTPUT_PAGE, badgesWiki);
     // open(OUTPUT_PAGE);
 
     for (const badge of BADGES) {
         if (!GENERIC_BADGES[badge.name]) {
-            suggestBadgePage(badge, englishBadges);
+            suggestBadgePage(badge, englishBadges, nameCollisions);
         }
     }
 };
@@ -167,7 +178,10 @@ const readTextMapping = (textsFilePath, locator) => {
         const match = line.match(/^(\d+)\t(.*)/);
         assert(match, `Unexpected format in line "${line}"!`);
         let [, nid, text] = match;
-        text = text.replace(/\s+/, ' ').trim();
+        for (const {pattern, replacement} of SPELLING_FIXES) {
+            text = text.replace(pattern, replacement);
+        }
+        text = text.trim();
         if (!text) {
             // TODO: find out what people actually see when using those languages
             // console.log(`Text is empty in line "${line}" @ "${locator}"!`);
@@ -212,6 +226,21 @@ const getEnglishBadges = (minedBadges) => {
         };
     }
     return output;
+};
+
+/**
+ *
+ */
+const getNameCollisions = (badgesList) => {
+    const nameCollisions = {};
+    const usedNames = {};
+    for (const {name} of badgesList) {
+        if (usedNames[name]) {
+            nameCollisions[name] = true;
+        }
+        usedNames[name] = true;
+    }
+    return nameCollisions;
 };
 
 /**

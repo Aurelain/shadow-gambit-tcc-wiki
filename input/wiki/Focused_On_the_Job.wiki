@@ -1,0 +1,9 @@
+'''Focused On the Job''' is a [[Badges|badge]] that can be obtained by playing the mission [[Pinkus's Duty (Ch. 2)]] on the island of [[Gran Alcázar]].
+
+Objective: <big style="color:yellow">Peruse the priest's mind without attacking anyone else beforehand.</big>
+
+{| class="mw-collapsible mw-collapsed"
+|+ style=white-space:nowrap;text-align:left | <big style="color:yellow">💡 Walkthrough</big>
+|-
+| Please contribute...
+|}

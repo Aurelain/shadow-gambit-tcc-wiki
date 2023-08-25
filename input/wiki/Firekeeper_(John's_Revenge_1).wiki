@@ -1,0 +1,9 @@
+'''Firekeeper''' is a [[Badges|badge]] that can be obtained by playing the mission [[John's Revenge (Ch. 1)]] on the island of [[Twins of Nerechtemeresch]].
+
+Objective: <big style="color:yellow">Don't extinguish any lights.</big>
+
+{| class="mw-collapsible mw-collapsed"
+|+ style=white-space:nowrap;text-align:left | <big style="color:yellow">💡 Walkthrough</big>
+|-
+| Please contribute...
+|}
