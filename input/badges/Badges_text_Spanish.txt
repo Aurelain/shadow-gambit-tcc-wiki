@@ -1,0 +1,597 @@
+1796421427	Filibustero
+1776211023	Completa misiones con este tripulante.
+338740426	Espadachín
+671816372	Neutraliza a guardias con este tripulante.
+574906669	Explorador
+630650936	Completa una misión con este tripulante en todas las islas.
+1374517439	La distancia no existe
+1241633510	Recorre una determinada distancia con la habilidad Destello.
+709084574	Para avanzar, hay que subir
+1203276916	Recorre una distancia de 9 metros o más hacia arriba con Destello en 5 lugares diferentes.
+382895988	Distracción pasajera
+1388224552	Usa «Tiempo Muerto» con un guardia que esté hablando con al menos otros 2 guardias.
+329978490	El mundo de Afia
+1308173182	Mata a 5 guardias mientras haya alguien afectado por Tiempo Muerto.
+1339996187	Sin límites
+774948274	Mata a 3 guardias en 7 segundos solo con Afia.
+1394317276	Sola ante la Vid
+1740433382	Completa una misión en la Ensenada de la Vid Aterradora solo con Afia en tu equipo.
+949623244	Pinchazos a larga distancia
+1732139871	Provoca a un Prognosticar a una distancia de más de 15 metros.
+1379963239	La parte complicada
+466478847	Esconde 5 cuerpos a la vez o más con Semillas de Cobertura.
+1709826584	Multitud a cubierto
+395133025	Esconde a 8 tripulantes a la vez con Semillas de Cobertura.
+979185353	Andar es bueno para la salud
+709264844	Mueve a los guardias con Polvo del Caminante (o su mejora) una distancia de 500 metros.
+1275571015	Que las hojas lo cubran todo
+1962667848	Oculta 200 cuerpos en total con Semillas de Cobertura.
+260258007	No te pasará nada
+1939572047	Mata a un guardia mediante un peligro del entorno con Polvo del Caminante.
+972788601	Visita al manicomio
+1534608077	Completa una misión en los Pilares de Nerechtemeresch solo con Suleidy en tu equipo.
+1120467298	¡Mira qué hora es!
+372252512	Interrumpe 5 conversaciones en 5 islas diferentes con Polvo del Caminante.
+1522570882	¡Ven aquí!
+1266559953	Tira de un tripulante que esté a 150 metros o más para meterlo en tu kanol.
+2053968532	Un chapuzón
+907794143	Envía a un tripulante a 18 metros de profundidad con tu kanol.
+599505677	Bienvenido a bordo
+689991763	Llévate a un desarrollador de Mimimi contigo de vuelta al Marley.
+2025069497	Cirque du Gaëlle
+1466972455	Dispara a alguien a través del aro en llamas.
+399891488	A caballito
+656497925	Lleva a otros tripulantes una distancia de 500 metros.
+699217888	Carambola espectacular
+817899462	Noquea a un Prognosticar con otro Prognosticar.
+2076575347	Una poetisa en el festival
+441111936	Completa una misión en la Tumba del Rape solo con Gaëlle en tu equipo.
+810007616	Tesoro tramposo
+1097120540	Atrae a un guardia para matarlo con un peligro del entorno.
+1525280257	Han picado
+1638244184	Atrae a un guardia con la Cabeza de Oro y vuelve a cogerla antes de que llegue hasta ella.
+671062219	Todo para el cofre
+246431793	Saca a 150 cadáveres con tu Caña del Tesoro.
+1440980588	Experiencia elevada
+535082147	Saca a un tripulante que esté a 12 metros por debajo de Quentin en 4 islas específicas.
+665878007	Combinación imparable
+1271734441	Saca a Gaëlle con tu Caña del Tesoro después de que dispare a Quentin a alguna parte con su kanol.
+1507608638	Negociación de hierro
+1592946582	Completa una misión en Bahía de Hierro solo con Quentin en tu equipo.
+1908246895	Un pequeño alboroto
+1798492299	Haz que 5 guardias o más miren la Caracola Cameladora	 al mismo tiempo.
+919766519	Alimento para las tortugas
+1519184100	Oculta 50 cuerpos con «¡Ancla va!».
+1524381849	¡Largo!
+339233934	Distrae a 5 guardias o más al mismo tiempo con sir Reginald.
+620612843	Discretamente
+1637348273	Después de que alguien vea a John, usa «¡Ancla va!» para ocultarte hasta que la situación se calme un poco.
+1076764697	Desde las sombras
+1694073407	Mata a 3 guardias en 3 segundos con tripulantes escondidos en el Infra.
+1943872348	No lo vio venir
+764932920	Mata a un Prognosticar con «¡Arriba el Ancla!».
+2110734166	Paseo por el lecho marino
+1653230357	Completa una misión en Arrecife Calamidad solo con John en tu equipo.
+791767802	Ponlos en fila y derríbalos
+185582005	Mata a 15 guardias en una misma misión con «¡Arriba el Ancla!».
+665422454	¡Alto!
+267178076	Ataca a un Prognosticar con otro Prognosticar controlado por ti.
+649801181	Colección en expansión
+1221253114	Controla al menos a un desarrollador de Mimimi en cada isla.
+226294885	Ponerse en el pellejo ajeno
+825609211	Recorre una distancia de 10000 metros mientras controlas cuerpos ajenos.
+862801335	Turismo de aventura
+519935793	Muere a causa de 4 tipos de peligros del entorno diferentes mientras controlas cuerpos ajenos.
+714721166	Desprendimiento
+1887863948	Cargamento suelto
+1747980731	Fuego de cañón
+367518586	Explosión frutal
+977848619	¡Alarma! ¡Ein Verletzter!
+994051683	Usa la campana de alarma para pedir refuerzos.
+1647327876	La redención de Presswald
+597826652	Completa una misión en la Isla de la Penitencia solo con Pinkus en tu equipo.
+719506953	Nuevo siervo
+1486124990	Completa una misión con un desarrollador de Mimimi bajo el control de Pinkus.
+1711745669	La Doncella sea contigo
+1360009616	Acaba con 30 Iudex con Justicia de Hierro.
+430668490	En el nido
+451114187	Acaba con 10 guardias sin moverte entre disparos.
+71779348	Duelo de tiradores
+7171066	Mata con Justicia de Hierro a una Iudex que haya visto a Teresa antes de que pueda dar la alarma.
+937707167	Juicio rápido
+967530653	Mata a 3 guardias en menos de 5 segundos.
+1590254632	Peregrinaje privado
+634627229	Completa una misión en el Gran Alcázar solo con Teresa en tu equipo.
+1730150600	El vuelo del cuervo
+759708804	Visita los puntos más elevados de cada isla.
+1349058482	La muerte viene a saludarte
+1856406577	Mata a 20 guardias a una distancia de 30 metros.
+565291514	Muévete como el agua.
+1350999204	Acaba con un guardia con Paso Sombra mientras nadas.
+358016596	Dos por uno
+902418873	Mata a un par de afines solo con Toya sin que den la alarma.
+1245370880	Entrenamiento de teletransporte
+2048547117	Mata a 2 guardias en menos de 7 segundos empleando Paso Sombra en una rápida sucesión.
+1731151518	Extremadamente eficaz
+961131779	Atrae a 4 acólitos o afines o más a la vez con Canto de Ave.
+588487950	Haz kilómetros
+278692822	Recorre una distancia de 250 metros o más a la vez usando Paso Sombra.
+1427631581	Cocinar con fuego
+1968156686	Completa una misión en la Bahía de Hierro solo con Toya en tu equipo.
+976517951	Ya estás muerta
+1003294217	Mata con Paso Sombra a una Iudex que haya visto a Toya antes de que pueda dar la alarma.
+1743525484	Pásalo bien en el otro lado
+1003442845	Acaba con 3000 guardias en total.
+2060292516	Ojos que no ven, corazón que no siente
+917333455	Oculta 750 cuerpos.
+1423868476	Afronta la ira de la Doncella
+119410899	Mantén una alarma sonando durante 5 minutos seguidos.
+471027101	Tripulación al completo
+636595407	Revive a toda la tripulación.
+588123698	A presto, signora
+692493016	Desbloquea al tripulante secreto.
+1867105169	Moral alta
+1290909975	Desbloquea todas las mejoras de habilidades.
+2135820633	Destino cruel
+1611980959	Mata a 50 guardias con peligros del entorno.
+1799271985	El Gran Designio
+774550608	Ejecuta un plan con 8 tripulantes.
+765528557	Munición perforante
+38798611	Mata a más de 2 guardias con un peligro del entorno… en forma de cañón.
+1727602809	Un mar de lágrimas
+832564554	Encuentra y mata a todos los desarrolladores de Mimimi.
+1934693226	
+529894661	
+216620134	
+1201963030	
+2105760855	
+1882040411	
+516392657	
+668040958	
+1319254292	
+1286447158	
+2088592610	
+1852177106	
+2139404311	
+386229669	
+1321894778	
+291835783	
+1592828524	
+268500015	
+987838245	
+1989716839	
+1156984225	
+1018025839	
+1000641590	
+1574750981	
+1099969350	
+1375362139	
+198609156	
+1829112073	
+473627092	
+1427984674	
+723968812	
+284333016	
+1606559485	
+1924548140	
+1389395824	
+205714214	
+610967366	
+1466591010	
+174014305	
+1148876635	
+970580259	
+851930782	
+1722433722	
+1986677157	
+859606565	
+1929825460	El poder del alma
+196821766	Consigue todas las insignias de la tripulación.
+519542946	Ya he estado ahí
+184232411	Consigue todas las insignias de lugares.
+996746267	A las trincheras otra vez
+935591128	Consigue todas las insignias de misiones.
+257072735	Pirata de los pies a la cabeza
+1908866821	Consigue todas las insignias.
+508117353	Simple y directo
+1182981518	Completa una misión sin emplear distracciones.
+347395176	Tic, tac
+353110056	Completa cualquier misión en menos de 3 minutos.
+1496781421	Más grande por dentro
+1723406019	Adéntrate en las bodegas del Marley.
+1837385959	Incertidumbre blasfema
+1810657921	Acaba con 100 Prognosticar.
+759084458	Juicio pospuesto
+591337845	Acaba con 100 Iudex.
+1383715465	Vínculo eterno
+1661523804	Acaba con 150 afines.
+281275021	Trabajo en equipo
+1905079886	Acaba con 16 guardias en menos de 10 segundos.
+92435746	Leyenda en ciernes
+688926941	Completa 10 misiones en las dificultades Leyenda o Maldita.
+1119265358	Incursión sin sangre
+1105738089	Completa 10 misiones sin matar a nadie (excepto a los objetivos de las misiones).
+361403897	Pirata fantasma
+2703692	Completa 10 misiones sin que nadie dé la alarma.
+594087976	En la variedad, está el gusto
+1391943422	Completa 5 misiones con cada tripulante.
+165245761	¡No podrás conmigo!
+1342244480	Mata a la Inquisidora Ignacia 10 veces en una misma misión.
+236092768	Una jornada muy completita
+832549656	Completa todas las historias de la tripulación.
+209053828	Nada que lamentar
+1573171868	Completa todas las pruebas del capitán.
+763816689	Andanada
+1961451621	A bordo del Marley, dispara todos los cañones en menos de 2 segundos.
+423752836	Y no te levantes
+1145889832	Mata a todos los huesitos de cubierta antes de que a alguno le dé tiempo a revivir.
+167939290	Entierro en el mar
+343671499	A bordo del Marley, dispara un esqueleto al agua con Gaëlle.
+739135773	Día de playa
+468241108	A bordo del Marley, ten a todos los tripulantes que saben nadar en el agua al mismo tiempo.
+1830896848	Inspección rápida
+401091815	A bordo del Marley, ve del camarote del capitán al extremo de la proa del barco en 5 segundos.
+611482871	Iluminación espeluznante
+862849373	A bordo del Marley, ten apagadas al mismo tiempo todas las fuentes de luz con las que puedes interactuar.
+1368400389	Elige el punto de arribo
+1038967908	Usa todos los puntos de arribo.
+262365509	De vuelta al Marley
+474748383	Usa todas las grietas.
+1652949645	Misión cumplida
+2115749099	Completa todas las misiones de este lugar.
+1730658589	Sin cuartel
+1769322161	Mata a todos los enemigos en cualquier misión.
+1199965089	Alabados sean los Profundos
+1819139897	Reza en el santuario oculto.
+414181416	Cimas gemelas
+816285298	Cruza el puente de madera en la cima.
+1385754340	Perdido en el tiempo
+1108419071	Arroja a alguien a la cuenca del corazón de la isla.
+1999711528	Una larga caída
+1143519443	Haz que alguien caiga más de 30 metros.
+1382861619	Rompan filas
+2011522026	Mata a 5 tipos de guardias diferentes al mismo tiempo.
+259725027	Mantener el equilibrio
+646401943	Mata a ambos Custodios al mismo tiempo.
+1456850186	Capturar la bandera
+1515795681	Intercambia la bandera de la Inquisición por la del Marley.
+1525850607	Limpieza doméstica
+1629435492	Mata a todos los guardias en menos de 3 minutos.
+494578504	Sacrificio ritual
+1472530044	Mata a 3 guardias al mismo tiempo con un desprendimiento de roca. Los guardias atados no cuentan.
+2132904266	Apagar la Llama
+304154263	Durante una misión nocturna, apaga al menos 20 luces diferentes.
+571546413	Carrera a la cima
+416841032	Llega al punto más elevado de esta isla.
+1280164754	Alcoba Azul
+1196458529	Bucea hasta esta gruta oculta con un tripulante que sepa nadar.
+1205151961	Extremadamente volátil
+484653675	Mata a 10 guardias o más con frutas del miedo en una misma misión.
+1378916474	¡Oye, podemos vernos!
+1165266285	Sitúa a tus personajes en 3 torres de la Inquisición al mismo tiempo.
+957489229	¡Silencia a los Custodios!
+1809104076	Mata a 7 Custodios en una misma misión.
+785926450	Planta carnívora
+1089195980	Arroja 20 cuerpos al barranco que rodea a la Vid Aterradora.
+1701416701	Alteza
+1963989185	Mata al Prognosticar que está parado en una torre.
+595804671	Pozo de los deseos
+288219293	Tira una moneda a un pozo en el sanatorio.
+1862240648	Meditación forzosa
+49803430	Ata a un guardia y ponlo en una alfombra libre.
+1812577623	El templo maldito
+1841979522	Arroja a un Prognosticar al foso en llamas.
+2090138995	De vuelta al foso
+231361530	Arroja a 5 guardias atados al foso de la prisión.
+1093606645	Accidente laboral
+2046527269	Mata a 10 guardias con peligros del entorno en una misma misión.
+1334930817	Montaña de cadáveres
+245791022	Arroja a un guardia por la rampa para desechar cuerpos.
+820474579	Penitencia acelerada
+1800275402	Mata a todos los guardias en menos de 8 minutos.
+379137919	¡Fuego!
+1815748725	Tira los petardos de Gaëlle por el hueco de la urna de almas.
+583080850	Arena caliente
+415947971	Completa una misión sin tocar la arena.
+1164180219	Nadie se va
+886302043	Mata al guardia en el barco de la Inquisición.
+1163702209	Reacción en cadena
+453964669	Mata a un Custodio con un peligro del entorno, de modo que su muerte deje a 4 guardias en estado catatónico.
+1228377308	Cavernas de sal
+907467767	Encuentra la puerta de aspecto sospechoso.
+921545643	Un secreto inconfesable
+1972114563	Encuentra el mensaje en una botella.
+1034827242	Ascenso letal
+894199111	Mata a todos los guardias de una isla en orden ascendente. Debes matar a los guardias que estén a una misma altura antes de ascender a una superior.
+1173514808	Cambio de lugar
+1692977504	Mata a cada afín mientras está en la mitad de la isla donde suele encontrarse su camarada.
+1323456631	Solo por diversión
+2056101649	Completa una misión sin atacar a nadie.
+52140568	¿Qué es un revellín?
+1452331934	Conquista el revellín cerca del muelle de carga.
+1330049190	Meditación en el jardín
+1170154792	Noquea a todos los guardias de los Jardines de la Doncella y no escondas un solo cuerpo.
+670537220	Por quién doblan las campanas
+904910703	Mata a todos los guardias que lleven una campana de alarma sin atacar a ningún otro guardia.
+183284468	Aprendiz incompetente
+1457983441	Controla al herrero jefe con Pinkus y, luego, usa el cañón para librarte de su aprendiz.
+1146562751	Reinado solitario
+401364238	Mata a la Iudex solitaria.
+1062449301	Se levanta la sesión
+86263299	Mata a 6 Iudex en menos de 6 segundos en cualquier misión.
+420718727	Un grito lejano
+1609431365	Mata a todos los guardias que estén entre los muros del cuartel, incluidos los del patio de inspección y los muelles.
+2020561794	Esto es Halloween
+1233587979	Inspecciona varios restos de dudosa procedencia en la parte de arriba del cementerio.
+1713276967	De los pies a la cabeza
+2029111481	Empieza una misión en el punto de arribo de Fauces del Rape y sal por la grieta del Embarcadero de la Aleta.
+1169918969	Ladrón de huevos
+1702207699	Encuentra el nido de cuervos en el Velero Travieso.
+1098205793	El viejo y el mar
+731922083	Arroja al mar al Prognosticar solitario.
+550180401	No hagas cucamonas
+1408717269	Mata al guardia que está llamando a la puerta muy por encima de donde está el vendedor de plátanos.
+692755054	¡Dispersaos!
+2137388575	Sal de una misión con 3 tripulantes en 3 grietas diferentes.
+1730831554	Se sube por aquí
+1103353001	Llega a lo alto del faro.
+1045145721	Prefiero no mojarme
+16088903	Completa una misión sin tocar el agua.
+1033710575	Catastróficas desdichas
+183615894	Mata a 5 guardias a la vez con peligros del entorno.
+1982141459	A la parrilla
+196551828	Arroja al fuego a los dos afines del barco.
+52164312	Como ratas al queso
+605889720	Mata con peligros del entorno a 3 guardias que sigan tus pasos.
+661530197	Cañas desvencijadas
+910154526	Ve a pescar al embarcadero desvencijado.
+839554245	Primer paso
+1875909914	Completa la misión.
+1087695327	Máximo riesgo
+467922770	Completa la misión sin liberar ningún recuerdo.
+840866169	Barrido limpiador
+1096284471	Mata a todos los guardias en esta misión.
+111994181	No hace falta derramar sangre
+221988088	No ataques ni mates a nadie.
+343383419	Guardián del fuego
+4980436	No apagues ninguna luz.
+543531163	A nadie le gustan las puertas
+1694017335	No uses ninguna puerta.
+1194322690	Enfoque minimalista
+899344366	No uses ninguna distracción.
+2108021903	Verdaderos fantasmas
+1910744431	Completa la misión sin que nadie dé la alarma.
+2077344816	Navegante solitaria
+1314220147	Completa la misión solo con Afia en tu equipo.
+691651273	Doctora solitaria
+1201230355	Completa la misión solo con Suleidy en tu equipo.
+916067192	Cañonera solitaria
+1482682646	Completa la misión solo con Gaëlle en tu equipo.
+441910965	Buscatesoros solitario
+2018093077	Completa la misión solo con Quentin en tu equipo.
+492203623	Calafate solitario
+1104764486	Completa la misión solo con John en tu equipo.
+1872017290	Intendente solitario
+1913881026	Completa la misión solo con Pinkus en tu equipo.
+1309598636	Tiradora solitaria
+1537787198	Completa la misión solo con Teresa en tu equipo.
+1508016607	Cocinero solitario
+1154121962	Completa la misión solo con Toya en tu equipo.
+431734923	Para que lo vea el mundo
+561441932	Completa la misión sin tocar ningún escondite.
+1317222667	Ruta terrestre
+17730067	Completa la misión sin nadar.
+1544678407	Miedo al agua
+1355048968	No toques el agua.
+437625537	Hagamos ruido
+1365788380	Completa la misión usando solo armas.
+1499203164	Discretamente
+458695223	Completa la misión sin usar ningún arma.
+1744737962	Déjalo ahí mismo
+105161197	No recojas ningún cuerpo.
+331777561	Bah, no pasa nada
+817191606	No uses el modo Sombra.
+397716732	Son demasiados
+738811040	Completa la misión con menos de tres tripulantes en tu equipo.
+2130013336	Ya subiremos como se pueda
+1011100197	No uses escaleras ni hiedras.
+418842619	Estrategia alternativa
+1835434106	Pasa junto al Prognosticar sin matarlo.
+2020794394	El tiempo no se toca
+135057061	No uses la habilidad Tiempo Muerto de Afia.
+1353064736	Solo estoy de paso
+1625234751	No ataques a nadie a bordo del Marley, salvo a los Custodios.
+167742853	Me gustan los retos
+1109247902	No subas al Marley por la cadena.
+1420802547	Castigo interrumpido
+1697002593	Vuelve catatónicos a 5 guardias a la vez.
+1729722193	Precisión quirúrgica
+515063220	No ataques a más de 4 guardias y no hagas que den la alarma.
+1151061562	Al abordaje
+1084892496	Aborda todos los barcos de la Inquisición y acaba con sus tripulaciones.
+1116770299	Superioridad numérica
+1020226235	Mata a 3 Prognosticar a la vez.
+1198827749	Gran farsante
+1590239656	Asume el control de Ignacia con Pinkus.
+799528455	Un rodeo
+1220096621	No uses las escaleras en la playa sombría.
+1754888918	La imagen completa
+2007911037	Reúne todos los fragmentos de recuerdos.
+288410359	En sus narices
+1373729647	Mata a la Iudex sin tocar el agua durante toda la misión.
+1312677786	Perfil bajo
+166130773	No ataques a nadie, salvo al Commissarius que custodia a Arimtice. Ten solo a Gaëlle en tu equipo.
+2109201762	Sin llamar la atención
+1634487370	Completa la misión sin atacar al Commissarius que custodia a Arimtice. Ten solo a Gaëlle en tu equipo.
+2141449400	Sin distracciones
+150889363	No uses los Petardos de Gaëlle. Ten solo a Gaëlle en tu equipo.
+873991372	Pensamientos siniestros
+299541657	Reúne todos los fragmentos de recuerdos.
+941826022	Carterista
+1206573713	Roba la llave sin atacar a ningún afín.
+1404757201	Se acabaron los experimentos
+647887669	Mata a todos los guardias dentro del puesto de investigación.
+763153960	Líos en la playa
+1425170775	No lleves a Afia, Suleidy, John ni Pinkus a esta misión.
+1954569905	3… 2… 1… ¡Reliquia!
+2126078446	Recoge los 3 trozos de reliquia al mismo tiempo.
+2052616833	Misión en solitario
+2061726331	Solo un tripulante puede pisar la playa.
+1495198702	Playa segura
+1881340211	No ataques a ningún guardia en la playa.
+2024853775	Tres contra uno
+1550411335	Derrota al Magistratus y a sus 2 lacayos con un solo tripulante y sin que den la alarma.
+901892102	Prognosticar lejano
+529522745	Solo un tripulante puede entrar al islote donde se encuentra la perla negra.
+1835297888	A saltitos
+937091928	No uses ningún puente.
+51700476	Manos limpias
+1053395609	No mates a nadie hasta que Suleidy haya examinado la raíz.
+735001286	Comida basura
+597868467	Alimenta a la Vid Aterradora con 8 cuerpos.
+209655976	Operación doble
+2108519691	Mata a ambos afines con Suleidy.
+1709780012	De eso nada
+43807392	Mata al Gran Rectificador con Suleidy.
+1062985495	¡A Xibalbá!
+903453745	Arroja al foso al guardia que está al final del gran puente.
+2061346095	La milla blanca
+1911651871	Solo un tripulante puede pisar el gran puente.
+1829039352	La mesura es incesante
+1402225079	No ataques a ninguno de los 4 Commissarius que están inspeccionando los objetos malditos.
+894492198	Íntimo y personal
+1641252899	No lleves a Gaëlle ni a Quentin a esta misión.
+1722718507	Qué emoción
+1708052909	Completa la misión sin atravesar las puertas del gran puente.
+861106376	Nada profano
+1646196189	No prendas fuego a las cajas.
+1876595566	¿Alguien tiene una ganzúa?
+1834249314	No recojas ninguna llave.
+518978118	Todo tranquilo
+279962271	Mata a todos los guardias del sanatorio.
+1190350410	Sin atajos
+1709591348	Completa la misión sin John, Suleidy ni Pinkus en tu equipo.
+389292892	La otra entrada
+1937659217	No uses ninguna puerta.
+1087318045	Secretos valiosos
+419275219	Entra en la cueva secreta que da a la prisión.
+2018454745	Un noble empeño
+1149355630	Completa la misión solo con Pinkus en tu equipo.
+76284990	Directo al grano
+1434100409	No pises el patio principal de la prisión (el que tiene el foso en forma de L).
+1715095072	En el foso
+481726667	Completa la misión sin pisar el gran puente.
+509154728	Asesino ausente
+11973624	Mata al Prognosticar mientras no haya nadie dentro de la zona de la plaza roja.
+1408789237	Playa apacible
+970220307	No ataques a ningún guardia fuera del fuerte principal.
+1189892327	No pienso subir ahí
+718392153	No pises ninguna de las torres.
+154203870	Déjalos en paz
+31341787	No ataques a los afines.
+1821387757	Ninguna preferencia en especial
+1312172632	Oculta al menos un cuerpo tanto en el arbusto rojo como en el azul.
+2106146343	No es esa clase de magia
+116336808	No entres en la cueva.
+2022346090	El puente debe resistir
+880689629	No ataques a los afines.
+1651720424	Hace 10 cuerpos que llegaba
+636151575	Oculta a 20 guardias en los arbustos mágicos.
+174517895	Luces fuera y a dormir
+1948843682	Mata a todos los guardias que llevan faroles. Ten solo a John en tu equipo.
+483498475	Hasta las narices del Infra
+1215070482	No uses la habilidad «¡Ancla va!» más de 4 veces. Ten solo a John en tu equipo.
+1345421501	Solo lo básico
+1453073210	Usa solo ataques cuerpo a cuerpo y distracciones.
+1987187352	Justicia relámpago
+70473208	Mata a 3 Iudex en menos de 2 segundos.
+2082869116	A la tercera va la vencida
+478720418	Mata 3 veces a los Custodios que custodian la cabeza del capitán sin tener que liberar uno de tus propios recuerdos.
+2004569389	Bajo la luz
+513601691	No uses el modo Sombra.
+830202282	Nuestro juego es otro
+916066166	Evita una liberación forzosa de la Inquisidora.
+446235675	Reservado para la Inquisición
+932673092	No entres en los barracones ni en el scriptorium.
+1505050577	Peregrino entusiasta
+1670587955	Llega a la Almenara del Juicio antes que el Confesor.
+1407018365	Masacre con la ballesta
+1048144007	Neutraliza a 30 guardias con la ballesta.
+796634386	Clásicos de oro
+1790454408	Completa la misión solo con Teresa y Pinkus en tu equipo.
+374446162	Lesión en la espalda
+161569795	No uses ninguna escalera con Teresa.
+1230074612	Dedicación máxima
+1681751882	Manipula la mente del sacerdote sin atacar a nadie antes.
+1473671880	El rito está claro
+1574548040	Consigue los objetos para la ceremonia sin manipular la mente de ningún guardia.
+1082765739	Demasiadas conexiones
+1449303461	Mata a los 4 afines del scriptorium.
+931977600	Vestido para la ocasión
+1163315361	Quema los restos de Sebastián estando dentro del cuerpo del Confesor.
+2067772621	Nada de cráneos
+871577418	Completa la misión sin Toya ni Quentin en tu equipo.
+1411307980	Cementerio solitario
+1392878969	Solo puede haber un tripulante en la parte de arriba del cementerio en cada momento.
+1384268783	No entremos ahí
+982414241	No entres en la parte baja del cementerio.
+305551358	Muros frágiles
+73626114	No entres en el anillo exterior del cuartel.
+680131070	¡Siguiente!
+505883352	Dispara al guardia que está registrando las quejas.
+2063192810	Que comience el juicio
+212111738	No ataques a ninguna Iudex.
+488673085	Manía por lo verde
+231677181	No trepes por ninguna hiedra.
+486873366	El armario entero
+839731512	Dispara a todos los tipos de guardias en el patio trasero de Arimtice. Los Custodios no son necesarios.
+1558106774	Solo explosivos de verdad
+2005393361	No uses la habilidad Petardos de Gaëlle.
+956260227	Arimtice resistirá
+83768109	Lleva a Arimtice en el cañón sin que se te caiga hasta llegar al almacén.
+505453537	Disculpe, señora
+1656233662	Sácale información a Yolanda.
+459908380	El verdadero crimen es hacerme leer
+601122120	Extrae información del registro.
+101539708	Ron barato para todos
+831794709	Mata a todos los guardias en el Velero Travieso.
+38213982	Un poco de la columna A
+1054538207	Compra ingredientes al mercader de los muelles.
+1923032931	Todo de la columna B
+275711535	Compra ingredientes al comerciante del mercado de pescado.
+1975055276	Esta mano es para cocinar
+163656722	Toya no puede subir por escaleras ni hiedras.
+1512917192	Mejor no cruzar ese puente cuando lleguemos
+308129788	No cruces ningún puente.
+2106775747	Vista mortal
+1920767105	Mata a un guardia con un tripulante que esté situado en el faro.
+1563020046	Sabía que era un incordio
+1540365300	Mata al Prognosticar antes de entrar en el faro.
+462227023	Un toque de desesperación
+756734283	Recoge el rastro de alma junto al cañón.
+476443997	Es un poco urgente
+325908634	Recoge el rastro de alma junto al barco.
+26925041	Ninguna Iudex sufrió daño alguno durante la misión
+1577346830	No ataques a ninguna Iudex.
+1301596445	Al final arderán
+1838982535	No ataques a los afines en lo alto del Navaja en Salmuera.
+1665608146	¡Cañonera lista!
+1339314629	Dispara un cañón y mata al menos a 2 guardias.
+1703146392	No vayamos todos
+782789680	Solo un tripulante puede subir a la cubierta del Navaja en Salmuera.
+1652037017	Objetivo claro
+1602318189	No mates a nadie, salvo a Sam Bellamy.
+415485731	Nada de armas blancas
+2109093519	Mata siempre a Sam Bellamy con un arma de fuego.
+1543366939	No perdamos el contacto
+1514546743	No ataques a ningún afín.
+134873773	Toma de tierra
+753560653	Ningún tripulante puede subir a una altura por encima del nivel más bajo.
+477867930	¿Qué va a hacer si no?
+1665723746	Quentin no puede usar ninguna habilidad, aparte de su Caña del Tesoro.
+387572387	La mano implacable de la justicia
+65378511	Primero, libera a tus compañeros de tripulación en el calcularium.
+1570828954	El olor de la violencia
+838441707	Primero, libera a tus compañeros de tripulación en el rectificarium.
+1282499261	Masoquismo
+860539865	Provoca a 2 Prognosticar al mismo tiempo con 1 solo tripulante.

@@ -1,0 +1,1209 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1994727495, guid: 3ba382422815fef8e898c6d23ed57c1e, type: 3}
+  m_Name: Badges_MiLocaNiceNamesAsset
+  m_EditorClassIdentifier:
+  m_arMapping:
+  - m_iUniqueID: 1796421427
+    m_strNiceName: badge_cha_generic_finish_mission
+  - m_iUniqueID: 1776211023
+    m_strNiceName: badge_cha_generic_finish_mission_desc
+  - m_iUniqueID: 338740426
+    m_strNiceName: badge_cha_generic_kill_ko
+  - m_iUniqueID: 671816372
+    m_strNiceName: badge_cha_generic_kill_ko_desc
+  - m_iUniqueID: 574906669
+    m_strNiceName: badge_cha_generic_visit_islands
+  - m_iUniqueID: 630650936
+    m_strNiceName: badge_cha_generic_visit_islands_desc
+  - m_iUniqueID: 1374517439
+    m_strNiceName: badge_cha_bln_travel_blinking
+  - m_iUniqueID: 1241633510
+    m_strNiceName: badge_cha_bln_travel_blinking_desc
+  - m_iUniqueID: 709084574
+    m_strNiceName: badge_cha_bln_travel_blinking_upwards
+  - m_iUniqueID: 1203276916
+    m_strNiceName: badge_cha_bln_travel_blinking_upwards_desc
+  - m_iUniqueID: 382895988
+    m_strNiceName: badge_cha_bln_timefreeze_in_conversation
+  - m_iUniqueID: 1388224552
+    m_strNiceName: badge_cha_bln_timefreeze_in_conversation_desc
+  - m_iUniqueID: 329978490
+    m_strNiceName: badge_cha_bln_kill_during_timefreeze
+  - m_iUniqueID: 1308173182
+    m_strNiceName: badge_cha_bln_kill_during_timefreeze_desc
+  - m_iUniqueID: 1339996187
+    m_strNiceName: badge_cha_bln_kill_within_time
+  - m_iUniqueID: 774948274
+    m_strNiceName: badge_cha_bln_kill_within_time_desc
+  - m_iUniqueID: 1394317276
+    m_strNiceName: badge_cha_bln_solo_ritual
+  - m_iUniqueID: 1740433382
+    m_strNiceName: badge_cha_bln_solo_ritual_desc
+  - m_iUniqueID: 949623244
+    m_strNiceName: badge_cha_bln_frozen_in_distance
+  - m_iUniqueID: 1732139871
+    m_strNiceName: badge_cha_bln_frozen_in_distance_desc
+  - m_iUniqueID: 1379963239
+    m_strNiceName: badge_cha_bsp_hide_corpses_simultaneously
+  - m_iUniqueID: 466478847
+    m_strNiceName: badge_cha_bsp_hide_corpses_simultaneously_desc
+  - m_iUniqueID: 1709826584
+    m_strNiceName: badge_cha_bsp_hide_player_simultaneously
+  - m_iUniqueID: 395133025
+    m_strNiceName: badge_cha_bsp_hide_player_simultaneously_desc
+  - m_iUniqueID: 979185353
+    m_strNiceName: badge_cha_bsp_walk_away_distance
+  - m_iUniqueID: 709264844
+    m_strNiceName: badge_cha_bsp_walk_away_distance_desc
+  - m_iUniqueID: 1275571015
+    m_strNiceName: badge_cha_bsp_hide_corpses
+  - m_iUniqueID: 1962667848
+    m_strNiceName: badge_cha_bsp_hide_corpses_desc
+  - m_iUniqueID: 260258007
+    m_strNiceName: badge_cha_bsp_walk_away_into_envkill
+  - m_iUniqueID: 1939572047
+    m_strNiceName: badge_cha_bsp_walk_away_into_envkill_desc
+  - m_iUniqueID: 972788601
+    m_strNiceName: badge_cha_bsp_solo_pillars
+  - m_iUniqueID: 1534608077
+    m_strNiceName: badge_cha_bsp_solo_pillars_desc
+  - m_iUniqueID: 1120467298
+    m_strNiceName: badge_cha_bsp_break_up_conversation
+  - m_iUniqueID: 372252512
+    m_strNiceName: badge_cha_bsp_break_up_conversation_desc
+  - m_iUniqueID: 1522570882
+    m_strNiceName: badge_cha_cnn_long_range_character_pull
+  - m_iUniqueID: 1266559953
+    m_strNiceName: badge_cha_cnn_long_range_character_pull_desc
+  - m_iUniqueID: 2053968532
+    m_strNiceName: badge_cha_cnn_shoot_char_far_down_into_water
+  - m_iUniqueID: 907794143
+    m_strNiceName: badge_cha_cnn_shoot_char_far_down_into_water_desc
+  - m_iUniqueID: 599505677
+    m_strNiceName: badge_cha_cnn_take_dev_guard_home
+  - m_iUniqueID: 689991763
+    m_strNiceName: badge_cha_cnn_take_dev_guard_home_desc
+  - m_iUniqueID: 2025069497
+    m_strNiceName: badge_cha_cnn_shoot_through_burning_ring
+  - m_iUniqueID: 1466972455
+    m_strNiceName: badge_cha_cnn_shoot_through_burning_ring_desc
+  - m_iUniqueID: 399891488
+    m_strNiceName: badge_cha_cnn_carry_players_around
+  - m_iUniqueID: 656497925
+    m_strNiceName: badge_cha_cnn_carry_players_around_desc
+  - m_iUniqueID: 699217888
+    m_strNiceName: badge_cha_cnn_ko_freezer_with_freezer
+  - m_iUniqueID: 817899462
+    m_strNiceName: badge_cha_cnn_ko_freezer_with_freezer_desc
+  - m_iUniqueID: 2076575347
+    m_strNiceName: badge_cha_cnn_solo_shanty
+  - m_iUniqueID: 441111936
+    m_strNiceName: badge_cha_cnn_solo_shanty_desc
+  - m_iUniqueID: 810007616
+    m_strNiceName: badge_cha_fsh_lure_into_envkill
+  - m_iUniqueID: 1097120540
+    m_strNiceName: badge_cha_fsh_lure_into_envkill_desc
+  - m_iUniqueID: 1525280257
+    m_strNiceName: badge_cha_fsh_baited
+  - m_iUniqueID: 1638244184
+    m_strNiceName: badge_cha_fsh_baited_desc
+  - m_iUniqueID: 671062219
+    m_strNiceName: badge_cha_fsh_fish_hide_bodies
+  - m_iUniqueID: 246431793
+    m_strNiceName: badge_cha_fsh_fish_hide_bodies_desc
+  - m_iUniqueID: 1440980588
+    m_strNiceName: badge_cha_fsh_fish_distance
+  - m_iUniqueID: 535082147
+    m_strNiceName: badge_cha_fsh_fish_distance_desc
+  - m_iUniqueID: 665878007
+    m_strNiceName: badge_cha_fsh_forbidden_combo
+  - m_iUniqueID: 1271734441
+    m_strNiceName: badge_cha_fsh_forbidden_combo_desc
+  - m_iUniqueID: 1507608638
+    m_strNiceName: badge_cha_fsh_solo_trading
+  - m_iUniqueID: 1592946582
+    m_strNiceName: badge_cha_fsh_solo_trading_desc
+  - m_iUniqueID: 1908246895
+    m_strNiceName: badge_cha_fsh_concurrent_tanuki_watchers
+  - m_iUniqueID: 1798492299
+    m_strNiceName: badge_cha_fsh_concurrent_tanuki_watchers_desc
+  - m_iUniqueID: 919766519
+    m_strNiceName: badge_cha_gcw_dig_hide_bodies
+  - m_iUniqueID: 1519184100
+    m_strNiceName: badge_cha_gcw_dig_hide_bodies_desc
+  - m_iUniqueID: 1524381849
+    m_strNiceName: badge_cha_gcw_fish_multi_distract
+  - m_iUniqueID: 339233934
+    m_strNiceName: badge_cha_gcw_fish_multi_distract_desc
+  - m_iUniqueID: 620612843
+    m_strNiceName: badge_cha_gcw_dig_hide_from_alarm
+  - m_iUniqueID: 1637348273
+    m_strNiceName: badge_cha_gcw_dig_hide_from_alarm_desc
+  - m_iUniqueID: 1076764697
+    m_strNiceName: badge_cha_gcw_dig_multi_kill
+  - m_iUniqueID: 1694073407
+    m_strNiceName: badge_cha_gcw_dig_multi_kill_desc
+  - m_iUniqueID: 1943872348
+    m_strNiceName: badge_cha_gcw_dig_kill_freezer
+  - m_iUniqueID: 764932920
+    m_strNiceName: badge_cha_gcw_dig_kill_freezer_desc
+  - m_iUniqueID: 2110734166
+    m_strNiceName: badge_cha_gcw_solo_bfield
+  - m_iUniqueID: 1653230357
+    m_strNiceName: badge_cha_gcw_solo_bfield_desc
+  - m_iUniqueID: 791767802
+    m_strNiceName: badge_cha_gcw_dig_kills_in_single_mission
+  - m_iUniqueID: 185582005
+    m_strNiceName: badge_cha_gcw_dig_kills_in_single_mission_desc
+  - m_iUniqueID: 665422454
+    m_strNiceName: badge_cha_ovt_freezer_freeze_freezer
+  - m_iUniqueID: 267178076
+    m_strNiceName: badge_cha_ovt_freezer_freeze_freezer_desc
+  - m_iUniqueID: 649801181
+    m_strNiceName: badge_cha_ovt_overtake_dev
+  - m_iUniqueID: 1221253114
+    m_strNiceName: badge_cha_ovt_overtake_dev_desc
+  - m_iUniqueID: 226294885
+    m_strNiceName: badge_cha_ovt_travel_overtaken
+  - m_iUniqueID: 825609211
+    m_strNiceName: badge_cha_ovt_travel_overtaken_desc
+  - m_iUniqueID: 862801335
+    m_strNiceName: badge_cha_ovt_overtaken_env_kill
+  - m_iUniqueID: 519935793
+    m_strNiceName: badge_cha_ovt_overtaken_env_kill_desc
+  - m_iUniqueID: 714721166
+    m_strNiceName: badge_cha_ovt_overtaken_env_kill_00
+  - m_iUniqueID: 1887863948
+    m_strNiceName: badge_cha_ovt_overtaken_env_kill_01
+  - m_iUniqueID: 1747980731
+    m_strNiceName: badge_cha_ovt_overtaken_env_kill_02
+  - m_iUniqueID: 367518586
+    m_strNiceName: badge_cha_ovt_overtaken_env_kill_03
+  - m_iUniqueID: 977848619
+    m_strNiceName: badge_cha_ovt_ring_alarm_bell
+  - m_iUniqueID: 994051683
+    m_strNiceName: badge_cha_ovt_ring_alarm_bell_desc
+  - m_iUniqueID: 1647327876
+    m_strNiceName: badge_cha_ovt_solo_sfort
+  - m_iUniqueID: 597826652
+    m_strNiceName: badge_cha_ovt_solo_sfort_desc
+  - m_iUniqueID: 719506953
+    m_strNiceName: badge_cha_ovt_take_me_home
+  - m_iUniqueID: 1486124990
+    m_strNiceName: badge_cha_ovt_take_me_home_desc
+  - m_iUniqueID: 1711745669
+    m_strNiceName: badge_cha_snp_kill_or_ko_sharpshooters
+  - m_iUniqueID: 1360009616
+    m_strNiceName: badge_cha_snp_kill_or_ko_sharpshooters_desc
+  - m_iUniqueID: 430668490
+    m_strNiceName: badge_cha_snp_kill_or_ko_without_moving
+  - m_iUniqueID: 451114187
+    m_strNiceName: badge_cha_snp_kill_or_ko_without_moving_desc
+  - m_iUniqueID: 71779348
+    m_strNiceName: badge_cha_snp_kill_detecting_sharpshooter
+  - m_iUniqueID: 7171066
+    m_strNiceName: badge_cha_snp_kill_detecting_sharpshooter_desc
+  - m_iUniqueID: 937707167
+    m_strNiceName: badge_cha_snp_kills_within_time
+  - m_iUniqueID: 967530653
+    m_strNiceName: badge_cha_snp_kills_within_time_desc
+  - m_iUniqueID: 1590254632
+    m_strNiceName: badge_cha_snp_solo_fortress
+  - m_iUniqueID: 634627229
+    m_strNiceName: badge_cha_snp_solo_fortress_desc
+  - m_iUniqueID: 1730150600
+    m_strNiceName: badge_cha_snp_visit_highest_points
+  - m_iUniqueID: 759708804
+    m_strNiceName: badge_cha_snp_visit_highest_points_desc
+  - m_iUniqueID: 1349058482
+    m_strNiceName: badge_cha_snp_kills_over_distance
+  - m_iUniqueID: 1856406577
+    m_strNiceName: badge_cha_snp_kills_over_distance_desc
+  - m_iUniqueID: 565291514
+    m_strNiceName: badge_cha_tpb_teleport_kill_ko_from_water
+  - m_iUniqueID: 1350999204
+    m_strNiceName: badge_cha_tpb_teleport_kill_ko_from_water_desc
+  - m_iUniqueID: 358016596
+    m_strNiceName: badge_cha_tpb_kill_monks_without_alarm
+  - m_iUniqueID: 902418873
+    m_strNiceName: badge_cha_tpb_kill_monks_without_alarm_desc
+  - m_iUniqueID: 1245370880
+    m_strNiceName: badge_cha_tpb_teleport_kill_multi_successive
+  - m_iUniqueID: 2048547117
+    m_strNiceName: badge_cha_tpb_teleport_kill_multi_successive_desc
+  - m_iUniqueID: 1731151518
+    m_strNiceName: badge_cha_tpb_whistle_multi_acolytes_monks
+  - m_iUniqueID: 961131779
+    m_strNiceName: badge_cha_tpb_whistle_multi_acolytes_monks_desc
+  - m_iUniqueID: 588487950
+    m_strNiceName: badge_cha_tpb_teleport_travel
+  - m_iUniqueID: 278692822
+    m_strNiceName: badge_cha_tpb_teleport_travel_desc
+  - m_iUniqueID: 1427631581
+    m_strNiceName: badge_cha_tpb_solo_furnace
+  - m_iUniqueID: 1968156686
+    m_strNiceName: badge_cha_tpb_solo_furnace_desc
+  - m_iUniqueID: 976517951
+    m_strNiceName: badge_cha_tpb_teleport_kill_detecting_sharpshooter
+  - m_iUniqueID: 1003294217
+    m_strNiceName: badge_cha_tpb_teleport_kill_detecting_sharpshooter_desc
+  - m_iUniqueID: 1743525484
+    m_strNiceName: badge_gen_kill_or_ko_enemies
+  - m_iUniqueID: 1003442845
+    m_strNiceName: badge_gen_kill_or_ko_enemies_desc
+  - m_iUniqueID: 2060292516
+    m_strNiceName: badge_gen_hide_bodies
+  - m_iUniqueID: 917333455
+    m_strNiceName: badge_gen_hide_bodies_desc
+  - m_iUniqueID: 1423868476
+    m_strNiceName: badge_gen_consecutive_alarm_duration
+  - m_iUniqueID: 119410899
+    m_strNiceName: badge_gen_consecutive_alarm_duration_desc
+  - m_iUniqueID: 471027101
+    m_strNiceName: badge_gen_hub_all_chars_unlocked
+  - m_iUniqueID: 636595407
+    m_strNiceName: badge_gen_hub_all_chars_unlocked_desc
+  - m_iUniqueID: 588123698
+    m_strNiceName: badge_gen_hub_unlock_trk
+  - m_iUniqueID: 692493016
+    m_strNiceName: badge_gen_hub_unlock_trk_desc
+  - m_iUniqueID: 1867105169
+    m_strNiceName: badge_gen_hub_all_char_upgrades_unlocked
+  - m_iUniqueID: 1290909975
+    m_strNiceName: badge_gen_hub_all_char_upgrades_unlocked_desc
+  - m_iUniqueID: 2135820633
+    m_strNiceName: badge_gen_kill_enemies_environment
+  - m_iUniqueID: 1611980959
+    m_strNiceName: badge_gen_kill_enemies_environment_desc
+  - m_iUniqueID: 1799271985
+    m_strNiceName: badge_gen_all_chars_plan_execute_at_once
+  - m_iUniqueID: 774550608
+    m_strNiceName: badge_gen_all_chars_plan_execute_at_once_desc
+  - m_iUniqueID: 765528557
+    m_strNiceName: badge_gen_cannon_multi_kill
+  - m_iUniqueID: 38798611
+    m_strNiceName: badge_gen_cannon_multi_kill_desc
+  - m_iUniqueID: 1727602809
+    m_strNiceName: badge_gen_kill_devs
+  - m_iUniqueID: 832564554
+    m_strNiceName: badge_gen_kill_devs_desc
+  - m_iUniqueID: 1934693226
+    m_strNiceName: badge_gen_kill_devs_adriano_nicolosi
+  - m_iUniqueID: 529894661
+    m_strNiceName: badge_gen_kill_devs_alejandro_del_horno
+  - m_iUniqueID: 216620134
+    m_strNiceName: badge_gen_kill_devs_anisha_fait
+  - m_iUniqueID: 1201963030
+    m_strNiceName: badge_gen_kill_devs_antony_opacak
+  - m_iUniqueID: 2105760855
+    m_strNiceName: badge_gen_kill_devs_cem_erdalan
+  - m_iUniqueID: 1882040411
+    m_strNiceName: badge_gen_kill_devs_corinna_rath
+  - m_iUniqueID: 516392657
+    m_strNiceName: badge_gen_kill_devs_dominik_abe
+  - m_iUniqueID: 668040958
+    m_strNiceName: badge_gen_kill_devs_dorian_kirschstein
+  - m_iUniqueID: 1319254292
+    m_strNiceName: badge_gen_kill_devs_elena_schulz
+  - m_iUniqueID: 1286447158
+    m_strNiceName: badge_gen_kill_devs_fabian_furthmann
+  - m_iUniqueID: 2088592610
+    m_strNiceName: badge_gen_kill_devs_felix_friedlein
+  - m_iUniqueID: 1852177106
+    m_strNiceName: badge_gen_kill_devs_filippo_beck_peccoz
+  - m_iUniqueID: 2139404311
+    m_strNiceName: badge_gen_kill_devs_florian_buschek
+  - m_iUniqueID: 386229669
+    m_strNiceName: badge_gen_kill_devs_florian_smolka
+  - m_iUniqueID: 1321894778
+    m_strNiceName: badge_gen_kill_devs_fridolin_kerner
+  - m_iUniqueID: 291835783
+    m_strNiceName: badge_gen_kill_devs_frieder_mielke
+  - m_iUniqueID: 1592828524
+    m_strNiceName: badge_gen_kill_devs_jan_pscheidt
+  - m_iUniqueID: 268500015
+    m_strNiceName: badge_gen_kill_devs_joey_heinze
+  - m_iUniqueID: 987838245
+    m_strNiceName: badge_gen_kill_devs_johannes_roth
+  - m_iUniqueID: 1989716839
+    m_strNiceName: badge_gen_kill_devs_jonas_blumer
+  - m_iUniqueID: 1156984225
+    m_strNiceName: badge_gen_kill_devs_kay_seifert
+  - m_iUniqueID: 1018025839
+    m_strNiceName: badge_gen_kill_devs_luca_andre_martinelli
+  - m_iUniqueID: 1000641590
+    m_strNiceName: badge_gen_kill_devs_lucas_reiner
+  - m_iUniqueID: 1574750981
+    m_strNiceName: badge_gen_kill_devs_maria_eder
+  - m_iUniqueID: 1099969350
+    m_strNiceName: badge_gen_kill_devs_martin_hamberger
+  - m_iUniqueID: 1375362139
+    m_strNiceName: badge_gen_kill_devs_mathias_herbster
+  - m_iUniqueID: 198609156
+    m_strNiceName: badge_gen_kill_devs_mathias_neukam
+  - m_iUniqueID: 1829112073
+    m_strNiceName: badge_gen_kill_devs_matthias_kraut
+  - m_iUniqueID: 473627092
+    m_strNiceName: badge_gen_kill_devs_moritz_wagner
+  - m_iUniqueID: 1427984674
+    m_strNiceName: badge_gen_kill_devs_olaf_hoffmann
+  - m_iUniqueID: 723968812
+    m_strNiceName: badge_gen_kill_devs_philipp_sellier
+  - m_iUniqueID: 284333016
+    m_strNiceName: badge_gen_kill_devs_philipp_wittershagen
+  - m_iUniqueID: 1606559485
+    m_strNiceName: badge_gen_kill_devs_ramon_grill
+  - m_iUniqueID: 1924548140
+    m_strNiceName: badge_gen_kill_devs_reinier_goijvaerts
+  - m_iUniqueID: 1389395824
+    m_strNiceName: badge_gen_kill_devs_simon_kratz
+  - m_iUniqueID: 205714214
+    m_strNiceName: badge_gen_kill_devs_stefan_fischer
+  - m_iUniqueID: 610967366
+    m_strNiceName: badge_gen_kill_devs_tatiana_krupenina
+  - m_iUniqueID: 1466591010
+    m_strNiceName: badge_gen_kill_devs_tobias_strehle
+  - m_iUniqueID: 174014305
+    m_strNiceName: badge_gen_kill_devs_tom_kersten
+  - m_iUniqueID: 1148876635
+    m_strNiceName: badge_gen_kill_devs_anna_magull
+  - m_iUniqueID: 970580259
+    m_strNiceName: badge_gen_kill_devs_bianca_dörr
+  - m_iUniqueID: 851930782
+    m_strNiceName: badge_gen_kill_devs_katharina_meck
+  - m_iUniqueID: 1722433722
+    m_strNiceName: badge_gen_kill_devs_sebastian_dev
+  - m_iUniqueID: 1986677157
+    m_strNiceName: badge_gen_kill_devs_toby_qa
+  - m_iUniqueID: 859606565
+    m_strNiceName: badge_gen_kill_devs_david_qa
+  - m_iUniqueID: 1929825460
+    m_strNiceName: badge_gen_all_badges_character
+  - m_iUniqueID: 196821766
+    m_strNiceName: badge_gen_all_badges_character_desc
+  - m_iUniqueID: 519542946
+    m_strNiceName: badge_gen_all_badges_location
+  - m_iUniqueID: 184232411
+    m_strNiceName: badge_gen_all_badges_location_desc
+  - m_iUniqueID: 996746267
+    m_strNiceName: badge_gen_all_badges_mission
+  - m_iUniqueID: 935591128
+    m_strNiceName: badge_gen_all_badges_mission_desc
+  - m_iUniqueID: 257072735
+    m_strNiceName: badge_gen_all_badges
+  - m_iUniqueID: 1908866821
+    m_strNiceName: badge_gen_all_badges_desc
+  - m_iUniqueID: 508117353
+    m_strNiceName: badge_gen_finish_mission_no_distractions
+  - m_iUniqueID: 1182981518
+    m_strNiceName: badge_gen_finish_mission_no_distractions_desc
+  - m_iUniqueID: 347395176
+    m_strNiceName: badge_gen_finish_mission_speedrun_any
+  - m_iUniqueID: 353110056
+    m_strNiceName: badge_gen_finish_mission_speedrun_any_desc
+  - m_iUniqueID: 1496781421
+    m_strNiceName: badge_gen_enter_marley
+  - m_iUniqueID: 1723406019
+    m_strNiceName: badge_gen_enter_marley_desc
+  - m_iUniqueID: 1837385959
+    m_strNiceName: badge_gen_kill_or_ko_freezers
+  - m_iUniqueID: 1810657921
+    m_strNiceName: badge_gen_kill_or_ko_freezers_desc
+  - m_iUniqueID: 759084458
+    m_strNiceName: badge_gen_kill_or_ko_sharpshooters
+  - m_iUniqueID: 591337845
+    m_strNiceName: badge_gen_kill_or_ko_sharpshooters_desc
+  - m_iUniqueID: 1383715465
+    m_strNiceName: badge_gen_kill_or_ko_monks
+  - m_iUniqueID: 1661523804
+    m_strNiceName: badge_gen_kill_or_ko_monks_desc
+  - m_iUniqueID: 281275021
+    m_strNiceName: badge_gen_kill_or_ko_enemies_within_time
+  - m_iUniqueID: 1905079886
+    m_strNiceName: badge_gen_kill_or_ko_enemies_within_time_desc
+  - m_iUniqueID: 92435746
+    m_strNiceName: badge_gen_finish_missions_hard_or_hardcore
+  - m_iUniqueID: 688926941
+    m_strNiceName: badge_gen_finish_missions_hard_or_hardcore_desc
+  - m_iUniqueID: 1119265358
+    m_strNiceName: badge_gen_finish_missions_no_kills
+  - m_iUniqueID: 1105738089
+    m_strNiceName: badge_gen_finish_missions_no_kills_desc
+  - m_iUniqueID: 361403897
+    m_strNiceName: badge_gen_finish_missions_no_alarms
+  - m_iUniqueID: 2703692
+    m_strNiceName: badge_gen_finish_missions_no_alarms_desc
+  - m_iUniqueID: 594087976
+    m_strNiceName: badge_gen_all_char_finish_mission
+  - m_iUniqueID: 1391943422
+    m_strNiceName: badge_gen_all_char_finish_mission_desc
+  - m_iUniqueID: 165245761
+    m_strNiceName: badge_gen_kill_inquisitor
+  - m_iUniqueID: 1342244480
+    m_strNiceName: badge_gen_kill_inquisitor_desc
+  - m_iUniqueID: 236092768
+    m_strNiceName: badge_gen_hub_all_questlines_finished
+  - m_iUniqueID: 832549656
+    m_strNiceName: badge_gen_hub_all_questlines_finished_desc
+  - m_iUniqueID: 209053828
+    m_strNiceName: badge_gen_all_char_quests
+  - m_iUniqueID: 1573171868
+    m_strNiceName: badge_gen_all_char_quests_desc
+  - m_iUniqueID: 763816689
+    m_strNiceName: badge_gen_hub_fire_all_cannons_in_time
+  - m_iUniqueID: 1961451621
+    m_strNiceName: badge_gen_hub_fire_all_cannons_in_time_desc
+  - m_iUniqueID: 423752836
+    m_strNiceName: badge_gen_hub_kill_all_skeletons_before_revive
+  - m_iUniqueID: 1145889832
+    m_strNiceName: badge_gen_hub_kill_all_skeletons_before_revive_desc
+  - m_iUniqueID: 167939290
+    m_strNiceName: badge_gen_hub_shoot_skeleton_in_water
+  - m_iUniqueID: 343671499
+    m_strNiceName: badge_gen_hub_shoot_skeleton_in_water_desc
+  - m_iUniqueID: 739135773
+    m_strNiceName: badge_gen_hub_all_chars_in_water
+  - m_iUniqueID: 468241108
+    m_strNiceName: badge_gen_hub_all_chars_in_water_desc
+  - m_iUniqueID: 1830896848
+    m_strNiceName: badge_gen_hub_run_on_ship_from_end_to_end
+  - m_iUniqueID: 401091815
+    m_strNiceName: badge_gen_hub_run_on_ship_from_end_to_end_desc
+  - m_iUniqueID: 611482871
+    m_strNiceName: badge_gen_hub_all_lights_extinguished_simultaneous
+  - m_iUniqueID: 862849373
+    m_strNiceName: badge_gen_hub_all_lights_extinguished_simultaneous_desc
+  - m_iUniqueID: 1368400389
+    m_strNiceName: badge_loc_generic_all_spawns
+  - m_iUniqueID: 1038967908
+    m_strNiceName: badge_loc_generic_all_spawns_desc
+  - m_iUniqueID: 262365509
+    m_strNiceName: badge_loc_generic_all_exits
+  - m_iUniqueID: 474748383
+    m_strNiceName: badge_loc_generic_all_exits_desc
+  - m_iUniqueID: 1652949645
+    m_strNiceName: badge_loc_generic_all_missions
+  - m_iUniqueID: 2115749099
+    m_strNiceName: badge_loc_generic_all_missions_desc
+  - m_iUniqueID: 1730658589
+    m_strNiceName: badge_loc_generic_kill_all
+  - m_iUniqueID: 1769322161
+    m_strNiceName: badge_loc_generic_kill_all_desc
+  - m_iUniqueID: 1199965089
+    m_strNiceName: badge_loc_starting_use_hidden_shrine
+  - m_iUniqueID: 1819139897
+    m_strNiceName: badge_loc_starting_use_hidden_shrine_desc
+  - m_iUniqueID: 414181416
+    m_strNiceName: badge_loc_starting_cross_wooden_bridge
+  - m_iUniqueID: 816285298
+    m_strNiceName: badge_loc_starting_cross_wooden_bridge_desc
+  - m_iUniqueID: 1385754340
+    m_strNiceName: badge_loc_starting_throw_into_water_pit
+  - m_iUniqueID: 1108419071
+    m_strNiceName: badge_loc_starting_throw_into_water_pit_desc
+  - m_iUniqueID: 1999711528
+    m_strNiceName: badge_loc_starting_throw_down_distance
+  - m_iUniqueID: 1143519443
+    m_strNiceName: badge_loc_starting_throw_down_distance_desc
+  - m_iUniqueID: 1382861619
+    m_strNiceName: badge_loc_starting_concurrent_kill_enemy_types
+  - m_iUniqueID: 2011522026
+    m_strNiceName: badge_loc_starting_concurrent_kill_enemy_types_desc
+  - m_iUniqueID: 259725027
+    m_strNiceName: badge_loc_trading_kill_custodes_within_time
+  - m_iUniqueID: 646401943
+    m_strNiceName: badge_loc_trading_kill_custodes_within_time_desc
+  - m_iUniqueID: 1456850186
+    m_strNiceName: badge_loc_trading_capture_the_flag
+  - m_iUniqueID: 1515795681
+    m_strNiceName: badge_loc_trading_capture_the_flag_desc
+  - m_iUniqueID: 1525850607
+    m_strNiceName: badge_loc_trading_kill_all_within_time
+  - m_iUniqueID: 1629435492
+    m_strNiceName: badge_loc_trading_kill_all_within_time_desc
+  - m_iUniqueID: 494578504
+    m_strNiceName: badge_loc_trading_kill_by_envkill_within_time
+  - m_iUniqueID: 1472530044
+    m_strNiceName: badge_loc_trading_kill_by_envkill_within_time_desc
+  - m_iUniqueID: 2132904266
+    m_strNiceName: badge_loc_trading_extinguish_lights
+  - m_iUniqueID: 304154263
+    m_strNiceName: badge_loc_trading_extinguish_lights_desc
+  - m_iUniqueID: 571546413
+    m_strNiceName: badge_loc_ritual_visit_highest_point
+  - m_iUniqueID: 416841032
+    m_strNiceName: badge_loc_ritual_visit_highest_point_desc
+  - m_iUniqueID: 1280164754
+    m_strNiceName: badge_loc_ritual_find_hidden_grotto
+  - m_iUniqueID: 1196458529
+    m_strNiceName: badge_loc_ritual_find_hidden_grotto_desc
+  - m_iUniqueID: 1205151961
+    m_strNiceName: badge_loc_ritual_kill_by_toxic_plants
+  - m_iUniqueID: 484653675
+    m_strNiceName: badge_loc_ritual_kill_by_toxic_plants_desc
+  - m_iUniqueID: 1378916474
+    m_strNiceName: badge_loc_ritual_concurrent_visit_inquisition_towers
+  - m_iUniqueID: 1165266285
+    m_strNiceName: badge_loc_ritual_concurrent_visit_inquisition_towers_desc
+  - m_iUniqueID: 957489229
+    m_strNiceName: badge_loc_ritual_kill_custodes
+  - m_iUniqueID: 1809104076
+    m_strNiceName: badge_loc_ritual_kill_custodes_desc
+  - m_iUniqueID: 785926450
+    m_strNiceName: badge_loc_ritual_throw_feed_dreadvine
+  - m_iUniqueID: 1089195980
+    m_strNiceName: badge_loc_ritual_throw_feed_dreadvine_desc
+  - m_iUniqueID: 1701416701
+    m_strNiceName: badge_loc_furnace_kill_freezer_tower
+  - m_iUniqueID: 1963989185
+    m_strNiceName: badge_loc_furnace_kill_freezer_tower_desc
+  - m_iUniqueID: 595804671
+    m_strNiceName: badge_loc_furnace_throw_coin_into_well
+  - m_iUniqueID: 288219293
+    m_strNiceName: badge_loc_furnace_throw_coin_into_well_desc
+  - m_iUniqueID: 1862240648
+    m_strNiceName: badge_loc_furnace_forced_meditation
+  - m_iUniqueID: 49803430
+    m_strNiceName: badge_loc_furnace_forced_meditation_desc
+  - m_iUniqueID: 1812577623
+    m_strNiceName: badge_loc_furnace_throw_freezer_into_pit
+  - m_iUniqueID: 1841979522
+    m_strNiceName: badge_loc_furnace_throw_freezer_into_pit_desc
+  - m_iUniqueID: 2090138995
+    m_strNiceName: badge_loc_furnace_throw_tied_up_into_prison
+  - m_iUniqueID: 231361530
+    m_strNiceName: badge_loc_furnace_throw_tied_up_into_prison_desc
+  - m_iUniqueID: 1093606645
+    m_strNiceName: badge_loc_furnace_kill_by_envkill
+  - m_iUniqueID: 2046527269
+    m_strNiceName: badge_loc_furnace_kill_by_envkill_desc
+  - m_iUniqueID: 1334930817
+    m_strNiceName: badge_loc_sfort_throw_into_body_hatch
+  - m_iUniqueID: 245791022
+    m_strNiceName: badge_loc_sfort_throw_into_body_hatch_desc
+  - m_iUniqueID: 820474579
+    m_strNiceName: badge_loc_sfort_kill_all_within_time
+  - m_iUniqueID: 1800275402
+    m_strNiceName: badge_loc_sfort_kill_all_within_time_desc
+  - m_iUniqueID: 379137919
+    m_strNiceName: badge_loc_sfort_firecracker_storage
+  - m_iUniqueID: 1815748725
+    m_strNiceName: badge_loc_sfort_firecracker_storage_desc
+  - m_iUniqueID: 583080850
+    m_strNiceName: badge_loc_sfort_no_footprints
+  - m_iUniqueID: 415947971
+    m_strNiceName: badge_loc_sfort_no_footprints_desc
+  - m_iUniqueID: 1164180219
+    m_strNiceName: badge_loc_sfort_kill_ship_guard
+  - m_iUniqueID: 886302043
+    m_strNiceName: badge_loc_sfort_kill_ship_guard_desc
+  - m_iUniqueID: 1163702209
+    m_strNiceName: badge_loc_sfort_chain_reaction
+  - m_iUniqueID: 453964669
+    m_strNiceName: badge_loc_sfort_chain_reaction_desc
+  - m_iUniqueID: 1228377308
+    m_strNiceName: badge_loc_pillars_use_door
+  - m_iUniqueID: 907467767
+    m_strNiceName: badge_loc_pillars_use_door_desc
+  - m_iUniqueID: 921545643
+    m_strNiceName: badge_loc_pillars_use_bottle
+  - m_iUniqueID: 1972114563
+    m_strNiceName: badge_loc_pillars_use_bottle_desc
+  - m_iUniqueID: 1034827242
+    m_strNiceName: badge_loc_pillars_kill_from_ground_to_top
+  - m_iUniqueID: 894199111
+    m_strNiceName: badge_loc_pillars_kill_from_ground_to_top_desc
+  - m_iUniqueID: 1173514808
+    m_strNiceName: badge_loc_pillars_switcheroo
+  - m_iUniqueID: 1692977504
+    m_strNiceName: badge_loc_pillars_switcheroo_desc
+  - m_iUniqueID: 1323456631
+    m_strNiceName: badge_loc_pillars_no_kill
+  - m_iUniqueID: 2056101649
+    m_strNiceName: badge_loc_pillars_no_kill_desc
+  - m_iUniqueID: 52140568
+    m_strNiceName: badge_loc_fortress_conquer_island
+  - m_iUniqueID: 1452331934
+    m_strNiceName: badge_loc_fortress_conquer_island_desc
+  - m_iUniqueID: 1330049190
+    m_strNiceName: badge_loc_fortress_zen_garden
+  - m_iUniqueID: 1170154792
+    m_strNiceName: badge_loc_fortress_zen_garden_desc
+  - m_iUniqueID: 670537220
+    m_strNiceName: badge_loc_fortress_kill_all_and_only_bell_guards
+  - m_iUniqueID: 904910703
+    m_strNiceName: badge_loc_fortress_kill_all_and_only_bell_guards_desc
+  - m_iUniqueID: 183284468
+    m_strNiceName: badge_loc_fortress_hopeless_blacksmith
+  - m_iUniqueID: 1457983441
+    m_strNiceName: badge_loc_fortress_hopeless_blacksmith_desc
+  - m_iUniqueID: 1146562751
+    m_strNiceName: badge_loc_fortress_kill_lonely_sharpshooter
+  - m_iUniqueID: 401364238
+    m_strNiceName: badge_loc_fortress_kill_lonely_sharpshooter_desc
+  - m_iUniqueID: 1062449301
+    m_strNiceName: badge_loc_fortress_kill_sharpshooter_within_time
+  - m_iUniqueID: 86263299
+    m_strNiceName: badge_loc_fortress_kill_sharpshooter_within_time_desc
+  - m_iUniqueID: 420718727
+    m_strNiceName: badge_loc_shanty_kill_all_in_fortress
+  - m_iUniqueID: 1609431365
+    m_strNiceName: badge_loc_shanty_kill_all_in_fortress_desc
+  - m_iUniqueID: 2020561794
+    m_strNiceName: badge_loc_shanty_use_all_graves
+  - m_iUniqueID: 1233587979
+    m_strNiceName: badge_loc_shanty_use_all_graves_desc
+  - m_iUniqueID: 1713276967
+    m_strNiceName: badge_loc_shanty_head_to_tail
+  - m_iUniqueID: 2029111481
+    m_strNiceName: badge_loc_shanty_head_to_tail_desc
+  - m_iUniqueID: 1169918969
+    m_strNiceName: badge_loc_shanty_visit_crows_nest
+  - m_iUniqueID: 1702207699
+    m_strNiceName: badge_loc_shanty_visit_crows_nest_desc
+  - m_iUniqueID: 1098205793
+    m_strNiceName: badge_loc_shanty_throw_freezer_into_water
+  - m_iUniqueID: 731922083
+    m_strNiceName: badge_loc_shanty_throw_freezer_into_water_desc
+  - m_iUniqueID: 550180401
+    m_strNiceName: badge_loc_shanty_kill_knocking_enemy
+  - m_iUniqueID: 1408717269
+    m_strNiceName: badge_loc_shanty_kill_knocking_enemy_desc
+  - m_iUniqueID: 692755054
+    m_strNiceName: badge_loc_shanty_different_exits
+  - m_iUniqueID: 2137388575
+    m_strNiceName: badge_loc_shanty_different_exits_desc
+  - m_iUniqueID: 1730831554
+    m_strNiceName: badge_loc_bfield_visit_lighthouse_top
+  - m_iUniqueID: 1103353001
+    m_strNiceName: badge_loc_bfield_visit_lighthouse_top_desc
+  - m_iUniqueID: 1045145721
+    m_strNiceName: badge_loc_bfield_no_water
+  - m_iUniqueID: 16088903
+    m_strNiceName: badge_loc_bfield_no_water_desc
+  - m_iUniqueID: 1033710575
+    m_strNiceName: badge_loc_bfield_kill_by_envkills_within_time
+  - m_iUniqueID: 183615894
+    m_strNiceName: badge_loc_bfield_kill_by_envkills_within_time_desc
+  - m_iUniqueID: 1982141459
+    m_strNiceName: badge_loc_bfield_throw_monks_into_fire
+  - m_iUniqueID: 196551828
+    m_strNiceName: badge_loc_bfield_throw_monks_into_fire_desc
+  - m_iUniqueID: 52164312
+    m_strNiceName: badge_loc_bfield_lure_by_footprints_into_envkill
+  - m_iUniqueID: 605889720
+    m_strNiceName: badge_loc_bfield_lure_by_footprints_into_envkill_desc
+  - m_iUniqueID: 661530197
+    m_strNiceName: badge_loc_bfield_go_fishing
+  - m_iUniqueID: 910154526
+    m_strNiceName: badge_loc_bfield_go_fishing_desc
+  - m_iUniqueID: 839554245
+    m_strNiceName: badge_mis_generic_finish_mission
+  - m_iUniqueID: 1875909914
+    m_strNiceName: badge_mis_generic_finish_mission_desc
+  - m_iUniqueID: 1087695327
+    m_strNiceName: badge_mis_generic_no_load
+  - m_iUniqueID: 467922770
+    m_strNiceName: badge_mis_generic_no_load_desc
+  - m_iUniqueID: 840866169
+    m_strNiceName: badge_mis_generic_kill_all
+  - m_iUniqueID: 1096284471
+    m_strNiceName: badge_mis_generic_kill_all_desc
+  - m_iUniqueID: 111994181
+    m_strNiceName: badge_mis_generic_no_kill_or_ko
+  - m_iUniqueID: 221988088
+    m_strNiceName: badge_mis_generic_no_kill_or_ko_desc
+  - m_iUniqueID: 343383419
+    m_strNiceName: badge_mis_generic_no_lights_extinguished
+  - m_iUniqueID: 4980436
+    m_strNiceName: badge_mis_generic_no_lights_extinguished_desc
+  - m_iUniqueID: 543531163
+    m_strNiceName: badge_mis_generic_no_doors
+  - m_iUniqueID: 1694017335
+    m_strNiceName: badge_mis_generic_no_doors_desc
+  - m_iUniqueID: 1194322690
+    m_strNiceName: badge_mis_generic_no_distractions
+  - m_iUniqueID: 899344366
+    m_strNiceName: badge_mis_generic_no_distractions_desc
+  - m_iUniqueID: 2108021903
+    m_strNiceName: badge_mis_generic_no_alarm
+  - m_iUniqueID: 1910744431
+    m_strNiceName: badge_mis_generic_no_alarm_desc
+  - m_iUniqueID: 2077344816
+    m_strNiceName: badge_mis_generic_solo_bln
+  - m_iUniqueID: 1314220147
+    m_strNiceName: badge_mis_generic_solo_bln_desc
+  - m_iUniqueID: 691651273
+    m_strNiceName: badge_mis_generic_solo_bsp
+  - m_iUniqueID: 1201230355
+    m_strNiceName: badge_mis_generic_solo_bsp_desc
+  - m_iUniqueID: 916067192
+    m_strNiceName: badge_mis_generic_solo_cnn
+  - m_iUniqueID: 1482682646
+    m_strNiceName: badge_mis_generic_solo_cnn_desc
+  - m_iUniqueID: 441910965
+    m_strNiceName: badge_mis_generic_solo_fsh
+  - m_iUniqueID: 2018093077
+    m_strNiceName: badge_mis_generic_solo_fsh_desc
+  - m_iUniqueID: 492203623
+    m_strNiceName: badge_mis_generic_solo_gcw
+  - m_iUniqueID: 1104764486
+    m_strNiceName: badge_mis_generic_solo_gcw_desc
+  - m_iUniqueID: 1872017290
+    m_strNiceName: badge_mis_generic_solo_ovt
+  - m_iUniqueID: 1913881026
+    m_strNiceName: badge_mis_generic_solo_ovt_desc
+  - m_iUniqueID: 1309598636
+    m_strNiceName: badge_mis_generic_solo_snp
+  - m_iUniqueID: 1537787198
+    m_strNiceName: badge_mis_generic_solo_snp_desc
+  - m_iUniqueID: 1508016607
+    m_strNiceName: badge_mis_generic_solo_tpb
+  - m_iUniqueID: 1154121962
+    m_strNiceName: badge_mis_generic_solo_tpb_desc
+  - m_iUniqueID: 431734923
+    m_strNiceName: badge_mis_generic_no_bushes
+  - m_iUniqueID: 561441932
+    m_strNiceName: badge_mis_generic_no_bushes_desc
+  - m_iUniqueID: 1317222667
+    m_strNiceName: badge_mis_generic_no_swim
+  - m_iUniqueID: 17730067
+    m_strNiceName: badge_mis_generic_no_swim_desc
+  - m_iUniqueID: 1544678407
+    m_strNiceName: badge_mis_generic_no_water
+  - m_iUniqueID: 1355048968
+    m_strNiceName: badge_mis_generic_no_water_desc
+  - m_iUniqueID: 437625537
+    m_strNiceName: badge_mis_generic_10
+  - m_iUniqueID: 1365788380
+    m_strNiceName: badge_mis_generic_desc_10
+  - m_iUniqueID: 1499203164
+    m_strNiceName: badge_mis_generic_no_guns
+  - m_iUniqueID: 458695223
+    m_strNiceName: badge_mis_generic_no_guns_desc
+  - m_iUniqueID: 1744737962
+    m_strNiceName: badge_mis_generic_no_carry
+  - m_iUniqueID: 105161197
+    m_strNiceName: badge_mis_generic_no_carry_desc
+  - m_iUniqueID: 331777561
+    m_strNiceName: badge_mis_generic_no_planning
+  - m_iUniqueID: 817191606
+    m_strNiceName: badge_mis_generic_no_planning_desc
+  - m_iUniqueID: 397716732
+    m_strNiceName: badge_mis_generic_no_three_chars
+  - m_iUniqueID: 738811040
+    m_strNiceName: badge_mis_generic_no_three_chars_desc
+  - m_iUniqueID: 2130013336
+    m_strNiceName: badge_mis_generic_no_climb
+  - m_iUniqueID: 1011100197
+    m_strNiceName: badge_mis_generic_no_climb_desc
+  - m_iUniqueID: 418842619
+    m_strNiceName: badge_mis_starting_01_intro1_no_kill_freezer
+  - m_iUniqueID: 1835434106
+    m_strNiceName: badge_mis_starting_01_intro1_no_kill_freezer_desc
+  - m_iUniqueID: 2020794394
+    m_strNiceName: badge_mis_starting_01_intro1_no_time_freeze_bomb
+  - m_iUniqueID: 135057061
+    m_strNiceName: badge_mis_starting_01_intro1_no_time_freeze_bomb_desc
+  - m_iUniqueID: 1353064736
+    m_strNiceName: badge_mis_starting_01_intro1_no_kill_or_ko_on_marley
+  - m_iUniqueID: 1625234751
+    m_strNiceName: badge_mis_starting_01_intro1_no_kill_or_ko_on_marley_desc
+  - m_iUniqueID: 167742853
+    m_strNiceName: badge_mis_starting_01_intro1_no_enter_ship_by_chain
+  - m_iUniqueID: 1109247902
+    m_strNiceName: badge_mis_starting_01_intro1_no_enter_ship_by_chain_desc
+  - m_iUniqueID: 1420802547
+    m_strNiceName: badge_mis_starting_02_intro2_catatonic_simultaneous
+  - m_iUniqueID: 1697002593
+    m_strNiceName: badge_mis_starting_02_intro2_catatonic_simultaneous_desc
+  - m_iUniqueID: 1729722193
+    m_strNiceName: badge_mis_starting_02_intro2_no_alarm_limited_kill_or_ko
+  - m_iUniqueID: 515063220
+    m_strNiceName: badge_mis_starting_02_intro2_no_alarm_limited_kill_or_ko_desc
+  - m_iUniqueID: 1151061562
+    m_strNiceName: badge_mis_starting_04_a3finale_capture_ships
+  - m_iUniqueID: 1084892496
+    m_strNiceName: badge_mis_starting_04_a3finale_capture_ships_desc
+  - m_iUniqueID: 1116770299
+    m_strNiceName: badge_mis_starting_04_a3finale_kill_freezer_simultaneous
+  - m_iUniqueID: 1020226235
+    m_strNiceName: badge_mis_starting_04_a3finale_kill_freezer_simultaneous_desc
+  - m_iUniqueID: 1198827749
+    m_strNiceName: badge_mis_starting_04_a3finale_overtake_inquisitor
+  - m_iUniqueID: 1590239656
+    m_strNiceName: badge_mis_starting_04_a3finale_overtake_inquisitor_desc
+  - m_iUniqueID: 799528455
+    m_strNiceName: badge_mis_trading_03_intro3_no_ladders_on_beach
+  - m_iUniqueID: 1220096621
+    m_strNiceName: badge_mis_trading_03_intro3_no_ladders_on_beach_desc
+  - m_iUniqueID: 1754888918
+    m_strNiceName: badge_mis_trading_03_intro3_all_memories_collected
+  - m_iUniqueID: 2007911037
+    m_strNiceName: badge_mis_trading_03_intro3_all_memories_collected_desc
+  - m_iUniqueID: 288410359
+    m_strNiceName: badge_mis_trading_03_intro3_kill_sharpshooter_no_water
+  - m_iUniqueID: 1373729647
+    m_strNiceName: badge_mis_trading_03_intro3_kill_sharpshooter_no_water_desc
+  - m_iUniqueID: 1312677786
+    m_strNiceName: badge_mis_trading_02_cnn_no_kill_or_ko
+  - m_iUniqueID: 166130773
+    m_strNiceName: badge_mis_trading_02_cnn_no_kill_or_ko_desc
+  - m_iUniqueID: 2109201762
+    m_strNiceName: badge_mis_trading_02_cnn_no_kill_or_ko_warden
+  - m_iUniqueID: 1634487370
+    m_strNiceName: badge_mis_trading_02_cnn_no_kill_or_ko_warden_desc
+  - m_iUniqueID: 2141449400
+    m_strNiceName: badge_mis_trading_02_cnn_no_whistlestone
+  - m_iUniqueID: 150889363
+    m_strNiceName: badge_mis_trading_02_cnn_no_whistlestone_desc
+  - m_iUniqueID: 873991372
+    m_strNiceName: badge_mis_ritual_01_mission1_collect_all_echoes
+  - m_iUniqueID: 299541657
+    m_strNiceName: badge_mis_ritual_01_mission1_collect_all_echoes_desc
+  - m_iUniqueID: 941826022
+    m_strNiceName: badge_mis_ritual_01_mission1_steal_key_without_kill_or_ko
+  - m_iUniqueID: 1206573713
+    m_strNiceName: badge_mis_ritual_01_mission1_steal_key_without_kill_or_ko_desc
+  - m_iUniqueID: 1404757201
+    m_strNiceName: badge_mis_ritual_01_mission1_kill_all_in_camp
+  - m_iUniqueID: 647887669
+    m_strNiceName: badge_mis_ritual_01_mission1_kill_all_in_camp_desc
+  - m_iUniqueID: 763153960
+    m_strNiceName: badge_mis_ritual_02_mission2_limited_charset
+  - m_iUniqueID: 1425170775
+    m_strNiceName: badge_mis_ritual_02_mission2_limited_charset_desc
+  - m_iUniqueID: 1954569905
+    m_strNiceName: badge_mis_ritual_02_mission2_search_creates_simultaneous
+  - m_iUniqueID: 2126078446
+    m_strNiceName: badge_mis_ritual_02_mission2_search_creates_simultaneous_desc
+  - m_iUniqueID: 2052616833
+    m_strNiceName: badge_mis_ritual_02_mission2_no_multiple_chars_on_beach
+  - m_iUniqueID: 2061726331
+    m_strNiceName: badge_mis_ritual_02_mission2_no_multiple_chars_on_beach_desc
+  - m_iUniqueID: 1495198702
+    m_strNiceName: badge_mis_ritual_02_mission2_no_kill_or_ko_on_beach
+  - m_iUniqueID: 1881340211
+    m_strNiceName: badge_mis_ritual_02_mission2_no_kill_or_ko_on_beach_desc
+  - m_iUniqueID: 2024853775
+    m_strNiceName: badge_mis_ritual_03_mission3_solo_kill_targets_no_alarm
+  - m_iUniqueID: 1550411335
+    m_strNiceName: badge_mis_ritual_03_mission3_solo_kill_targets_no_alarm_desc
+  - m_iUniqueID: 901892102
+    m_strNiceName: badge_mis_ritual_03_mission3_no_multiple_chars_on_island
+  - m_iUniqueID: 529522745
+    m_strNiceName: badge_mis_ritual_03_mission3_no_multiple_chars_on_island_desc
+  - m_iUniqueID: 1835297888
+    m_strNiceName: badge_mis_ritual_03_mission3_no_bridges
+  - m_iUniqueID: 937091928
+    m_strNiceName: badge_mis_ritual_03_mission3_no_bridges_desc
+  - m_iUniqueID: 51700476
+    m_strNiceName: badge_mis_ritual_04_bsp_no_kill_before_examination
+  - m_iUniqueID: 1053395609
+    m_strNiceName: badge_mis_ritual_04_bsp_no_kill_before_examination_desc
+  - m_iUniqueID: 735001286
+    m_strNiceName: badge_mis_ritual_04_bsp_feed_dread_vine
+  - m_iUniqueID: 597868467
+    m_strNiceName: badge_mis_ritual_04_bsp_feed_dread_vine_desc
+  - m_iUniqueID: 209655976
+    m_strNiceName: badge_mis_ritual_04_bsp_kill_monks_bsp
+  - m_iUniqueID: 2108519691
+    m_strNiceName: badge_mis_ritual_04_bsp_kill_monks_bsp_desc
+  - m_iUniqueID: 1709780012
+    m_strNiceName: badge_mis_ritual_04_bsp_kill_freezer_bsp
+  - m_iUniqueID: 43807392
+    m_strNiceName: badge_mis_ritual_04_bsp_kill_freezer_bsp_desc
+  - m_iUniqueID: 1062985495
+    m_strNiceName: badge_mis_furnace_03_soulenergy_throw_guard_into_pit
+  - m_iUniqueID: 903453745
+    m_strNiceName: badge_mis_furnace_03_soulenergy_throw_guard_into_pit_desc
+  - m_iUniqueID: 2061346095
+    m_strNiceName: badge_mis_furnace_03_soulenergy_solo_bridge
+  - m_iUniqueID: 1911651871
+    m_strNiceName: badge_mis_furnace_03_soulenergy_solo_bridge_desc
+  - m_iUniqueID: 1829039352
+    m_strNiceName: badge_mis_furnace_03_soulenergy_no_kill_or_ko_in_bookshelfs
+  - m_iUniqueID: 1402225079
+    m_strNiceName: badge_mis_furnace_03_soulenergy_no_kill_or_ko_in_bookshelfs_desc
+  - m_iUniqueID: 894492198
+    m_strNiceName: badge_mis_furnace_01_pearl_limited_charset
+  - m_iUniqueID: 1641252899
+    m_strNiceName: badge_mis_furnace_01_pearl_limited_charset_desc
+  - m_iUniqueID: 1722718507
+    m_strNiceName: badge_mis_furnace_01_pearl_enter_pit_not_from_bridge
+  - m_iUniqueID: 1708052909
+    m_strNiceName: badge_mis_furnace_01_pearl_enter_pit_not_from_bridge_desc
+  - m_iUniqueID: 861106376
+    m_strNiceName: badge_mis_furnace_01_pearl_no_fire_crates
+  - m_iUniqueID: 1646196189
+    m_strNiceName: badge_mis_furnace_01_pearl_no_fire_crates_desc
+  - m_iUniqueID: 1876595566
+    m_strNiceName: badge_mis_furnace_01_pearl_no_pickup_keys
+  - m_iUniqueID: 1834249314
+    m_strNiceName: badge_mis_furnace_01_pearl_no_pickup_keys_desc
+  - m_iUniqueID: 518978118
+    m_strNiceName: badge_mis_furnace_04_snp_kill_all_in_zen_garden
+  - m_iUniqueID: 279962271
+    m_strNiceName: badge_mis_furnace_04_snp_kill_all_in_zen_garden_desc
+  - m_iUniqueID: 1190350410
+    m_strNiceName: badge_mis_furnace_04_snp_limited_charset
+  - m_iUniqueID: 1709591348
+    m_strNiceName: badge_mis_furnace_04_snp_limited_charset_desc
+  - m_iUniqueID: 389292892
+    m_strNiceName: badge_mis_furnace_04_snp_no_doors
+  - m_iUniqueID: 1937659217
+    m_strNiceName: badge_mis_furnace_04_snp_no_doors_desc
+  - m_iUniqueID: 1087318045
+    m_strNiceName: badge_mis_furnace_02_compass_use_secret_cave
+  - m_iUniqueID: 419275219
+    m_strNiceName: badge_mis_furnace_02_compass_use_secret_cave_desc
+  - m_iUniqueID: 2018454745
+    m_strNiceName: badge_mis_furnace_02_compass_solo_ovt
+  - m_iUniqueID: 1149355630
+    m_strNiceName: badge_mis_furnace_02_compass_solo_ovt_desc
+  - m_iUniqueID: 76284990
+    m_strNiceName: badge_mis_furnace_02_compass_no_prison
+  - m_iUniqueID: 1434100409
+    m_strNiceName: badge_mis_furnace_02_compass_no_prison_desc
+  - m_iUniqueID: 1715095072
+    m_strNiceName: badge_mis_furnace_05_fsh_no_bridge
+  - m_iUniqueID: 481726667
+    m_strNiceName: badge_mis_furnace_05_fsh_no_bridge_desc
+  - m_iUniqueID: 509154728
+    m_strNiceName: badge_mis_furnace_05_fsh_kill_freezer_no_enter_prison
+  - m_iUniqueID: 11973624
+    m_strNiceName: badge_mis_furnace_05_fsh_kill_freezer_no_enter_prison_desc
+  - m_iUniqueID: 1408789237
+    m_strNiceName: badge_mis_sfort_01_mission1_no_kill_or_ko_outside_fort
+  - m_iUniqueID: 970220307
+    m_strNiceName: badge_mis_sfort_01_mission1_no_kill_or_ko_outside_fort_desc
+  - m_iUniqueID: 1189892327
+    m_strNiceName: badge_mis_sfort_01_mission1_no_enter_tower
+  - m_iUniqueID: 718392153
+    m_strNiceName: badge_mis_sfort_01_mission1_no_enter_tower_desc
+  - m_iUniqueID: 154203870
+    m_strNiceName: badge_mis_sfort_01_mission1_no_kill_or_ko_monk
+  - m_iUniqueID: 31341787
+    m_strNiceName: badge_mis_sfort_01_mission1_no_kill_or_ko_monk_desc
+  - m_iUniqueID: 1821387757
+    m_strNiceName: badge_mis_pillars_01_mission1_hide_in_both_bushes
+  - m_iUniqueID: 1312172632
+    m_strNiceName: badge_mis_pillars_01_mission1_hide_in_both_bushes_desc
+  - m_iUniqueID: 2106146343
+    m_strNiceName: badge_mis_pillars_01_mission1_no_cave
+  - m_iUniqueID: 116336808
+    m_strNiceName: badge_mis_pillars_01_mission1_no_cave_desc
+  - m_iUniqueID: 2022346090
+    m_strNiceName: badge_mis_pillars_01_mission1_no_kill_monks
+  - m_iUniqueID: 880689629
+    m_strNiceName: badge_mis_pillars_01_mission1_no_kill_monks_desc
+  - m_iUniqueID: 1651720424
+    m_strNiceName: badge_mis_pillars_01_mission1_hide_in_bushes
+  - m_iUniqueID: 636151575
+    m_strNiceName: badge_mis_pillars_01_mission1_hide_in_bushes_desc
+  - m_iUniqueID: 174517895
+    m_strNiceName: badge_mis_pillars_02_gcw_kill_all_with_lanterns
+  - m_iUniqueID: 1948843682
+    m_strNiceName: badge_mis_pillars_02_gcw_kill_all_with_lanterns_desc
+  - m_iUniqueID: 483498475
+    m_strNiceName: badge_mis_pillars_02_gcw_limited_dig_in
+  - m_iUniqueID: 1215070482
+    m_strNiceName: badge_mis_pillars_02_gcw_limited_dig_in_desc
+  - m_iUniqueID: 1345421501
+    m_strNiceName: badge_mis_fortress_01_mission1_kill_or_ko_only_melee
+  - m_iUniqueID: 1453073210
+    m_strNiceName: badge_mis_fortress_01_mission1_kill_or_ko_only_melee_desc
+  - m_iUniqueID: 1987187352
+    m_strNiceName: badge_mis_fortress_01_mission1_kill_sharpshooter_within_time
+  - m_iUniqueID: 70473208
+    m_strNiceName: badge_mis_fortress_01_mission1_kill_sharpshooter_within_time_desc
+  - m_iUniqueID: 2082869116
+    m_strNiceName: badge_mis_fortress_01_mission1_kill_custodes_three_times
+  - m_iUniqueID: 478720418
+    m_strNiceName: badge_mis_fortress_01_mission1_kill_custodes_three_times_desc
+  - m_iUniqueID: 2004569389
+    m_strNiceName: badge_mis_fortress_02_mission2_no_planning
+  - m_iUniqueID: 513601691
+    m_strNiceName: badge_mis_fortress_02_mission2_no_planning_desc
+  - m_iUniqueID: 830202282
+    m_strNiceName: badge_mis_fortress_02_mission2_avoid_forced_unleash
+  - m_iUniqueID: 916066166
+    m_strNiceName: badge_mis_fortress_02_mission2_avoid_forced_unleash_desc
+  - m_iUniqueID: 446235675
+    m_strNiceName: badge_mis_fortress_02_mission2_no_barracks_or_scriptorium
+  - m_iUniqueID: 932673092
+    m_strNiceName: badge_mis_fortress_02_mission2_no_barracks_or_scriptorium_desc
+  - m_iUniqueID: 1505050577
+    m_strNiceName: badge_mis_fortress_04_snp_judgement_before_confessor
+  - m_iUniqueID: 1670587955
+    m_strNiceName: badge_mis_fortress_04_snp_judgement_before_confessor_desc
+  - m_iUniqueID: 1407018365
+    m_strNiceName: badge_mis_fortress_04_snp_kill_snipe
+  - m_iUniqueID: 1048144007
+    m_strNiceName: badge_mis_fortress_04_snp_kill_snipe_desc
+  - m_iUniqueID: 796634386
+    m_strNiceName: badge_mis_fortress_04_snp_limited_charset
+  - m_iUniqueID: 1790454408
+    m_strNiceName: badge_mis_fortress_04_snp_limited_charset_desc
+  - m_iUniqueID: 374446162
+    m_strNiceName: badge_mis_fortress_04_snp_no_climb_snp
+  - m_iUniqueID: 161569795
+    m_strNiceName: badge_mis_fortress_04_snp_no_climb_snp_desc
+  - m_iUniqueID: 1230074612
+    m_strNiceName: badge_mis_fortress_03_ovt_priest_first
+  - m_iUniqueID: 1681751882
+    m_strNiceName: badge_mis_fortress_03_ovt_priest_first_desc
+  - m_iUniqueID: 1473671880
+    m_strNiceName: badge_mis_fortress_03_ovt_no_overtake_until_ceremony
+  - m_iUniqueID: 1574548040
+    m_strNiceName: badge_mis_fortress_03_ovt_no_overtake_until_ceremony_desc
+  - m_iUniqueID: 1082765739
+    m_strNiceName: badge_mis_fortress_03_ovt_kill_monks_scriptorium
+  - m_iUniqueID: 1449303461
+    m_strNiceName: badge_mis_fortress_03_ovt_kill_monks_scriptorium_desc
+  - m_iUniqueID: 931977600
+    m_strNiceName: badge_mis_fortress_03_ovt_start_burial_as_priest
+  - m_iUniqueID: 1163315361
+    m_strNiceName: badge_mis_fortress_03_ovt_start_burial_as_priest_desc
+  - m_iUniqueID: 2067772621
+    m_strNiceName: badge_mis_shanty_03_mission3_limited_charset
+  - m_iUniqueID: 871577418
+    m_strNiceName: badge_mis_shanty_03_mission3_limited_charset_desc
+  - m_iUniqueID: 1411307980
+    m_strNiceName: badge_mis_shanty_03_mission3_solo_graveyard
+  - m_iUniqueID: 1392878969
+    m_strNiceName: badge_mis_shanty_03_mission3_solo_graveyard_desc
+  - m_iUniqueID: 1384268783
+    m_strNiceName: badge_mis_shanty_03_mission3_no_graveyard
+  - m_iUniqueID: 982414241
+    m_strNiceName: badge_mis_shanty_03_mission3_no_graveyard_desc
+  - m_iUniqueID: 305551358
+    m_strNiceName: badge_mis_shanty_04_mission4_no_outer_fort_ring
+  - m_iUniqueID: 73626114
+    m_strNiceName: badge_mis_shanty_04_mission4_no_outer_fort_ring_desc
+  - m_iUniqueID: 680131070
+    m_strNiceName: badge_mis_shanty_04_mission4_shoot_beschwerdetisch
+  - m_iUniqueID: 505883352
+    m_strNiceName: badge_mis_shanty_04_mission4_shoot_beschwerdetisch_desc
+  - m_iUniqueID: 2063192810
+    m_strNiceName: badge_mis_shanty_04_mission4_no_kill_or_ko_sharpshooter
+  - m_iUniqueID: 212111738
+    m_strNiceName: badge_mis_shanty_04_mission4_no_kill_or_ko_sharpshooter_desc
+  - m_iUniqueID: 488673085
+    m_strNiceName: badge_mis_shanty_04_mission4_no_climb_agile
+  - m_iUniqueID: 231677181
+    m_strNiceName: badge_mis_shanty_04_mission4_no_climb_agile_desc
+  - m_iUniqueID: 486873366
+    m_strNiceName: badge_mis_shanty_05_cnn_arimtrice_garden
+  - m_iUniqueID: 839731512
+    m_strNiceName: badge_mis_shanty_05_cnn_arimtrice_garden_desc
+  - m_iUniqueID: 1558106774
+    m_strNiceName: badge_mis_shanty_05_cnn_no_whistlestone
+  - m_iUniqueID: 2005393361
+    m_strNiceName: badge_mis_shanty_05_cnn_no_whistlestone_desc
+  - m_iUniqueID: 956260227
+    m_strNiceName: badge_mis_shanty_05_cnn_no_drop_arimtrice
+  - m_iUniqueID: 83768109
+    m_strNiceName: badge_mis_shanty_05_cnn_no_drop_arimtrice_desc
+  - m_iUniqueID: 505453537
+    m_strNiceName: badge_mis_shanty_06_gcw_yolanda
+  - m_iUniqueID: 1656233662
+    m_strNiceName: badge_mis_shanty_06_gcw_yolanda_desc
+  - m_iUniqueID: 459908380
+    m_strNiceName: badge_mis_shanty_06_gcw_ledger
+  - m_iUniqueID: 601122120
+    m_strNiceName: badge_mis_shanty_06_gcw_ledger_desc
+  - m_iUniqueID: 101539708
+    m_strNiceName: badge_mis_shanty_06_gcw_kill_all_at_pub
+  - m_iUniqueID: 831794709
+    m_strNiceName: badge_mis_shanty_06_gcw_kill_all_at_pub_desc
+  - m_iUniqueID: 38213982
+    m_strNiceName: badge_mis_shanty_07_tpb_merchant_a
+  - m_iUniqueID: 1054538207
+    m_strNiceName: badge_mis_shanty_07_tpb_merchant_a_desc
+  - m_iUniqueID: 1923032931
+    m_strNiceName: badge_mis_shanty_07_tpb_merchant_b
+  - m_iUniqueID: 275711535
+    m_strNiceName: badge_mis_shanty_07_tpb_merchant_b_desc
+  - m_iUniqueID: 1975055276
+    m_strNiceName: badge_mis_shanty_07_tpb_no_climb_tpb
+  - m_iUniqueID: 163656722
+    m_strNiceName: badge_mis_shanty_07_tpb_no_climb_tpb_desc
+  - m_iUniqueID: 1512917192
+    m_strNiceName: badge_mis_bfield_01_pearl_no_bridges
+  - m_iUniqueID: 308129788
+    m_strNiceName: badge_mis_bfield_01_pearl_no_bridges_desc
+  - m_iUniqueID: 2106775747
+    m_strNiceName: badge_mis_bfield_01_pearl_kill_on_lighthouse
+  - m_iUniqueID: 1920767105
+    m_strNiceName: badge_mis_bfield_01_pearl_kill_on_lighthouse_desc
+  - m_iUniqueID: 1563020046
+    m_strNiceName: badge_mis_bfield_01_pearl_kill_freezer_before_lighthouse
+  - m_iUniqueID: 1540365300
+    m_strNiceName: badge_mis_bfield_01_pearl_kill_freezer_before_lighthouse_desc
+  - m_iUniqueID: 462227023
+    m_strNiceName: badge_mis_bfield_02_soulenergy_soul_trace_a
+  - m_iUniqueID: 756734283
+    m_strNiceName: badge_mis_bfield_02_soulenergy_soul_trace_a_desc
+  - m_iUniqueID: 476443997
+    m_strNiceName: badge_mis_bfield_02_soulenergy_soul_trace_b
+  - m_iUniqueID: 325908634
+    m_strNiceName: badge_mis_bfield_02_soulenergy_soul_trace_b_desc
+  - m_iUniqueID: 26925041
+    m_strNiceName: badge_mis_bfield_02_soulenergy_no_kill_or_ko_sharpshooter
+  - m_iUniqueID: 1577346830
+    m_strNiceName: badge_mis_bfield_02_soulenergy_no_kill_or_ko_sharpshooter_desc
+  - m_iUniqueID: 1301596445
+    m_strNiceName: badge_mis_bfield_03_cnn_no_kill_or_ko_monks_on_ship
+  - m_iUniqueID: 1838982535
+    m_strNiceName: badge_mis_bfield_03_cnn_no_kill_or_ko_monks_on_ship_desc
+  - m_iUniqueID: 1665608146
+    m_strNiceName: badge_mis_bfield_03_cnn_cannon_multikill
+  - m_iUniqueID: 1339314629
+    m_strNiceName: badge_mis_bfield_03_cnn_cannon_multikill_desc
+  - m_iUniqueID: 1703146392
+    m_strNiceName: badge_mis_bfield_03_cnn_solo_ship
+  - m_iUniqueID: 782789680
+    m_strNiceName: badge_mis_bfield_03_cnn_solo_ship_desc
+  - m_iUniqueID: 1652037017
+    m_strNiceName: badge_mis_bfield_04_tpb_no_kill
+  - m_iUniqueID: 1602318189
+    m_strNiceName: badge_mis_bfield_04_tpb_no_kill_desc
+  - m_iUniqueID: 415485731
+    m_strNiceName: badge_mis_bfield_04_tpb_kill_sam_always_gun
+  - m_iUniqueID: 2109093519
+    m_strNiceName: badge_mis_bfield_04_tpb_kill_sam_always_gun_desc
+  - m_iUniqueID: 1543366939
+    m_strNiceName: badge_mis_bfield_04_tpb_no_kill_or_ko_monks
+  - m_iUniqueID: 1514546743
+    m_strNiceName: badge_mis_bfield_04_tpb_no_kill_or_ko_monks_desc
+  - m_iUniqueID: 134873773
+    m_strNiceName: badge_mis_bfield_05_fsh_no_second_floor
+  - m_iUniqueID: 753560653
+    m_strNiceName: badge_mis_bfield_05_fsh_no_second_floor_desc
+  - m_iUniqueID: 477867930
+    m_strNiceName: badge_mis_bfield_05_fsh_no_fsh_skills_beside_fishing
+  - m_iUniqueID: 1665723746
+    m_strNiceName: badge_mis_bfield_05_fsh_no_fsh_skills_beside_fishing_desc
+  - m_iUniqueID: 387572387
+    m_strNiceName: badge_mis_granddes_01_mission1_science_first
+  - m_iUniqueID: 65378511
+    m_strNiceName: badge_mis_granddes_01_mission1_science_first_desc
+  - m_iUniqueID: 1570828954
+    m_strNiceName: badge_mis_granddes_01_mission1_military_first
+  - m_iUniqueID: 838441707
+    m_strNiceName: badge_mis_granddes_01_mission1_military_first_desc
+  - m_iUniqueID: 1282499261
+    m_strNiceName: badge_mis_granddes_01_mission1_solo_multiple_freezer
+  - m_iUniqueID: 860539865
+    m_strNiceName: badge_mis_granddes_01_mission1_solo_multiple_freezer_desc

@@ -1,0 +1,597 @@
+1796421427	Korsan
+1776211023	Görevleri bu mürettebat üyesiyle tamamla.
+338740426	Deli Fişek
+671816372	Muhafızları bu mürettebat ütesiyle yere ser.
+574906669	Kâşif
+630650936	Bu mürettebat üyesiyle tüm adalarda bir görev tamamla.
+1374517439	Uzak Diye Bir Şey Yok
+1241633510	Apansız ile belirli bir mesafe kaydet.
+709084574	Tek Yol Yukarı
+1203276916	Apansız ile 5 farklı yerde yukarı doğru 9 metre veya daha fazla mesafe katedin.
+382895988	Kendinden Geçmiş
+1388224552	En az iki farklı muhafızla konuşan muhafız üstünde Zaman Dondurması kullan.
+329978490	Afia'nın Dünyası
+1308173182	Birisi Zamanı Durdur etkisi altındayken 5 muhafız öldür
+1339996187	Zincirsiz
+774948274	Sadece Afia'yı kullanarak 7 saniye içinde 3 muhafız öldür.
+1394317276	Dehşet İçinde Yalnız
+1740433382	Ekibinde yalnızca Afia bulunurken Dehşetli Sarmaşığın Korusu'nda bir görev tamamla.
+949623244	Uzaktan Kışkırtmak
+1732139871	Bir Prognastikatı 15 metre uzaktan kışkırt.
+1379963239	Zor Kısım
+466478847	Örtbas Tohumları kullanarak tek seferde 5 veya daha fazla ceset gizle.
+1709826584	Örtbas Kalabalığı
+395133025	Örtbas Tohumları kullanarak tek seferde 8 mürettebat üyesi gizle.
+979185353	Yürümek Sana İyi Gelir
+709264844	Avare Tozu (veya geliştirmesini)  kullanarak muhafızları 500 metre yürüt.
+1275571015	Bırak Yapraklar Her Şeyi Örtsün
+1962667848	Örtbas Tohumları kullanarak 200 ceset gizle.
+260258007	İyi Olacaksın
+1939572047	Avare Tozu kullanarak bir muhafızı ortam ölümüne gönder.
+972788601	Tımarhane Ziyareti
+1534608077	Ekibinde sadece Suleidy varken Nerechtemeresch Sütunları'ndaki bir görevi tamamla.
+1120467298	Saate Bak!
+372252512	Avare Tozu kullanarak 5 farklı ortamda 5 konuşmayı böl.
+1522570882	Gel Buraya!
+1266559953	Bir mürettebat üyesini 150 metre veya daha uzaktan Kanoluna çek.
+2053968532	Dalış
+907794143	Kanol kullanarak bir mürettebat üyesini suyun 18 metre altına gönder.
+599505677	Güverteye Hoş Geldin
+689991763	Bir Mimimi geliştiricisini Marley'e götür.
+2025069497	Gaëlle Sirki
+1466972455	Birini ateşleyerek yanan halkanın içinden geçir.
+399891488	Sırtında Gezdir
+656497925	Bir mürettebat üyesini 500 metre taşı.
+699217888	Büyük Karambol
+817899462	Bir Prognastikatı başka bir Prognastikatla yere ser.
+2076575347	Festivalde Bir Şair
+441111936	Ekibinde sadece Gaëlle varken Fener Balığıının Mezarı'nda bir görev tamamla.
+810007616	Hazine Tuzağı
+1097120540	Bir muhafızı çevre öldürmesine yönlendir.
+1525280257	Kanca, Misina ve Kurşun
+1638244184	Altın Kafa ile bir muhafızı yemle ve ona ulaşmadan Altın Kafa'yı geri al.
+671062219	Sandığı Doldurmak
+246431793	Hazine Oltası kullanarak 150 cesedi kendine çek.
+1440980588	Yükselten Deneyim
+535082147	4 ada setinde Quentin'in 12 metre aşağısındaki bir mürettebat üyesini ona doğru çek.
+665878007	Wombo Kombosu
+1271734441	Gaëlle Kanoluyla Quentin'i bir yere ateşledikten sonra Hazine Oltası'yla Gaëlle'i kendine çek.
+1507608638	Sıkı Pazarlık
+1592946582	Ekibinde yalnızca Quentin varken Demir Körfezi'nde bir görev tamamla.
+1908246895	Minik Bir Kargaşa
+1798492299	5 veya daha fazla muhafızın aynı anda Kıkırdayan Horoz'u izlemesini sağla.
+919766519	Kaplumbağa Yemi
+1519184100	Aşağı Çapa Atma kullanarak 50 cesedi gizle.
+1524381849	Bak Sen!
+339233934	Sör Reginald'ı kullanarak ay anda 5 veya daha fazla muhafızın dikkatini dağıt.
+620612843	Pusuya Yatmak
+1637348273	John ile yakalan ve ortalık sakinleşene kadar Ağaşı Çapa Atma kullanarak saklan.
+1076764697	Gölgelerden Gelen
+1694073407	Dipte saklanan mürettebat üyeleriyle 3 saniye içinde 3 muhafız öldür.
+1943872348	Geldiğini Hiç Görmedim
+764932920	Yukarı Çapa Atma kullanarak bir Prognastikat öldür.
+2110734166	Deniz Dibi Gezintisi
+1653230357	Ekibinde sadece John varken Müsibet Körfezi'nde bir görev tamamla.
+791767802	Sıraya Diz, Yere Ser
+185582005	Yukarı Çapa Atma kullanarak bir görevde 15 muhafız öldür.
+665422454	Dur!
+267178076	Bir Prognastikat olarak bir Prognastikat'a saldır.
+649801181	Koleksiyon Büyüyor
+1221253114	Her adada en az bir Mimimi Geliştiricisinin kontrolünü ele al.
+226294885	Kendini Başkasının Yerine Koy
+825609211	Başka birini kontrol ederken 10000 metre mesafe kaydet.
+862801335	Macera Turizmi
+519935793	Başka birini kontrol ederken 4 farklı ortam öldürme türüyle öl.
+714721166	Düşen Taş
+1887863948	Sahipsiz Yük
+1747980731	Top Ateşi
+367518586	Meyveli Patlama
+977848619	Alarm! Ein Verletzter!
+994051683	Destek kuvvet çağırmak için alarm zilini kullan.
+1647327876	Presswald Kefareti
+597826652	Ekibinde sadece Pinkus varken Kefaret Adası'nda bir görev tamamla.
+719506953	Yeni Uşak
+1486124990	Pinkus bir Mimimi Geliştiricisini kontrol ederken bir görev tamamla.
+1711745669	La Doncella Sea Contigo
+1360009616	Demir Yargılama ile 30 yargıcı indir
+430668490	Tünemek
+451114187	Atışlar arasında hareket etmeden 10 muhafızı indir.
+71779348	Nişancı Düellosu
+7171066	Demir Yargı kullanarak Teresa ile onu fark eden bir yargıcı alarm zilini çalmadan önce öldür.
+937707167	Hızlı Yargı
+967530653	5 saniye içinde 3 muhafız öldür.
+1590254632	Özel Kutsal Yolculuk
+634627229	Ekibinde sadece Teresa varken Gran Alcâzar'da bir görev tamamla.
+1730150600	Kuş Uçuşu
+759708804	Tüm adaların en yüksek noktalarını ziyaret et.
+1349058482	Ölüm Senin İçin Geliyor
+1856406577	30 metreden daha uzak mesafeden 20 muhafız öldür.
+565291514	Su Gibi Hareket Et
+1350999204	Yüzerken Gölge Adım ile bir muhafızı indir.
+358016596	Bir Taşla İki Kuş
+902418873	Toya ile alarm çalmadan bir Psişik çiftini öldür.
+1245370880	Işınlanma Alıştırması
+2048547117	Gölge Adım'ı hızlı bir şekilde art arda iki kez kullanarak 7 saniye içinde 2 muhafız öldür.
+1731151518	Çok Etkili
+961131779	Kuş Sesi kullanarak 4 veya daha fazla Rahip Yardımcısı veya Psişik yemle.
+588487950	Mil ve Fazlası
+278692822	Gölge Adım kullanarak 250 metre veya daha fazla seyahat et.
+1427631581	Ateşte Pişirmek
+1968156686	Ekibinde sadece Toya varken Demir Körfezi'ndeki bir görevi tamamla.
+976517951	Sen Zaten Ölüsün
+1003294217	Gölge Adım kullanarak Toya'yı fark eden bir yargıcı alarm vermeden önce öldür.
+1743525484	Öteki Tarafa Hoş Geldin
+1003442845	Toplamda 3000 muhafızın işini bitir.
+2060292516	Gözden Irak Gönülden Irak
+917333455	750 ceset gizle.
+1423868476	Bakirenin Gazabı'yla Yüzleş
+119410899	Aralıksız 5 dakika boyunca alarm çalmasını sağla
+471027101	Herkes Görev Başına
+636595407	Tüm mürettebat üyelerini canlandır.
+588123698	Çabuk Signora
+692493016	Gizli mürettebat üyesinin kilidini aç
+1867105169	Moraller Yüksek
+1290909975	Tüm yetenek geliştirmelerinin kilidini aç
+2135820633	Zalim Kader
+1611980959	Çevre öldürmelerini kullanarak 50 muhafız öldür.
+1799271985	Büyük Plan
+774550608	8 mürettebat üyesiyle bir planı hayata geçir.
+765528557	Delici Atış
+38798611	Bir top ortam öldürmesiyle  2 ya da daha fazla muhafız öldür.
+1727602809	Biraz Daha Ağla
+832564554	Tüm Mimimi Geliştiricilerini bul ve öldür.
+1934693226	
+529894661	
+216620134	
+1201963030	
+2105760855	
+1882040411	
+516392657	
+668040958	
+1319254292	
+1286447158	
+2088592610	
+1852177106	
+2139404311	
+386229669	
+1321894778	
+291835783	
+1592828524	
+268500015	
+987838245	
+1989716839	
+1156984225	
+1018025839	
+1000641590	
+1574750981	
+1099969350	
+1375362139	
+198609156	
+1829112073	
+473627092	
+1427984674	
+723968812	
+284333016	
+1606559485	
+1924548140	
+1389395824	
+205714214	
+610967366	
+1466591010	
+174014305	
+1148876635	
+970580259	
+851930782	
+1722433722	
+1986677157	
+859606565	
+1929825460	Ruhun Gücü
+196821766	Tüm mürettebat rozetlerini topla.
+519542946	Biz De O Yollardan Geçtik
+184232411	Tüm mekân rozetlerini kazan.
+996746267	Bir Kez Daha Görev Başına
+935591128	Tüm görev rozetlerini kazan.
+257072735	Gerçek Korsan
+1908866821	Tüm rozetleri kazan.
+508117353	Basit Tut
+1182981518	Herhangi bir dikkat dağıtma kullanmadan bir görevi tamamla.
+347395176	Tik Tak
+353110056	Bir görevi 3 dakikadan daha kısa sürede tamamla.
+1496781421	İçeri Girince Daha Büyük
+1723406019	Marley'in ambarlarına gir.
+1837385959	Kâfir Belirsizlik
+1810657921	100 Prognostikat indir.
+759084458	Yargı Ertelendi
+591337845	100 yargıç indir.
+1383715465	Ebedî Bağ
+1661523804	150 psişik indir.
+281275021	Takım İşi
+1905079886	30 psişik indir.
+92435746	Efsane Doğuyor
+688926941	Efsanevi veya Lanetli zorluk seviyesinde 10 görev tamamla.
+1119265358	Kansız Baskın
+1105738089	Kimseyi (görev hedefleri hariç) öldürmeden 10 görev tamamla.
+361403897	Hayalet Korsan
+2703692	Alarm çaldırmadan 10 görev tamamla.
+594087976	Hayatının Baharı
+1391943422	Her bir mürettebat üyesiyle 5 görev tamamla.
+165245761	Beni Alt Edemezsin!
+1342244480	Bir görevde Engizitör Ignacia'yı 10 kere öldür.
+236092768	Rutinin Bir Parçası
+832549656	Tüm Mürettebat Hikâyeleri'ni tamamla.
+209053828	Pişmanlık Yok
+1573171868	Tüm Kaptanın Testleri'ni tamamla
+763816689	Tüm Borda
+1961451621	Marley'deki tüm topları 2 saniye içinde ateşle.
+423752836	Yerde Kal
+1145889832	Biri tekrar canlanmadan önce güvertedeki tüm iskeletleri öldür.
+167939290	Denizde Cenaze
+343671499	Marley üzerindeyken, Gaëlle ile bir iskeleti suya at.
+739135773	Sahil Krizi
+468241108	Marley üzerindeyken, yüzebilen tüm mürettebat üyelerini aynı anda topla.
+1830896848	Hızlı Bir Denetim
+401091815	Marley üzerindeyken, Kaptan'ın kamarasından geminin en önüne 5 saniye içinde ulaş.
+611482871	Ürkütücü Aydınlatma
+862849373	Marley üzerindeyken, kullanılabilir tüm ışık kaynaklarının aynı anda sönmesini sağla.
+1368400389	İniş Noktasını Seç
+1038967908	Tüm iniş noktalarını kullan.
+262365509	Marley'e Dönüş
+474748383	Tüm yarıkları kullan.
+1652949645	Hepsi Tamam
+2115749099	Bu konumdaki bütün görevleri tamamla.
+1730658589	Onlara Aman Verme
+1769322161	Bir görevdeki tüm düşmanları öldür.
+1199965089	Derinlerdekilere Şükür Olsun
+1819139897	Gizli tapınakta dua et.
+414181416	İkiz Tepeler
+816285298	Zirvedeki ahşap köprüden geç.
+1385754340	Kayıp Zaman
+1108419071	Adanın kalbindeki su havzasına birisini at.
+1999711528	Aşağı Yol Uzun
+1143519443	Birinin 30 metreden daha fazla düşmesini sağla.
+1382861619	Rütbelerin Arasından
+2011522026	5 farklı muhafız türünü aynı anda öldür.
+259725027	Dengeyi Korumak
+646401943	İki Bekçi'yi de aynı anda öldür.
+1456850186	Bayrağı Ele Geçir
+1515795681	Engizisyon bayrağını Marley bayrağıyla değiştir.
+1525850607	Ev Temizliği
+1629435492	Bütün muhafızları 3 dakika içinde öldür.
+494578504	Ayin Kurbanı
+1472530044	3 muhafızı düşen bir kayayla aynı anda öldür. Bağlanmış muhafızlar sayılmaz.
+2132904266	Alevleri Söndür
+304154263	Bir gece görevi sırasında en az 20 farklı ışığı söndür.
+571546413	Uçurum Yarışçısı
+416841032	Bu adanın en yüksek konumuna ulaş.
+1280164754	Alcoba Azul
+1196458529	Yüzebilen bir mürettebat üyesiyle bu gizli mağaraya dal.
+1205151961	Son Derece Değişken
+484653675	Tek bir görevde Korku Meyvesi ortam öldürmesiyle 10 veya daha fazla muhafız öldür.
+1378916474	Hey, Birbirimizi Görebiliyoruz!
+1165266285	Aynı anda 3 Engizisyon kulesinde bulun.
+957489229	Bekçileri Sustur!
+1809104076	Tek bir görevde 7 bekçi öldür.
+785926450	Dehşeti Beslemek
+1089195980	Dehşetli Sarmaşık'ın etrafındaki çukura 20 ceset at.
+1701416701	Ekselansları
+1963989185	Bir kulede bulunan Prognastikat'ı öldür.
+595804671	Dilek Kuyusu
+288219293	Sanatoryum'daki kuyuya bir sikke at.
+1862240648	Zorla Meditasyon
+49803430	Bir muhafızı bağla ve onu boş bir matın üzerine bırak.
+1812577623	Kıyamet Tapınağı
+1841979522	Ateşli çukara bir Prognastikat at.
+2090138995	Çukura Dönüş
+231361530	Zindan çukuruna 5 bağlanmış muhafız at.
+1093606645	İş Kazası
+2046527269	Tek bir görevde ortam öldürmesiyle 10 muhafız öldür.
+1334930817	İstiflemek
+245791022	Ceset kanalından bir muhafızı aşağı at.
+820474579	Hızlı Kefaret
+1800275402	8 dakika içinde tüm muhafızları öldür.
+379137919	Bomba Geliyor
+1815748725	Gaëlle'in maytaplarını ruh vazosunun içine at.
+583080850	Sıcak Kumlar
+415947971	Kuma hiç dokunmadan bir görevi tamamla.
+1164180219	Kimse Gitmiyor
+886302043	Engizisyon gemisindeki muhafızı öldür.
+1163702209	Zincirleme Tepki
+453964669	Bir Bekçi'yi ortam ölüdrmesi kullanarak öldür ve ölümü 4 muhafızın taş kesilmesine neden olsun.
+1228377308	Tuza Bulanmış Mağaralar
+907467767	Uğursuz kapıyı bul.
+921545643	Şu Sessiz Sır
+1972114563	Şişedeki mesajı bul.
+1034827242	Ölümcül Yükseliş
+894199111	Adadaki tüm muhafızları aşağıdan yükseğe doğru öldür. Aynı yükseklikteki muhafızlar, daha yüksek bir seviyeye çıkmadan önce öldürülmelidir.
+1173514808	Şaşırtıcı Değişim
+1692977504	Tüm Psişikleri, partnelerinin normal görev yeri alan adanın ortasında öldür
+1323456631	Yalnızca Oyun ve Eğlence
+2056101649	Kimseye saldırmadan bir görev tamamla.
+52140568	Tahkimatlı Siper Nedir?
+1452331934	Yükleme alanının yakınındaki tahkimatlı siperi ele geçir.
+1330049190	Bahçe Meditasyonu
+1170154792	Bakirenin Bahçeleri'nde tüm muhafızları yere ser ve hiçbirini saklama.
+670537220	Çanlar Kimin İçin Çalıyor
+904910703	Diğer muhafızlara saldırmadan Alarm Zili taşıyan tüm muhafızları öldür.
+183284468	Umutsuz Çırak
+1457983441	Pinkus ile baş demirciyi ele geçir ve çırağından kurtulmak için topu kullan.
+1146562751	Yalnız Hükümdarlık
+401364238	Yalnız yargıcı öldür.
+1062449301	Mahkeme Ertelendi
+86263299	Herhangi bir görev sırasında 6 saniye içinde 6 yargıç öldür.
+420718727	Savaş Çığlığı
+1609431365	Teftiş alanı ve liman dâhil olmak üzere garnizon içindeki tüm muhafızları öldür.
+2020561794	Cadılar Bayramı
+1233587979	Mezarlığın üst tarafındaki birkaç şüpheli kalıntıyı incele.
+1713276967	Baştan Kuyruğa
+2029111481	Fener Balığı'nın Çenesi iniş noktasında bir görev başlat ve görevi Kuyruk Yüzgeci İskelesi'ndeki yarıkta bitir.
+1169918969	Yumurta Hırsızı
+1702207699	Şımarık Şalopa'daki gerçek karga yuvasını bul.
+1098205793	İhtiyar ve Deniz
+731922083	Yalnız Prognastikatı deniz at.
+550180401	Üçkâğıt Yok
+1408717269	Muz satıcısının üst tarafındaki kapıyı çalan muhafızı öldür.
+692755054	Dağılın!
+2137388575	3 mürettebat üyesiyle 3 farklı Yarık kullanarak görevden ayrıl.
+1730831554	Demek Buraya Böyle Geldin
+1103353001	Deniz Feneri'nin tepesine ulaş.
+1045145721	Kuru Kalmayı Seviyorum
+16088903	Deniz değmeden bir görevi tamamla.
+1033710575	Musibet Akışı
+183615894	Ortam öldürmesi kullanarak 5 muhafızı aynı anda öldür.
+1982141459	Kızarmış
+196551828	Gemideki iki Psişiği de ateşe at.
+52164312	Kedi Fare Oyunu
+605889720	Ortam öldürmesi kullanarak ayak izlerini takip eden 5 muhafızı öldür.
+661530197	Cılız Balıkçılar
+910154526	Cılız İskeleler'de balığa çık.
+839554245	İlk Adım
+1875909914	Görevi tamamla.
+1087695327	Riskli Girişim
+467922770	Görevi bir anıyı serbest bırakmadan tamamla.
+840866169	Temizlik
+1096284471	Bu görevdeki tüm muhafızları öldür.
+111994181	Kan Dökmeye Gerek Yok
+221988088	Kimseye saldırma veya kimseyi öldürme.
+343383419	Ateş Koruyucusu
+4980436	Hiçbir ışığı söndürme.
+543531163	Kapıları Kimse Sevmez
+1694017335	Hiçbir kapıyı ve geçidi kullanma.
+1194322690	Minimalist Yaklaşım
+899344366	Hiçbir dikkat dağıtma yöntemini kullanma.
+2108021903	Gerçek Hayalet
+1910744431	Alarm çaldırmadan görevi tamamla.
+2077344816	Yalnız Yön Bulucu
+1314220147	Görevi ekibinde sadece Afia varken bitir.
+691651273	Yalnız Gemi Doktoru
+1201230355	Görevi ekibinde sadece Suleidy ile bitir.
+916067192	Yalnız Topçu
+1482682646	Görevi ekibinde sadece Gaëlle ile bitir.
+441910965	Yalnız Hazine Avcısı
+2018093077	Görevi ekibinde sadece Quentin ile bitir.
+492203623	Yalnız Gemi Ustası
+1104764486	Görevi ekibinde sadece John ile bitir.
+1872017290	Yalnız Levazım Subayı
+1913881026	Görevi ekibinde sadece Pinkus ile bitir.
+1309598636	Yalnız Keskin Nişancı
+1537787198	Görevi ekibinde sadece Teresa ile bitir.
+1508016607	Yalnız Gemi Aşçısı
+1154121962	Görevi ekibinde sadece Toya ile bitir.
+431734923	Herkesin Önünde
+561441932	Hiçbir saklanma noktasına dokunmadan görevi tamamla.
+1317222667	Karayolu
+17730067	Hiç yüzmeden görevi tamamla.
+1544678407	Sudan Korkan
+1355048968	Hiçbir suya dokunma.
+437625537	Hadi Ses Çıkaralım
+1365788380	Görevi yalnızca silah kullanarak tamamla.
+1499203164	Sessiz Ol
+458695223	Görevi hiçbir silah kullanmadan tamamla.
+1744737962	Bırak Kalsın
+105161197	Hiçbir cesedi alma.
+331777561	Hayır, Ben İyiyim
+817191606	Gölge Modunu kullanma.
+397716732	Üç Çok Fazla
+738811040	Ekibinden üçten az mürettebat üyesi bulunuyorken görevi tamamla.
+2130013336	Biz Böyle Çıkarız
+1011100197	Hiçbir merdiven veya sarmaşığı kullanma.
+418842619	Bölüm Arası
+1835434106	Prognastikatı öldürmeden geç.
+2020794394	Zamanı Kurcalamak Yok
+135057061	Afia'nın Zamanı Durdur yeteneğini kullanma.
+1353064736	Yalnızca Geçiyordum
+1625234751	Bekçi dışında Marley'deki kimseye saldırma.
+167742853	Meydan Okumaları Severim
+1109247902	Marley'e zincir kullanarak çıkma.
+1420802547	Ceza Aksadı
+1697002593	5 muhafızın aynı anda taş kesilmesini sağla.
+1729722193	Cerrah Hassasiyeti
+515063220	Dörtten fazla muhafıza saldırma ve alarm çalmasına neden olma.
+1151061562	Bordalama Partisi
+1084892496	Tüm Engizisyon Gemilerine bin ve Mürettebatlarını indir.
+1116770299	Birlikte Kuvvet Doğar
+1020226235	3 Prognastikatı aynı anda öldür.
+1198827749	Büyük Sahtekâr
+1590239656	Pinkus ile Ignacia'nın kontrolünü ele geçir.
+799528455	Uzun Tur
+1220096621	Koyu Sahil'deki merdiveni kullanma.
+1754888918	Büyük Resim
+2007911037	Tüm anı parçalarını topla.
+288410359	Tam Burnunun Ucunda
+1373729647	Görev sırasında suya hiç dokunmadan yargıcı öldür.
+1312677786	Dikkat Çekmeden
+166130773	Arimtice'i koruyan Komiserler dışında kimseye saldırma. Ekibinde sadece Gaëlle olsun.
+2109201762	Sıvışmak
+1634487370	Görevi, Arimtice'i koruyan Komisere saldırmadan bitir. Ekibinde sadece Gaëlle olsun.
+2141449400	Dikkat Dağıtmak Yok
+150889363	Gaëlle'in Maytap yeteneğini kullanma. Ekibinde yalnızca Gaëlle olsun.
+873991372	Fesat Düşünceler
+299541657	Tüm anı parçalarını topla.
+941826022	Yankesici
+1206573713	Herhangi bir Psişiğe saldırmadan anahtarı çal.
+1404757201	Daha Fazla Deney Yok
+647887669	Araştırma karakolundaki tüm muhafızları öldür.
+763153960	Sahilde Sorun Var
+1425170775	Bu göreve Afia, Suleidy, John veya Pinkus'u götürme.
+1954569905	3-2-1 Yadigâr!
+2126078446	3 yadigâr parçasını da aynı anda al.
+2052616833	Yalnız Gidiyorum
+2061726331	Yalnızca bir mürettebat üyesi sahile ayak basabilir.
+1495198702	Sahil Güvenlik
+1881340211	Sahildeki hiçbir muhafıza saldırma.
+2024853775	Üçe Karşı Tek
+1550411335	Magistratus ve iki yancısını sadece tek bir mürettebat üyesi kullanarak ve alarm çaldırmadan yen.
+901892102	Uzaklardan Gelen Prognastikat
+529522745	Siyah İnci bulunan adaya yalnızca bir mürettebat üyesi ayak basabilir.
+1835297888	Uçurum Atlayıcıları
+937091928	Hiçbir köprüyü kullanma.
+51700476	Temiz Eller
+1053395609	Suleidy kökü incelemeden önce hiç kimseyi öldürme.
+735001286	Teselli Yiyeceği
+597868467	Dehşetli sarmaşık'ı 8 cesetle besle.
+209655976	Çifte Operasyon
+2108519691	Suleidy ile iki Psişiği de öldür
+1709780012	Hayır Bunu Yapamazsın
+43807392	Suleidy ile Büyün Arındırıcıyı öldür.
+1062985495	Xibalba'ya!
+903453745	Büyük köprünün sonundaki muhafızı çukura at.
+2061346095	Beyaz Yol
+1911651871	Büyük köprüye yalnızca bir mürettebat üyesi ayak basabilir.
+1829039352	Tedbir Kesintisizdir
+1402225079	Lanetli nesneleri inceleyen 4 Komiserden hiçbirine saldırma.
+894492198	Yakın ve Kişisel
+1641252899	Gaëlle veya Quentin'i bu göreve götürme.
+1722718507	Ne Büyük Heyecan
+1708052909	Büyük köprüdeki kapılara girmeden görevi bitir.
+861106376	Dünyevi Değil
+1646196189	Kasaları ateşe verme.
+1876595566	Kimsede Maymuncuk Var Mı?
+1834249314	Hiçbir anahtarı alma.
+518978118	Ortalık Sessiz
+279962271	Sanatoryumdaki tüm muhafızları öldür.
+1190350410	Kısayol Yok
+1709591348	Ekibinde John, Suleidy veya Pinkus olmadan görevi bitir.
+389292892	Başka Bir Yol
+1937659217	Herhangi bir kapı veya geçidi kullanma.
+1087318045	Değerli Sırlar
+419275219	Zindana giden gizli mağaraya gir.
+2018454745	Asil Bir Amaç
+1149355630	Ekibinde sadece Pinkus varken görevi tamamla.
+76284990	Sadede Gel
+1434100409	Ana zindan avlusuna (içinde L şeklinde bir çukur olan) adım atma.
+1715095072	Madenci
+481726667	Büyük köprüye ayak basmadan görevi tamamla.
+509154728	Dalgın Suikastçı
+11973624	Kırmızı kare bölgenin içinde kimse yokken Prognastikatı öldür.
+1408789237	Huzurlu Sahil
+970220307	Ana kale dışındaki muhafıza saldırma.
+1189892327	Oraya Çıkmam
+718392153	Hiçbir kuleye ayak basma.
+154203870	Onları Rahat Bırak
+31341787	Psişiğe saldırma.
+1821387757	Tercihim Yok
+1312172632	Hem kırmızı hem mavi çalılığa en az bir ceset sakla.
+2106146343	O Tür Bir Büyü Değil
+116336808	Mağaraya girme.
+2022346090	Köprü Dayanmalı
+880689629	Psişiğe saldırma.
+1651720424	On Ceset Yeterliydi
+636151575	Büyülü çalılıklara 20 muhafız sakla.
+174517895	Işıklar Söndü
+1948843682	Lamba taşıyan tüm muhafızları öldür. Ekibinde sadece John olsun.
+483498475	Bu Kadar Dip Yeter
+1215070482	Demir Atma yeteneğeini 4 kezden fazla kullanma. Ekibinde sadece John olsun.
+1345421501	Yalnızca Temel Bilgiler
+1453073210	Yalnızca yakın saldırı ve dikkat dağıtma yöntemlerini kullan.
+1987187352	Işık Adaleti
+70473208	2 saniye içinde 3 yargıç öldür.
+2082869116	Üçte Keramet Vardır
+478720418	Kaptan'ın kafasını koruyan Bekçileri herhangi bir anını serbest bırakmadan üç kez öldür.
+2004569389	Işıklar İçinde
+513601691	Gölge Modu'nu kullanma.
+830202282	Bizim Oyunumuz Başka
+916066166	Engizisyoncu tarafından zorla serbest bırakılmaktan kaçın.
+446235675	Engizisyon İçin Rezervedir
+932673092	Kışlaya veya Yazıhaneye girme.
+1505050577	Hevesli Kutsal Yolcu
+1670587955	Yargı Feneri'ne İtirafçıdan önce ulaş.
+1407018365	Arbalet Savaşçısı
+1048144007	Arbalet ile 30 muhafızı alt et.
+796634386	Eski Ama Değerli
+1790454408	Ekibinde sadece Teresa ve Pinkus varken görevi tamamla.
+374446162	Sırt Ağrısı
+161569795	Teresa ile hiçbir merdiveni kullanma.
+1230074612	İşe Odaklanmış
+1681751882	Kimseye saldırmadan önce rahibin zihnini incele.
+1473671880	Ayin Çok Açık
+1574548040	Herhangi bir muhafızın aklına girmeden tören için gerekli malzemeleri topla.
+1082765739	Çok Fazla Bağlantı
+1449303461	Yazıhanedeki 4 Psişiği öldür.
+931977600	Duruma Uygun Giyinmiş
+1163315361	Confessor'un bedenindeyken Sebastian'ın kalıntılarını yak.
+2067772621	Kafatası Bölgesi Olmaz
+871577418	Ekibinde Toya veya Quentin olmadan görevi tamamla.
+1411307980	Yalnız Mezarlık
+1392878969	Üst mezarlıkta aynı anda yalnızca tek mürettebat üyesi bulunabilir.
+1384268783	Oraya Gitmeyelim
+982414241	Alt mezarlık bölgesine girme.
+305551358	Gevşek Duvarlar
+73626114	Garnizonun dış halkasına girme.
+680131070	Sıradaki!
+505883352	Şikâyetleri kabul eden muhafızı vur.
+2063192810	Yargılama Başlasın
+212111738	Herhangi bir yargıca saldırma.
+488673085	Yeşilden Sakınma
+231677181	Herhangi bir sarmaşığa tırmanma.
+486873366	Bütün Gardırop
+839731512	Arimtice'in arka bahçesindeki tüm muhafızları vur. Bekçiler gereksizdir.
+1558106774	Minik Patlamalar Olmaz
+2005393361	Gaëlle Maytap yeteneğini kullanamaz.
+956260227	Arimtice Bu İşi Halleder
+83768109	Arimtice'i topun içinde taşı ve depoya kadar asla düşürme.
+505453537	Affedersiniz Hanımefendi
+1656233662	Yolanda'dan bilgi al.
+459908380	Asıl Suçları Beni Okutmaları
+601122120	Defterden bilgi al.
+101539708	Herkese Ucuz Rom
+831794709	Şımarık Şalopa'daki tüm muhafızları öldür.
+38213982	Biraz Ondan
+1054538207	Rıhtımdaki tüccardan malzemeleri al.
+1923032931	Biraz Bundan
+275711535	Balık pazarındaki tüccardan malzemeleri al.
+1975055276	Bu Eller Sadece Yemek Yapar
+163656722	Toya hiçbir merdivene veya sarmaşığa tırmanamaz.
+1512917192	Oraya Vardığımızda O Köprüyü Geçmeyelim
+308129788	Hiçbir köprüden geçme.
+2106775747	Ölümcül Seyir
+1920767105	Deniz fenerinde konuşlanmış bir mürettebat üyesiyle bir muhafızı öldür.
+1563020046	Sinir Bozucu Biri Biliyorum
+1540365300	Deniz Fenerine girmeden önce Prognastikatı öldür.
+462227023	Bir Çaresizlik İzi
+756734283	Topun yanındaki Ruh İzini topla.
+476443997	Bir Tutam Aciliyet
+325908634	Teknenin yanındaki ruh izini topla.
+26925041	Bu Görev Esnasında Hiçbir Yargıç Zarar Görmedi
+1577346830	Hiçbir yargıca saldırma.
+1301596445	Eninde Sonunda Yanacaklar
+1838982535	Dalgakıran'ın tepesindeki Psişiğe saldırma.
+1665608146	Topçu Hazır!
+1339314629	Bir top ateşle ve en az 2 muhafız öldür.
+1703146392	Oraya Hep Birlikte Gitmeyelim
+782789680	Dalgakıran'ın güvertesine yalnızca tek mürettebat üyesi ayak basabilir.
+1652037017	Açık Hedef
+1602318189	Sam Bellamy dışında kimseyi öldürme.
+415485731	Kılıçlar İşe Yaramaz
+2109093519	Sam Bellamy'yi her seferinde ateşli silahla öldür.
+1543366939	Bağlantıyı Koparmayalım
+1514546743	Hiçbir Psişiğe saldırma.
+134873773	Cezalı
+753560653	Hiçbir mürettebat üyesi en alt seviyeden daha yükseğe çıkamaz.
+477867930	Başka Ne Yapacak?
+1665723746	Quentin Hazine Oltası dışında hiçbir yeteneğini kullanamaz.
+387572387	Hükmün Sızısı
+65378511	Önce Calcularium'daki mürettebat üyelerini kurtar.
+1570828954	Şiddetin Kokusu
+838441707	Önce Rectificarium'daki mürettebat üyelerini kurtar.
+1282499261	Cezaya Doymayan
+860539865	Yalnızca tek bir mürettebat üyesi kullanarak aynı anda iki Prognastikatı kışkırt.

@@ -1,0 +1,597 @@
+1796421427	Privateer
+1776211023	Finish missions with this crewmate.
+338740426	Swashbuckler
+671816372	Take down guards with this crewmate.
+574906669	Explorer
+630650936	Finish a mission with this crewmate on all islands.
+1374517439	There Is No Distance
+1241633510	Travel a certain distance with Blink.
+709084574	The Only Way Forward Is Up
+1203276916	Travel a distance of 5 or more meters upwards with Blink on 5 different locations.
+382895988	Zoned Out
+1388224552	Use Time Freeze on a guard who is in a conversation with at least 2 other guards.
+329978490	Afia's World
+1308173182	Kill 5 guards while someone is affected by Time Freeze.
+1339996187	Unshackled
+774948274	Kill 3 guards within 7 seconds with only Afia.
+1394317276	Alone In The Dread
+1740433382	Finish a mission on Dread Vine's Grove with only Afia in your team.
+949623244	Long Distance Prodding
+1732139871	Provoke a Prognosticar over a distance of 15 meters.
+1379963239	The Tricky Part
+466478847	Hide 5 or more bodies at once with Cover Seeds.
+1709826584	Cover Crowd
+395133025	Hide 8 crewmates at once with Cover Seeds.
+979185353	Walking Is Good For You
+709264844	Move guards around with Wander Dust (or it's upgrade) for 500 meters.
+1275571015	Let the Leaves Cover All
+1962667848	Hide 200 bodies in total with Cover seeds.
+260258007	You'll Be Fine
+1939572047	Send a guard into an environment kill with Wander Dust.
+972788601	Mad House Visit
+1534608077	Finish a mission on the Pillars of Nerechtemeresch with only Suleidy in your team.
+1120467298	Look At The Time!
+372252512	Break up 5 conversations on 5 different islands with Wander Dust.
+1522570882	Get Over Here!
+1266559953	Pull a crewmate from 150 meters or farther away into your Kanol.
+2053968532	Taking the Plunge
+907794143	Send a crewmate 18 metres downwards into water with your Kanol.
+599505677	Welcome on Board
+689991763	Take a Mimimi Dev with you back to the Marley.
+2025069497	Cirque de Gaëlle
+1466972455	Shoot someone through the burning ring.
+399891488	Piggyback Ride
+656497925	Carry other crewmates around for 500 meters.
+699217888	Grand Carambole
+817899462	Knock out a Prognosticar with another Prognosticar.
+2076575347	A Poet at the Festival
+441111936	Finish a mission on Angler's Grave with only Gaëlle in your team.
+810007616	Treasure Trap
+1097120540	Lure a guard into an environment kill.
+1525280257	Hook, Line and Sinker
+1638244184	Lure a guard with the Golden Head, then pick it back up before they reach it.
+671062219	Feeding the Chest
+246431793	Reel in 150 dead bodies with your Treasure Rod.
+1440980588	Elevating Experience
+535082147	Reel in a crewmate that is 12 meters below Quentin on 4 set islands
+665878007	Wombo Combo
+1271734441	Reel in Gaëlle with your Treasure Rod after she shot Quentin somewhere with her Kanol.
+1507608638	Iron Bargain
+1592946582	Finish a mission on Iron Bay with only Quentin in your team.
+1908246895	A Little Ruckus
+1798492299	Make 5 or more guards watch the Cackling Cockle	 at the same time.
+919766519	Food For the Turtles
+1519184100	Hide 50 bodies with Anchor Down.
+1524381849	Have At Thee!
+339233934	Distract 5 or more guards at the same time with Sir Reginald.
+620612843	Laying Low
+1637348273	Get spotted with John, then use Anchor Down to hide until things calm down.
+1076764697	From the Shadows
+1694073407	Kill 3 guards within 3 seconds with crewmates that were hidden in the Below.
+1943872348	Never Saw It Coming
+764932920	Kill a Prognosticar with Anchor Up.
+2110734166	Seabed Stroll
+1653230357	Finish a mission on Calamity Reef with only John in your team.
+791767802	Line Them Up, Knock Them Down
+185582005	Kill 15 guards in one mission with Achor Up.
+665422454	Halt!
+267178076	Attack a Prognosticar as a Prognosticar.
+649801181	Growing Collection
+1221253114	Take control of at least one Mimimi Dev on each island.
+226294885	Walking In Another's Shoes
+825609211	Travel a distance of 10000 meters while in control of others.
+862801335	Adventure Tourism
+519935793	Die to 4 different types of environment kills while in control of others.
+714721166	Falling Rock
+1887863948	Loose Cargo
+1747980731	Cannonfire
+367518586	Fruity Explosion
+977848619	Alarm! Ein Verletzter!
+994051683	Use the alarm bell to call in Reinforcements
+1647327876	The Presswald Redemption
+597826652	Finish a mission on the Isle of Penance with only Pinkus in your team.
+719506953	New Servant
+1486124990	Finish a mission while Pinkus is in control of a Mimimi Dev.
+1711745669	La Doncella Sea Contigo
+1360009616	Take down 30 Iudex with Iron Judgment.
+430668490	Roosting
+451114187	Take down 10 guards without moving between shots.
+71779348	Sniper Duel
+7171066	Kill a Iudex that has spotted Teresa with Iron Judgment before they can raise the alarm.
+937707167	Swift Judgment
+967530653	Kill 3 guards within 5 seconds.
+1590254632	Private Pilgrimage
+634627229	Finish a mission on Gran Alcázar with only Teresa in your team.
+1730150600	The Crow Flies
+759708804	Visit all highest points of all islands.
+1349058482	Death Comes To Greet You
+1856406577	Kill 20 guards over a distance of 30 meters.
+565291514	Move Like Water
+1350999204	Take down a guard with Shadow Step while swimming.
+358016596	Two in One
+902418873	Kill a pair of Kindred with Toya alone, without raising alarm.
+1245370880	Teleport Training
+2048547117	Kill 2 guards within 7 seconds by using Shadow Step twice in rapid succession.
+1731151518	Highly Effective
+961131779	Lure 4 or more Acolytes or Kindred at once with Bird's Voice.
+588487950	Miles and More
+278692822	Travel a distance of 250 meters or more at once using Shadow Step.
+1427631581	Cooking with Fire
+1968156686	Finish a mission on the Iron Bay with only Toya in your team.
+976517951	You Are Already Dead
+1003294217	Kill a Iudex who has spotted Toya with Shadow Step before they can raise the alarm.
+1743525484	Welcome To the Other Side
+1003442845	Take down 3000 guards in total.
+2060292516	Out of Sight, Out of Mind
+917333455	Hide 750 bodies.
+1423868476	Face the Maiden's Wrath
+119410899	Keep an alarm going for 5 consecutive minutes
+471027101	All Hands on Deck
+636595407	Revive all crewmates.
+588123698	A Presto, Signora
+692493016	Unlock the secret crewmate.
+1867105169	High Spirits
+1290909975	Unlock all skill upgrades
+2135820633	Fate Is Cruel
+1611980959	Kill 50 guards using environment kills.
+1799271985	Grand Design
+774550608	Execute a plan with 8 crewmates.
+765528557	Piercing Shot
+38798611	Kill more than 2 guards with a cannon environment kill.
+1727602809	Cry Some More
+832564554	Find and kill all Mimimi Devs.
+1934693226	Adriano in Flagranti
+529894661	Don Alejandro Morchín
+216620134	Anicia Del Rojo
+1201963030	Antonio Vapores
+2105760855	Francisco Ceménez
+1882040411	Mater Cocolores
+516392657	Abbé Dominus
+668040958	Decoriano Cereza
+1319254292	Elena La Zorra Luz
+1286447158	Fabio Del Rio
+2088592610	Felicitas Frivoli
+1852177106	Filippus Compositor
+2139404311	Florencio Del Arbusto
+386229669	Florino Igniculus
+1321894778	Frido de la Sombra
+291835783	Sister Friede
+1592828524	Juan interno Corso
+268500015	El Slothaloto
+987838245	Juan Rojo
+1989716839	Juan Florido
+1156984225	Kaymondus
+1018025839	Perusīnus
+1000641590	King Luci
+1574750981	Maria de la Cruz
+1099969350	Hambrosius Krausinger
+1375362139	Matholomeus
+198609156	Mateo Alejandro Yamila
+1829112073	Cerevisiarius Krautilus
+473627092	Moritz "The Impenetrable"
+1427984674	Ólaf "El Cazador de Espíritus"
+723968812	Philippus Rumoristus
+284333016	Príncipe Felipe III
+1606559485	Rasmus "The Unfortunate"
+1924548140	Reinier el Guiri
+1389395824	Divine Nomis
+205714214	Beffan Fisher
+610967366	Tati la Galletita
+1466591010	Basito el Amanuensis
+174014305	Tom Scurvylegs
+1148876635	Elisabeth Alba Larum
+970580259	Bianca da Dörrcenca
+851930782	Catalina la Alegre
+1722433722	Sebastián el Indesperado
+1986677157	Atormentador Tobinésk
+859606565	Críptico das Cores
+1929825460	Power of the Soul
+196821766	Earn all crew badges.
+519542946	Been There, Done That
+184232411	Earn all location badges.
+996746267	Once More Unto The Breach
+935591128	Earn all mission badges.
+257072735	True Pirate
+1908866821	Earn all badges.
+508117353	Keep It Simple
+1182981518	Finish a mission without using any distractions.
+347395176	Tick-Tock
+353110056	Finish any mission in under 3:00 minutes.
+1496781421	Bigger On The Inside
+1723406019	Step inside the Marley's holds.
+1837385959	Blasphemous Uncertainty
+1810657921	Take down 100 Prognosticars.
+759084458	Judgment Postponed
+591337845	Take down 100 Iudex
+1383715465	Eternal Bond
+1661523804	Take down 150 Kindred.
+281275021	Team Effort
+1905079886	Take down 16 guards within 10 seconds.
+92435746	Legend In the Making
+688926941	Finish 10 missions on Legend or Cursed difficulty.
+1119265358	Bloodless Raid
+1105738089	Finish 10 missions without killing anyone (excluding mission targets).
+361403897	Ghost Pirate
+2703692	Finish 10 missions without raising alarm.
+594087976	Spice of Life
+1391943422	Finish 5 missions with each crewmate.
+165245761	You Cannot Break Me!
+1342244480	Kill Inquisitor Ignacia 10 times in one mission.
+236092768	All In A Day's Work
+832549656	Finish all Crew Tales.
+209053828	No Regrets
+1573171868	Finish all Captain's Tests.
+763816689	Full Broadside
+1961451621	On the Marley, fire all cannons within 2 seconds.
+423752836	And Stay Down
+1145889832	Kill all skellys on deck before one is revived again.
+167939290	Burial At Sea
+343671499	On the Marley, shoot a skeleton into water with Gaëlle.
+739135773	Beach Episode
+468241108	On the Marley, have all crewmates who can swim in the water at the same time.
+1830896848	Quick Inspection
+401091815	On the Marley, move from the Captain's cabin to the very front of the ship in 5 seconds.
+611482871	Spooky Lighting
+862849373	On the Marley, have all usable light sources extinguished at the same time.
+1368400389	Choose Your Landing
+1038967908	Use all landing spots.
+262365509	Back To the Marley
+474748383	Use all Tears.
+1652949645	All Done
+2115749099	Finish all missions on this location.
+1730658589	Give Them No Quarter
+1769322161	Kill all enemies in any mission.
+1199965089	Praise the Deep Ones
+1819139897	Pray at the hidden shrine.
+414181416	Twin Peaks
+816285298	Cross the wooden bridge at the top.
+1385754340	Lost To Time
+1108419071	Throw someone into water basin at the island's heart.
+1999711528	Long Way Down
+1143519443	Make someone fall for more than 30 meters.
+1382861619	Through the Ranks
+2011522026	Kill 5 different guard types at the same time.
+259725027	Keeping the Balance
+646401943	Kill both Custodes at the same time.
+1456850186	Capture The Flag
+1515795681	Exchange the Inquisition flag for the Marley flag.
+1525850607	Cleaning House
+1629435492	Kill all guards within 3 minutes.
+494578504	Ritual Sacrifice
+1472530044	Kill 3 guards at the same time with a falling rock. Tied up guards don't count.
+2132904266	Snuff the Flame
+304154263	During a night mission, extinguish at least 20 different lights.
+571546413	Cliff Racer
+416841032	Reach the highest point on this island.
+1280164754	Alcoba Azul
+1196458529	Dive into this hidden grotto with a crewmate who can swim.
+1205151961	Highly Volatile
+484653675	Kill 10 or more guards with Fear Fruit environment kills in one mission.
+1378916474	Hey, We Can See Each Other!
+1165266285	Stand on 3 Inquisition towers at the same time.
+957489229	Silence the Custodes!
+1809104076	Kill 7 Custodes in one mission.
+785926450	Feeding Dread
+1089195980	Throw 20 Bodies into the gulch around the Dreadvine
+1701416701	Your Highness
+1963989185	Kill the Prognosticar standing on a tower.
+595804671	Wishing Well
+288219293	Throw a coin into a well at the Sanatorium.
+1862240648	Forced Meditation
+49803430	Tie up a guard and put them on a free mat.
+1812577623	Temple Of Doom
+1841979522	Throw a Prognosticar into the fiery pit.
+2090138995	Back To the Pit
+231361530	Throw 5 tied up guards into the prison pit.
+1093606645	Workplace Accidents
+2046527269	Kill 10 guards with environment kills in one mission.
+1334930817	Piling On
+245791022	Throw a guard down the body chute.
+820474579	Swift Penance
+1800275402	Kill all guards within 8 minutes.
+379137919	Fire in the Hole
+1815748725	Throw Gaëlle's Firecracker down the soul urn shaft.
+583080850	Hot Sand
+415947971	Finish a mission without touching any sand.
+1164180219	Nobody Leaves
+886302043	Kill the guard on the Inquisition ship.
+1163702209	Chain Reaction
+453964669	Kill a Custodes with an environment kill so his death turns 4 guards catatonic.
+1228377308	Salt-Soaked Caverns
+907467767	Find the ominous door.
+921545643	That Silent Secret
+1972114563	Find the message in a bottle.
+1034827242	Deadly Ascent
+894199111	Kill all guards on the island in ascending order. Guards on the same height level have to be killed before ascending to a higher level.
+1173514808	Switcheroo
+1692977504	Kill each Kindred while they are on the half of the island their partner is normally posted on.
+1323456631	Just Fun and Games
+2056101649	Finish a mission without attacking anyone.
+52140568	What's a Ravelin?
+1452331934	Conquer the ravelin near the loading bay.
+1330049190	Garden Meditation
+1170154792	Knock out every guard at the Maiden's Gardens and don't hide a single body.
+670537220	For Whom the Bell Tolls
+904910703	Kill all guards that carry an Alarm Bell without attacking any other guards.
+183284468	Hopeless Apprentice
+1457983441	Take control of the head blacksmith with Pinkus, then use the cannon to get rid of his apprentice.
+1146562751	Solitary Reign
+401364238	Kill the lonely Iudex.
+1062449301	The Court Is Adjourned
+86263299	Kill 6 Iudex within 6 seconds on any mission.
+420718727	A Far Cry
+1609431365	Kill all guards within garrison walls, including the inspection yard and the harbor.
+2020561794	This Is Halloween
+1233587979	Inspect several dubious remains at the upper graveyard.
+1713276967	Head To Tail
+2029111481	Start a mission at the Angler's Jaws landing and leave through the Tear at the Tailfin Piers.
+1169918969	Egg Thief
+1702207699	Find the actual crow's nest at the Saucy Sloop.
+1098205793	The Old Man And the Sea
+731922083	Throw the lonely Prognosticar into the sea.
+550180401	No Monkey Business
+1408717269	Kill the guard knocking at the door high above the banana vendor.
+692755054	Scatter!
+2137388575	Exit a mission with 3 crewmates at 3 different Tears.
+1730831554	So This Is How You Get Here
+1103353001	Reach the top of the Light House.
+1045145721	I Like To Stay Dry
+16088903	Finish a mission without touching water.
+1033710575	Flow of Calamity
+183615894	Kill 5 guards at once with environment kills.
+1982141459	Roasted
+196551828	Throw both Kindred on the ship into the fire.
+52164312	Like Rats To Cheese
+605889720	Kill 3 guards who are following your footsteps with environment kills.
+661530197	Rickety Rods
+910154526	Go fishing at the Rickety Piers.
+839554245	First Step
+1875909914	Finish the mission.
+1087695327	Risky Venture
+467922770	Finish the mission without unleashing a memory.
+840866169	Clean Sweep
+1096284471	Kill all guards in this mission.
+111994181	No Need For Bloodshed
+221988088	Don't attack or kill anyone.
+343383419	Firekeeper
+4980436	Don't extinguish any lights.
+543531163	Nobody Likes Doors
+1694017335	Don't use any doors/gates.
+1194322690	Minimalist Approach
+899344366	Don't use any distractions.
+2108021903	True Ghosts
+1910744431	Finish the mission without raising alarm.
+2077344816	Solo Navigator
+1314220147	Finish the mission with only Afia in your team.
+691651273	Solo Ship Doctor
+1201230355	Finish the mission with only Suleidy in your team.
+916067192	Solo Cannoness
+1482682646	Finish the mission with only Gaëlle in your team.
+441910965	Solo Treasure Hunter
+2018093077	Finish the mission with only Quentin in your team.
+492203623	Solo Shipwright
+1104764486	Finish the mission with only John in your team.
+1872017290	Solo Quartermaster
+1913881026	Finish the mission with only Pinkus in your team.
+1309598636	Solo Sharpshooter
+1537787198	Finish the mission with only Teresa in your team.
+1508016607	Solo Ship Cook
+1154121962	Finish the mission with only Toya in your team.
+431734923	For All the World To See
+561441932	Finish mission without touching any hiding spots.
+1317222667	Land Route
+17730067	Finish mission without swimming.
+1544678407	Water-Shy
+1355048968	Don't touch any water.
+437625537	Let's Get Loud
+1365788380	Finish the mission by only using guns.
+1499203164	Keep It Quiet
+458695223	Finish the mission without using any guns.
+1744737962	Just Leave It
+105161197	Don't pick up any bodies.
+331777561	Nah, It'll Be Fine
+817191606	Don't use Shadow Mode.
+397716732	Three's Too Many
+738811040	Finish the mission with less than three crewmates in your team.
+2130013336	Our Own Way Up
+1011100197	Don't use any ladders or ivies.
+418842619	Sequence Break
+1835434106	Get past the Prognosticar without killing them.
+2020794394	No Time Tinkering
+135057061	Don't use Afia's Time Freeze.
+1353064736	Just Passing Through
+1625234751	Don't attack anyone on the Marley except the Custodes.
+167742853	I Like A Challenge
+1109247902	Don't board the Marley via the chain.
+1420802547	Punishment Interrupted
+1697002593	Turn 5 guards catatonic at once.
+1729722193	Surgical Precision
+515063220	Do not attack more than four guards and do not trigger alarm.
+1151061562	Boarding Party
+1084892496	Board all Inquisition Ships and take down their crew.
+1116770299	Strength In Numbers
+1020226235	Kill 3 Prognosticars at the same time.
+1198827749	Great Pretender
+1590239656	Take control of Ignacia with Pinkus.
+799528455	The Long Way Round
+1220096621	Do not use the ladders at the shady beach.
+1754888918	Full Picture
+2007911037	Collect all memory fragments.
+288410359	Right Under Her Nose
+1373729647	Kill the Iudex without touching any water during the mission.
+1312677786	Low Profile
+166130773	Don't attack anyone except the Commissarius that guards Arimtice. Only have Gaëlle in your team.
+2109201762	Slipped Away
+1634487370	Finish the mission without attacking the Commissarius that guards Arimtice. Only have Gaëlle in your team.
+2141449400	No Distractions
+150889363	Don't use Gaëlle's Firecracker. Only have Gaëlle in your team.
+873991372	Sinister Thoughts
+299541657	Collect all memory fragments.
+941826022	Pickpocket
+1206573713	Steal the key without attacking any Kindred.
+1404757201	No More Experiments
+647887669	Kill all guards inside the research outpost.
+763153960	Trouble At The Beach
+1425170775	Don't take Afia, Suleidy, John or Pinkus on this mission.
+1954569905	3-2-1 Relic!
+2126078446	Grab all 3 relic pieces at the same time.
+2052616833	I'm Going In Alone
+2061726331	Only one crewmate is allowed to set foot on the beach.
+1495198702	Beach Safety
+1881340211	Don't attack any guard on the beach.
+2024853775	Three Against One
+1550411335	Defeat the Magistratus and his 2 lackeys using only a single crewmate and without raising alarm.
+901892102	Prognosticar From Afar
+529522745	Only one crewmate is allowed to enter the islet with the Black Pearl.
+1835297888	Cliff Jumpers
+937091928	Don't use any bridges.
+51700476	Clean Hands
+1053395609	Don't kill anyone until the Suleidy has examined the root.
+735001286	Comfort Food
+597868467	Feed the Dread Vine 8 bodies.
+209655976	Double Operation
+2108519691	Kill both Kindred with Suleidy.
+1709780012	Oh No You Don't
+43807392	Kill the Grand Rectificator with Suleidy.
+1062985495	To Xibalba!
+903453745	Throw the guard at the end of the grand bridge into the pit.
+2061346095	The White Mile
+1911651871	Only one crewmate is allowed to step on the grand bridge.
+1829039352	Measure Is Unceasing
+1402225079	Don't attack any of the 4 Commissarius that are scrutinizing cursed objects.
+894492198	Close And Personal
+1641252899	Don't take Gaëlle or Quentin on this mission.
+1722718507	What A Thrill
+1708052909	Finish the mission without entering the doors at the big bridge.
+861106376	Nothing Profane
+1646196189	Don't set fire to the crates.
+1876595566	Lockpicks Anyone?
+1834249314	Don't pick up any keys.
+518978118	All Is Quiet
+279962271	Kill all guards in the Sanatorium.
+1190350410	No Shortcuts
+1709591348	Finish the mission without John, Suleidy or Pinkus in your team.
+389292892	The Other Way In
+1937659217	Don't use any doors or gates.
+1087318045	Valuable Secrets
+419275219	Enter the secret cave that leads into the prison.
+2018454745	A Noble Pursuit
+1149355630	Finish the mission with only Pinkus in your team.
+76284990	Straight To The Point
+1434100409	Don't step foot in the main prison yard (the one with the L shaped pit).
+1715095072	Pitman
+481726667	Finish the mission without setting foot on the big bridge.
+509154728	Absent Assassin
+11973624	Kill the Prognosticar while no one is inside the red square area.
+1408789237	Peaceful Beach
+970220307	Do not attack any guard outside of the main fort.
+1189892327	I Don't Go Up There
+718392153	Don't set foot in or on any of the towers.
+154203870	Just Leave Them Be
+31341787	Don't attack the Kindred.
+1821387757	No Favorites
+1312172632	Hide at least one body in both the red and the blue bush.
+2106146343	Not That Kind Of Magic
+116336808	Do not enter the cave.
+2022346090	The Bridge Must Hold
+880689629	Don't attack the Kindred.
+1651720424	It Was Enough 10 Bodies Ago
+636151575	Hide 20 guards in the magic bushes.
+174517895	Lights Out
+1948843682	Kill all guards that carry lanterns. Only have John in your team.
+483498475	Enough Of the Below
+1215070482	Don't use the Anchor Down skill more than 4 times. Only have John in your team.
+1345421501	Just the Basics
+1453073210	Only use melee attacks and distractions.
+1987187352	Lightning Justice
+70473208	Kill 3 Iudex within 2 seconds.
+2082869116	Third Time's the Charm
+478720418	Kill the Custodes who guards the Captain's head 3 times without unleashing a memory on your own.
+2004569389	In the Light
+513601691	Don't use Shadow Mode.
+830202282	We Play Another Game
+916066166	Avoid a forced unleash by the Inquisitor.
+446235675	Reserved For the Inquisition
+932673092	Don't enter the Barracks or the Scriptorium.
+1505050577	Eager Pilgrim
+1670587955	Arrive at the Beacon of Judgment before the Confessor.
+1407018365	Crossbow Gunner
+1048144007	Take out 30 guards with the Crossbow.
+796634386	Old But Gold
+1790454408	Finish the mission with only Teresa and Pinkus in your team.
+374446162	Bad Back
+161569795	Don't use any ladders with Teresa.
+1230074612	Focused On the Job
+1681751882	Peruse the priest's mind without attacking anyone else beforehand.
+1473671880	The Rite is Clear
+1574548040	Get the objects for the ceremony without perusing the mind of any guard.
+1082765739	Too Many Connections
+1449303461	Kill the 4 Kindred within the Scriptorium.
+931977600	Dressed For the Occasion
+1163315361	Burn Sebastian's remains while in the body of the Confessor.
+2067772621	No Skull Zone
+871577418	Finish the mission without Toya or Quentin in your team.
+1411307980	Lonely Graveyard
+1392878969	Only one crewmate is allowed to be on the upper graveyard at the same time.
+1384268783	Let's Not Go There
+982414241	Don't enter the lower graveyard area.
+305551358	Brittle Walls
+73626114	Don't enter the outer ring of the garrisson.
+680131070	Next!
+505883352	Shoot the guard who's taking in complaints.
+2063192810	Let Judgment Commence
+212111738	Don't attack any Iudex.
+488673085	Green Avoidance
+231677181	Don't climb any ivies.
+486873366	The Whole Wardrobe
+839731512	Shoot every type of guard into Arimtice's backyard. Custodes are not required.
+1558106774	No Small Explosions
+2005393361	Gaëlle is not allowed to use her Firecracker skill.
+956260227	Arimtice Can Handle It
+83768109	Carry Arimtice in the cannon and never drop him until the warehouse.
+505453537	Excuse Me Madam
+1656233662	Get information from Yolanda.
+459908380	Their Real Crime Is Making Me Read
+601122120	Get information from ledger.
+101539708	Cheap Rum For Everyone
+831794709	Kill all guards at the Saucy Sloop.
+38213982	Have Some Of Column A
+1054538207	Get ingredients from the merchant at the docks.
+1923032931	Take All Of Column B
+275711535	Get ingredients from the merchant at the fish market.
+1975055276	My Hand Is For Cooking Only
+163656722	Toya is not allowed to climb any ladders or ivies.
+1512917192	Let's Not Cross That Bridge When We Get There
+308129788	Do not cross any bridges.
+2106775747	Deadly View
+1920767105	Kill a guard with a crewmate who is positioned on the lighthouse.
+1563020046	I Knew He Was Annoying
+1540365300	Kill the Prognosticar before entering the lighthouse.
+462227023	A Hint Of Despair
+756734283	Collect the Soul Trace by the cannon.
+476443997	A Whiff Of Urgency
+325908634	Collect the Soul Trace by the boat.
+26925041	No Iudex Were Harmed During This Mission
+1577346830	Don't attack any Iudex.
+1301596445	They'll Burn Eventually
+1838982535	Don't attack the Kindred on top of the Brine Razor.
+1665608146	Cannoness Ready!
+1339314629	Shoot a cannon and kill at least 2 guards.
+1703146392	Let's Not All Go There
+782789680	Only one crewmate is allowed to enter the deck of the Brine Razor.
+1652037017	Clear Target
+1602318189	Don't kill anyone except Sam Bellamy.
+415485731	Blades Won't Do
+2109093519	Always kill Sam Bellamy with a firearm.
+1543366939	Let's Stay Connected
+1514546743	Don't attack any Kindred.
+134873773	Grounded
+753560653	No crewmate may move higher than the lowest level.
+477867930	What Else Is He Going To Do?
+1665723746	Quentin is not allowed to use any skills other than his Treasure Rod.
+387572387	The Sting Of Judgment
+65378511	Free your crewmates at the Calcularium first.
+1570828954	The Smell Of Violence
+838441707	Free your crewmates at the Rectificarium first.
+1282499261	Glutton For Punishment
+860539865	Provoke 2 Prognosticars at the same time with only 1 crewmate.
