@@ -1,0 +1,9 @@
+'''Let's Stay Connected''' is a [[Badges|badge]] that can be obtained by playing the mission [[Toya's Perfection (Ch. 2)]] on the island of [[Calamity Reef]].
+
+Objective: <big style="color:yellow">Don't attack any Kindred.</big>
+
+{| class="mw-collapsible mw-collapsed"
+|+ style=white-space:nowrap;text-align:left | <big style="color:yellow">💡 Walkthrough</big>
+|-
+| Please contribute...
+|}

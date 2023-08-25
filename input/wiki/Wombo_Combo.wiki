@@ -1,0 +1,9 @@
+'''Wombo Combo''' is a [[Badges|badge]] that can be obtained by playing with crew member [[Quentin_Aalbers|Quentin]].
+
+Objective: <big style="color:yellow">Reel in Gaëlle with your Treasure Rod after she shot Quentin somewhere with her Kanol.</big>
+
+{| class="mw-collapsible mw-collapsed"
+|+ style=white-space:nowrap;text-align:left | <big style="color:yellow">💡 Walkthrough</big>
+|-
+| Please contribute...
+|}

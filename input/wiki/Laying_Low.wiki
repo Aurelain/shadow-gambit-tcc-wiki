@@ -1,0 +1,9 @@
+'''Laying Low''' is a [[Badges|badge]] that can be obtained by playing with crew member [[John_Hughes_Mercury|John]].
+
+Objective: <big style="color:yellow">Get spotted with John, then use Anchor Down to hide until things calm down.</big>
+
+{| class="mw-collapsible mw-collapsed"
+|+ style=white-space:nowrap;text-align:left | <big style="color:yellow">💡 Walkthrough</big>
+|-
+| Please contribute...
+|}

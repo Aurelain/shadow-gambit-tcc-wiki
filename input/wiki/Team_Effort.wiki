@@ -1,0 +1,9 @@
+'''Team Effort''' is a general [[Badges|badge]].
+
+Objective: <big style="color:yellow">Take down 16 guards within 10 seconds.</big>
+
+{| class="mw-collapsible mw-collapsed"
+|+ style=white-space:nowrap;text-align:left | <big style="color:yellow">💡 Walkthrough</big>
+|-
+| Please contribute...
+|}

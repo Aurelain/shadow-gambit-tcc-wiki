@@ -1,0 +1,9 @@
+'''Piercing Shot''' is a general [[Badges|badge]].
+
+Objective: <big style="color:yellow">Kill more than 2 guards with a cannon environment kill.</big>
+
+{| class="mw-collapsible mw-collapsed"
+|+ style=white-space:nowrap;text-align:left | <big style="color:yellow">💡 Walkthrough</big>
+|-
+| Please contribute...
+|}

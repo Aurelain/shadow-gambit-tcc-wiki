@@ -1,0 +1,9 @@
+'''True Ghosts''' is a [[Badges|badge]] that can be obtained by playing the mission [[Quentin's Hunt (Ch. 2)]] on the island of [[Iron Bay]].
+
+Objective: <big style="color:yellow">Finish the mission without raising alarm.</big>
+
+{| class="mw-collapsible mw-collapsed"
+|+ style=white-space:nowrap;text-align:left | <big style="color:yellow">💡 Walkthrough</big>
+|-
+| Please contribute...
+|}

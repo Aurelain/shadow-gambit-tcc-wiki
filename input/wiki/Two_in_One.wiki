@@ -1,0 +1,9 @@
+'''Two in One''' is a [[Badges|badge]] that can be obtained by playing with crew member [[Toya_of_Iga|Toya]].
+
+Objective: <big style="color:yellow">Kill a pair of Kindred with Toya alone, without raising alarm.</big>
+
+{| class="mw-collapsible mw-collapsed"
+|+ style=white-space:nowrap;text-align:left | <big style="color:yellow">💡 Walkthrough</big>
+|-
+| Please contribute...
+|}

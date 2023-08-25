@@ -1,0 +1,9 @@
+'''Taking the Plunge''' is a [[Badges|badge]] that can be obtained by playing with crew member [[Gaëlle_le_Bris|Gaëlle]].
+
+Objective: <big style="color:yellow">Send a crewmate 18 metres downwards into water with your Kanol.</big>
+
+{| class="mw-collapsible mw-collapsed"
+|+ style=white-space:nowrap;text-align:left | <big style="color:yellow">💡 Walkthrough</big>
+|-
+| Please contribute...
+|}

@@ -1,0 +1,9 @@
+'''I Like To Stay Dry''' is a [[Badges|badge]] that can be obtained by playing on the island of [[Calamity Reef]].
+
+Objective: <big style="color:yellow">Finish a mission without touching water.</big>
+
+{| class="mw-collapsible mw-collapsed"
+|+ style=white-space:nowrap;text-align:left | <big style="color:yellow">💡 Walkthrough</big>
+|-
+| Please contribute...
+|}

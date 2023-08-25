@@ -1,0 +1,9 @@
+'''No Regrets''' is a general [[Badges|badge]].
+
+Objective: <big style="color:yellow">Finish all Captain's Tests.</big>
+
+{| class="mw-collapsible mw-collapsed"
+|+ style=white-space:nowrap;text-align:left | <big style="color:yellow">💡 Walkthrough</big>
+|-
+| Please contribute...
+|}

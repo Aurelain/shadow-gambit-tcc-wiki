@@ -1,0 +1,9 @@
+'''Out of Sight, Out of Mind''' is a general [[Badges|badge]].
+
+Objective: <big style="color:yellow">Hide 750 bodies.</big>
+
+{| class="mw-collapsible mw-collapsed"
+|+ style=white-space:nowrap;text-align:left | <big style="color:yellow">💡 Walkthrough</big>
+|-
+| Please contribute...
+|}

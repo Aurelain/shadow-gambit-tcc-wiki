@@ -1,0 +1,9 @@
+'''Ritual Sacrifice''' is a [[Badges|badge]] that can be obtained by playing on the island of [[New Krucbury]].
+
+Objective: <big style="color:yellow">Kill 3 guards at the same time with a falling rock. Tied up guards don't count.</big>
+
+{| class="mw-collapsible mw-collapsed"
+|+ style=white-space:nowrap;text-align:left | <big style="color:yellow">💡 Walkthrough</big>
+|-
+| Please contribute...
+|}

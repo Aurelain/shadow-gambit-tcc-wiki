@@ -1,0 +1,9 @@
+'''Power of the Soul''' is a general [[Badges|badge]].
+
+Objective: <big style="color:yellow">Earn all crew badges.</big>
+
+{| class="mw-collapsible mw-collapsed"
+|+ style=white-space:nowrap;text-align:left | <big style="color:yellow">💡 Walkthrough</big>
+|-
+| Please contribute...
+|}

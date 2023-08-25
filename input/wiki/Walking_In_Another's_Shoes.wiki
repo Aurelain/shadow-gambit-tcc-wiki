@@ -1,0 +1,9 @@
+'''Walking In Another's Shoes''' is a [[Badges|badge]] that can be obtained by playing with crew member [[Pinkus_von_Presswald|Pinkus]].
+
+Objective: <big style="color:yellow">Travel a distance of 10000 meters while in control of others.</big>
+
+{| class="mw-collapsible mw-collapsed"
+|+ style=white-space:nowrap;text-align:left | <big style="color:yellow">💡 Walkthrough</big>
+|-
+| Please contribute...
+|}

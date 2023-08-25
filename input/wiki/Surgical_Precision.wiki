@@ -1,0 +1,9 @@
+'''Surgical Precision''' is a [[Badges|badge]] that can be obtained by playing the mission [[A Ship Needs a Crew]] on the island of [[Morrow's Reach]].
+
+Objective: <big style="color:yellow">Do not attack more than four guards and do not trigger alarm.</big>
+
+{| class="mw-collapsible mw-collapsed"
+|+ style=white-space:nowrap;text-align:left | <big style="color:yellow">💡 Walkthrough</big>
+|-
+| Please contribute...
+|}

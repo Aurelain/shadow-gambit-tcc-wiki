@@ -1,0 +1,9 @@
+'''What Else Is He Going To Do?''' is a [[Badges|badge]] that can be obtained by playing the mission [[Quentin's Hunt]] on the island of [[Calamity Reef]].
+
+Objective: <big style="color:yellow">Quentin is not allowed to use any skills other than his Treasure Rod.</big>
+
+{| class="mw-collapsible mw-collapsed"
+|+ style=white-space:nowrap;text-align:left | <big style="color:yellow">💡 Walkthrough</big>
+|-
+| Please contribute...
+|}

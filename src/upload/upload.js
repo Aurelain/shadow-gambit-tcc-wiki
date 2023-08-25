@@ -137,7 +137,7 @@ const writePagesToCloud = async (candidatePages, token) => {
         if (freshMetaEntry) {
             storeWikiMetadata({[name]: freshMetaEntry});
         }
-        withSleep && (await sleep(1000));
+        withSleep && (await sleep(1500));
     }
 };
 

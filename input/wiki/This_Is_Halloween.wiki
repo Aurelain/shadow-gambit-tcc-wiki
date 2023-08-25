@@ -1,0 +1,9 @@
+'''This Is Halloween''' is a [[Badges|badge]] that can be obtained by playing on the island of [[Angler's Grave]].
+
+Objective: <big style="color:yellow">Inspect several dubious remains at the upper graveyard.</big>
+
+{| class="mw-collapsible mw-collapsed"
+|+ style=white-space:nowrap;text-align:left | <big style="color:yellow">💡 Walkthrough</big>
+|-
+| Please contribute...
+|}

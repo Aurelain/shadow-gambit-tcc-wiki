@@ -1,0 +1,9 @@
+'''Tick-Tock''' is a general [[Badges|badge]].
+
+Objective: <big style="color:yellow">Finish any mission in under 3:00 minutes.</big>
+
+{| class="mw-collapsible mw-collapsed"
+|+ style=white-space:nowrap;text-align:left | <big style="color:yellow">💡 Walkthrough</big>
+|-
+| Please contribute...
+|}

@@ -538,7 +538,7 @@
 |179||Mission: [[Teresa's Lament (Ch. 2)]] ([[Gran Alcázar]])||First Step (Teresa's Lament 2)||Finish the mission.||1||
 
 |-
-|180||Mission: [[Teresa's Lament (Ch. 2)]] ([[Gran Alcázar]])||[[Eager Pilgrim]]||Arrive at the Beacon of Judgment before the Confessor.||1||
+|180||Mission: [[Teresa's Lament (Ch. 2)]] ([[Gran Alcázar]])||[[Eager Pilgrim]]||Arrive at the Beacon of Judgement before the Confessor.||1||
 
 |-
 |181||Mission: [[Teresa's Lament (Ch. 2)]] ([[Gran Alcázar]])||[[Crossbow Gunner]]||Take out 30 guards with the Crossbow.||1||
@@ -610,7 +610,7 @@
 |203||Mission: [[The Kumquat Connection]] ([[Angler's Grave]])||[[Minimalist Approach (The Kumquat Connection)]]||Don't use any distractions.||1||
 
 |-
-|204||Mission: [[The Kumquat Connection]] ([[Angler's Grave]])||[[Let Judgment Commence]]||Don't attack any Iudex.||1||
+|204||Mission: [[The Kumquat Connection]] ([[Angler's Grave]])||[[Let Judgement Commence]]||Don't attack any Iudex.||1||
 
 |-
 |205||Mission: [[The Kumquat Connection]] ([[Angler's Grave]])||[[Brittle Walls]]||Don't enter the outer ring of the garrisson.||1||
@@ -805,7 +805,7 @@
 |268||Mission: [[Measure Is Unceasing]] ([[Memory of the Grand Design]])||[[Nah, It'll Be Fine]]||Don't use Shadow Mode.||1||
 
 |-
-|269||Mission: [[Measure Is Unceasing]] ([[Memory of the Grand Design]])||[[The Sting Of Judgment]]||Free your crewmates at the Calcularium first.||1||
+|269||Mission: [[Measure Is Unceasing]] ([[Memory of the Grand Design]])||[[The Sting Of Judgement]]||Free your crewmates at the Calcularium first.||1||
 
 |-
 |270||Mission: [[Measure Is Unceasing]] ([[Memory of the Grand Design]])||[[Glutton For Punishment]]||Provoke 2 Prognosticars at the same time with only 1 crewmate.||1||
@@ -904,13 +904,13 @@
 |301||Crew: [[Teresa_la_Ciega|Teresa]]||Privateer (Teresa)||Finish missions with this crewmate.||3||
 
 |-
-|302||Crew: [[Teresa_la_Ciega|Teresa]]||[[Sniper Duel]]||Kill a Iudex that has spotted Teresa with Iron Judgment before they can raise the alarm.||1||
+|302||Crew: [[Teresa_la_Ciega|Teresa]]||[[Sniper Duel]]||Kill a Iudex that has spotted Teresa with Iron Judgement before they can raise the alarm.||1||
 
 |-
 |303||Crew: [[Teresa_la_Ciega|Teresa]]||Swashbuckler (Teresa)||Take down guards with this crewmate.||3||
 
 |-
-|304||Crew: [[Teresa_la_Ciega|Teresa]]||[[La Doncella Sea Contigo]]||Take down 30 Iudex with Iron Judgment.||3||
+|304||Crew: [[Teresa_la_Ciega|Teresa]]||[[La Doncella Sea Contigo]]||Take down 30 Iudex with Iron Judgement.||3||
 
 |-
 |305||Crew: [[Teresa_la_Ciega|Teresa]]||[[Roosting]]||Take down 10 guards without moving between shots.||1||
@@ -919,7 +919,7 @@
 |306||Crew: [[Teresa_la_Ciega|Teresa]]||[[Death Comes To Greet You]]||Kill 20 guards over a distance of 30 meters.||1||
 
 |-
-|307||Crew: [[Teresa_la_Ciega|Teresa]]||[[Swift Judgment]]||Kill 3 guards within 5 seconds.||1||
+|307||Crew: [[Teresa_la_Ciega|Teresa]]||[[Swift Judgement]]||Kill 3 guards within 5 seconds.||1||
 
 |-
 |308||Crew: [[Teresa_la_Ciega|Teresa]]||[[Private Pilgrimage]]||Finish a mission on Gran Alcázar with only Teresa in your team.||1||
@@ -964,7 +964,7 @@
 |321||Crew: [[Quentin_Aalbers|Quentin]]||[[Hook, Line and Sinker]]||Lure a guard with the Golden Head, then pick it back up before they reach it.||1||
 
 |-
-|322||Crew: [[Quentin_Aalbers|Quentin]]||[[A Little Ruckus]]||Make 5 or more guards watch the Cackling Cockle	 at the same time.||1||
+|322||Crew: [[Quentin_Aalbers|Quentin]]||[[A Little Ruckus]]||Make 5 or more guards watch the Cackling Cockle at the same time.||1||
 
 |-
 |323||Crew: [[Quentin_Aalbers|Quentin]]||Privateer (Quentin)||Finish missions with this crewmate.||3||
@@ -1147,7 +1147,7 @@
 |382||General||[[Eternal Bond]]||Take down 150 Kindred.||3||
 
 |-
-|383||General||[[Judgment Postponed]]||Take down 100 Iudex||3||
+|383||General||[[Judgement Postponed]]||Take down 100 Iudex||3||
 
 |}
 Texts have been data-mined from game version ''1.0.70.r38399.f (2023-08-23)''.

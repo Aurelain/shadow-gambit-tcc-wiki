@@ -1,0 +1,9 @@
+'''Look At The Time!''' is a [[Badges|badge]] that can be obtained by playing with crew member [[Suleidy]].
+
+Objective: <big style="color:yellow">Break up 5 conversations on 5 different islands with Wander Dust.</big>
+
+{| class="mw-collapsible mw-collapsed"
+|+ style=white-space:nowrap;text-align:left | <big style="color:yellow">💡 Walkthrough</big>
+|-
+| Please contribute...
+|}

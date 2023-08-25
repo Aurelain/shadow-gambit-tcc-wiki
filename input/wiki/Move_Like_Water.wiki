@@ -1,0 +1,9 @@
+'''Move Like Water''' is a [[Badges|badge]] that can be obtained by playing with crew member [[Toya_of_Iga|Toya]].
+
+Objective: <big style="color:yellow">Take down a guard with Shadow Step while swimming.</big>
+
+{| class="mw-collapsible mw-collapsed"
+|+ style=white-space:nowrap;text-align:left | <big style="color:yellow">💡 Walkthrough</big>
+|-
+| Please contribute...
+|}

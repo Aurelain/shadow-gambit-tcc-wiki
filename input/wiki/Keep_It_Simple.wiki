@@ -1,0 +1,9 @@
+'''Keep It Simple''' is a general [[Badges|badge]].
+
+Objective: <big style="color:yellow">Finish a mission without using any distractions.</big>
+
+{| class="mw-collapsible mw-collapsed"
+|+ style=white-space:nowrap;text-align:left | <big style="color:yellow">💡 Walkthrough</big>
+|-
+| Please contribute...
+|}

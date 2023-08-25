@@ -1,0 +1,9 @@
+'''The Only Way Forward Is Up''' is a [[Badges|badge]] that can be obtained by playing with crew member [[Afia_Manicato|Afia]].
+
+Objective: <big style="color:yellow">Travel a distance of 5 or more meters upwards with Blink on 5 different locations.</big>
+
+{| class="mw-collapsible mw-collapsed"
+|+ style=white-space:nowrap;text-align:left | <big style="color:yellow">💡 Walkthrough</big>
+|-
+| Please contribute...
+|}

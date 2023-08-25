@@ -1,0 +1,9 @@
+'''Quick Inspection''' is a general [[Badges|badge]].
+
+Objective: <big style="color:yellow">On the Marley, move from the Captain's cabin to the very front of the ship in 5 seconds.</big>
+
+{| class="mw-collapsible mw-collapsed"
+|+ style=white-space:nowrap;text-align:left | <big style="color:yellow">💡 Walkthrough</big>
+|-
+| Please contribute...
+|}

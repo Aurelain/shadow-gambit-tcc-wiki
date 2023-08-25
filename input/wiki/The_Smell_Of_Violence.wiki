@@ -1,0 +1,9 @@
+'''The Smell Of Violence''' is a [[Badges|badge]] that can be obtained by playing the mission [[Measure Is Unceasing]] on the island of [[Memory of the Grand Design]].
+
+Objective: <big style="color:yellow">Free your crewmates at the Rectificarium first.</big>
+
+{| class="mw-collapsible mw-collapsed"
+|+ style=white-space:nowrap;text-align:left | <big style="color:yellow">💡 Walkthrough</big>
+|-
+| Please contribute...
+|}

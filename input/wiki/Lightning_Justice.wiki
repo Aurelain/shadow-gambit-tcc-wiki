@@ -1,0 +1,9 @@
+'''Lightning Justice''' is a [[Badges|badge]] that can be obtained by playing the mission [[Into the Lion's Den]] on the island of [[Gran Alcázar]].
+
+Objective: <big style="color:yellow">Kill 3 Iudex within 2 seconds.</big>
+
+{| class="mw-collapsible mw-collapsed"
+|+ style=white-space:nowrap;text-align:left | <big style="color:yellow">💡 Walkthrough</big>
+|-
+| Please contribute...
+|}

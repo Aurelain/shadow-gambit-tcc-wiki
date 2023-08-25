@@ -1,0 +1,9 @@
+'''You Cannot Break Me!''' is a general [[Badges|badge]].
+
+Objective: <big style="color:yellow">Kill Inquisitor Ignacia 10 times in one mission.</big>
+
+{| class="mw-collapsible mw-collapsed"
+|+ style=white-space:nowrap;text-align:left | <big style="color:yellow">💡 Walkthrough</big>
+|-
+| Please contribute...
+|}
