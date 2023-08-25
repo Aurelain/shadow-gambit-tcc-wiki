@@ -2,8 +2,8 @@
 
 Objective: <big style="color:yellow">Kill 5 different guard types at the same time.</big>
 
-== Walkthrough ==
-''Click '''Expand''' for tips.''
-<div class="mw-collapsible mw-collapsed">
-In the final stage (near Ignatia), '''knock-out''' each type of guard, then kill them at your leisure, with 5 different crew members in Shadow mode.
-</div>
+{| class="mw-collapsible mw-collapsed wikitable"
+|+ style=white-space:nowrap;text-align:left | <big style="color:yellow">💡 Walkthrough</big>
+|-
+| In the final stage (near Ignatia), ''knock-out'' each type of guard, then kill them at your leisure, with 5 different crew members in Shadow mode.
+|}

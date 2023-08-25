@@ -1150,4 +1150,4 @@
 |383||General||[[Judgment Postponed]]||Take down 100 Iudex||3||
 
 |}
-Texts have been data-mined from game version '''1.0.70.r38399.f''' (2023-08-25).
+Texts have been data-mined from game version ''1.0.70.r38399.f (2023-08-23)''.

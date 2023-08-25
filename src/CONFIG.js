@@ -39,6 +39,11 @@ export const WIKI_DIR = __dirname + '../input/wiki';
 export const DATAMINE_DIR = __dirname + '../input/game';
 
 /**
+ * Directory where the release of the `diff-report` tool can be found.
+ */
+export const DIFF_REPORT_DIR = __dirname + '../../diff-report/dist';
+
+/**
  * Directory where we store the proposed wiki pages (which contain our suggestions).
  */
 export const OUTPUT_DIR = __dirname + '../output';

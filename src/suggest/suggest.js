@@ -12,6 +12,7 @@ import generateWikiTable from '../utils/generateWikiTable.js';
 import buildBadgesTable from './buildBadgesTable.js';
 import suggestBadgePage from './suggestBadgePage.js';
 import fsExtra from 'fs-extra';
+import generateReport from './generateReport.js';
 
 // =====================================================================================================================
 //  D E C L A R A T I O N S
@@ -35,6 +36,7 @@ const suggest = async () => {
     try {
         fsExtra.emptyDirSync(OUTPUT_DIR);
         suggestBadges();
+        generateReport();
     } catch (e) {
         console.log('Error:', e.message);
         DEBUG && console.log(e.stack);

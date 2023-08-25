@@ -24,7 +24,7 @@ const suggestBadgePage = (badge, englishBadges) => {
     const sourcePath = WIKI_DIR + '/' + fileName;
     const exitingContent = fs.existsSync(sourcePath) && fs.readFileSync(sourcePath, 'utf8');
     if (exitingContent) {
-        const walkthroughIndex = exitingContent.indexOf('== Walkthrough');
+        const walkthroughIndex = exitingContent.indexOf('{| class="mw-collapsible');
         assert(walkthroughIndex > -1, `Could not find the walkthrough in ${sourcePath}!`);
         draft += exitingContent.substring(walkthroughIndex);
     } else {
@@ -51,7 +51,7 @@ const buildHeader = (badge, englishBadges) => {
         suffix = `with crew member ${linkPage(crew)}`;
     } else if (badge.mis) {
         suffix = `the mission ${linkPage(mis)} on the island of ${linkPage(loc)}`;
-    } else if (badge.crew) {
+    } else if (badge.loc) {
         suffix = `on the island of ${linkPage(loc)}`;
     }
 
@@ -74,11 +74,11 @@ Objective: <big style="color:yellow">${description}</big>
  */
 const buildGenericWalkthrough = () => {
     return `
-== Walkthrough ==
-''Click '''Expand''' for more information.''
-<div class="mw-collapsible mw-collapsed">
-Please contribute...
-</div>
+{| class="mw-collapsible mw-collapsed"
+|+ style=white-space:nowrap;text-align:left | <big style="color:yellow">💡 Walkthrough</big>
+|-
+| Please contribute...
+|}
     `.trim();
 };
 

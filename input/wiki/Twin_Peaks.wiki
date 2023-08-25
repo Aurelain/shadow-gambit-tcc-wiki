@@ -1,0 +1,9 @@
+'''Twin Peaks''' is a [[Badges|badge]] that can be obtained by playing on the island of [[Morrow's Reach]].
+
+Objective: <big style="color:yellow">Cross the wooden bridge at the top.</big>
+
+{| class="mw-collapsible mw-collapsed"
+|+ style=white-space:nowrap;text-align:left | <big style="color:yellow">💡 Walkthrough</big>
+|-
+| Please contribute...
+|}
