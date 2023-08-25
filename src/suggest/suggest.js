@@ -7,11 +7,11 @@ import assert from 'assert/strict';
 import isNumber from '../utils/isNumber.js';
 import findFiles from '../utils/findFiles.js';
 import isEmpty from '../utils/isEmpty.js';
-import sortJson from '../utils/sortJson.js';
 import {BADGES} from './BADGES.js';
 import generateWikiTable from '../utils/generateWikiTable.js';
 import buildBadgesTable from './buildBadgesTable.js';
 import suggestBadgePage from './suggestBadgePage.js';
+import fsExtra from 'fs-extra';
 
 // =====================================================================================================================
 //  D E C L A R A T I O N S
@@ -33,6 +33,7 @@ const OUTPUT_PAGE = OUTPUT_DIR + '/Badges.wiki';
  */
 const suggest = async () => {
     try {
+        fsExtra.emptyDirSync(OUTPUT_DIR);
         suggestBadges();
     } catch (e) {
         console.log('Error:', e.message);
@@ -64,7 +65,7 @@ ${generateWikiTable(table)}
 Texts have been data-mined from game version ''${GAME_VERSION}''. 
     `.trim();
 
-    fs.writeFileSync(OUTPUT_DIR + '/Badges.json', JSON.stringify(sortJson(minedBadges), null, 4));
+    // fs.writeFileSync(OUTPUT_DIR + '/Badges.json', JSON.stringify(sortJson(minedBadges), null, 4));
     fs.writeFileSync(OUTPUT_PAGE, badgesWiki);
     open(OUTPUT_PAGE);
 
