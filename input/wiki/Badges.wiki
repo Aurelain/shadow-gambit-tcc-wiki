@@ -1,0 +1,1153 @@
+{| class="wikitable sortable"
+!Nr.!!Type!!Name!!Description!!Steps!!Valid
+|-
+|1||Island: [[Morrow's Reach]]||First Step (Morrow's Reach)||Finish the mission.||1||
+
+|-
+|2||Island: [[Morrow's Reach]]||Choose Your Landing (Morrow's Reach)||Use all landing spots.||2||
+
+|-
+|3||Island: [[Morrow's Reach]]||[[Through the Ranks]]||Kill 5 different guard types at the same time.||1||
+
+|-
+|4||Island: [[Morrow's Reach]]||[[Twin Peaks]]||Cross the wooden bridge at the top.||1||
+
+|-
+|5||Island: [[Morrow's Reach]]||[[Long Way Down]]||Make someone fall for more than 30 meters.||1||
+
+|-
+|6||Island: [[Morrow's Reach]]||[[Lost To Time]]||Throw someone into water basin at the island's heart.||1||
+
+|-
+|7||Island: [[Morrow's Reach]]||[[Praise the Deep Ones]]||Pray at the hidden shrine.||1||
+
+|-
+|8||Mission: [[Red Marley Rising]] ([[Morrow's Reach]])||First Step (Red Marley Rising)||Finish the mission.||1||
+
+|-
+|9||Mission: [[Red Marley Rising]] ([[Morrow's Reach]])||[[Minimalist Approach (Red Marley Rising)]]||Don't use any distractions.||1||
+
+|-
+|10||Mission: [[Red Marley Rising]] ([[Morrow's Reach]])||[[I Like A Challenge]]||Don't board the Marley via the chain.||1||
+
+|-
+|11||Mission: [[Red Marley Rising]] ([[Morrow's Reach]])||[[Sequence Break]]||Get past the Prognosticar without killing them.||1||
+
+|-
+|12||Mission: [[Red Marley Rising]] ([[Morrow's Reach]])||[[Just Passing Through]]||Don't attack anyone on the Marley except the Custodes.||1||
+
+|-
+|13||Mission: [[Red Marley Rising]] ([[Morrow's Reach]])||[[No Time Tinkering]]||Don't use Afia's Time Freeze.||1||
+
+|-
+|14||Mission: [[A Ship Needs a Crew]] ([[Morrow's Reach]])||[[Risky Venture (A Ship Needs a Crew)]]||Finish the mission without unleashing a memory.||1||
+
+|-
+|15||Mission: [[A Ship Needs a Crew]] ([[Morrow's Reach]])||[[Punishment Interrupted]]||Turn 5 guards catatonic at once.||1||
+
+|-
+|16||Mission: [[A Ship Needs a Crew]] ([[Morrow's Reach]])||First Step (A Ship Needs a Crew)||Finish the mission.||1||
+
+|-
+|17||Mission: [[A Ship Needs a Crew]] ([[Morrow's Reach]])||[[Surgical Precision]]||Do not attack more than four guards and do not trigger alarm.||1||
+
+|-
+|18||Mission: [[A Ship Needs a Crew]] ([[Morrow's Reach]])||[[Land Route (A Ship Needs a Crew)]]||Finish mission without swimming.||1||
+
+|-
+|19||Mission: [[A Ship Needs a Crew]] ([[Morrow's Reach]])||[[Solo Navigator]]||Finish the mission with only Afia in your team.||1||
+
+|-
+|20||Mission: [[The Captain's Treasure]] ([[Morrow's Reach]])||[[Boarding Party]]||Board all Inquisition Ships and take down their crew.||1||
+
+|-
+|21||Mission: [[The Captain's Treasure]] ([[Morrow's Reach]])||First Step (The Captain's Treasure)||Finish the mission.||1||
+
+|-
+|22||Mission: [[The Captain's Treasure]] ([[Morrow's Reach]])||[[Clean Sweep]]||Kill all guards in this mission.||1||
+
+|-
+|23||Mission: [[The Captain's Treasure]] ([[Morrow's Reach]])||[[Strength In Numbers]]||Kill 3 Prognosticars at the same time.||1||
+
+|-
+|24||Mission: [[The Captain's Treasure]] ([[Morrow's Reach]])||[[True Ghosts (The Captain's Treasure)]]||Finish the mission without raising alarm.||1||
+
+|-
+|25||Mission: [[The Captain's Treasure]] ([[Morrow's Reach]])||[[Great Pretender]]||Take control of Ignacia with Pinkus.||1||
+
+|-
+|26||Island: [[New Krucbury]]||Back To the Marley (New Krucbury)||Use all Tears.||2||
+
+|-
+|27||Island: [[New Krucbury]]||Choose Your Landing (New Krucbury)||Use all landing spots.||1||
+
+|-
+|28||Island: [[New Krucbury]]||[[Capture The Flag]]||Exchange the Inquisition flag for the Marley flag.||1||
+
+|-
+|29||Island: [[New Krucbury]]||[[Snuff the Flame]]||During a night mission, extinguish at least 20 different lights.||1||
+
+|-
+|30||Island: [[New Krucbury]]||[[Cleaning House]]||Kill all guards within 3 minutes.||1||
+
+|-
+|31||Island: [[New Krucbury]]||[[Ritual Sacrifice]]||Kill 3 guards at the same time with a falling rock. Tied up guards don't count.||1||
+
+|-
+|32||Island: [[New Krucbury]]||[[Keeping the Balance]]||Kill both Custodes at the same time.||1||
+
+|-
+|33||Mission: [[Gaëlle's Letter (Ch. 3)]] ([[New Krucbury]])||First Step (Gaëlle's Letter 3)||Finish the mission.||1||
+
+|-
+|34||Mission: [[Gaëlle's Letter (Ch. 3)]] ([[New Krucbury]])||[[Keep It Quiet (Gaëlle's Letter 3)]]||Finish the mission without using any guns.||1||
+
+|-
+|35||Mission: [[Gaëlle's Letter (Ch. 3)]] ([[New Krucbury]])||[[Low Profile]]||Don't attack anyone except the Commissarius that guards Arimtice. Only have Gaëlle in your team.||1||
+
+|-
+|36||Mission: [[Gaëlle's Letter (Ch. 3)]] ([[New Krucbury]])||[[Slipped Away]]||Finish the mission without attacking the Commissarius that guards Arimtice. Only have Gaëlle in your team.||1||
+
+|-
+|37||Mission: [[Gaëlle's Letter (Ch. 3)]] ([[New Krucbury]])||[[Risky Venture (Gaëlle's Letter 3)]]||Finish the mission without unleashing a memory.||1||
+
+|-
+|38||Mission: [[Gaëlle's Letter (Ch. 3)]] ([[New Krucbury]])||[[No Distractions]]||Don't use Gaëlle's Firecracker. Only have Gaëlle in your team.||1||
+
+|-
+|39||Mission: [[Fragments]] ([[New Krucbury]])||[[Full Picture]]||Collect all memory fragments.||1||
+
+|-
+|40||Mission: [[Fragments]] ([[New Krucbury]])||First Step (Fragments)||Finish the mission.||1||
+
+|-
+|41||Mission: [[Fragments]] ([[New Krucbury]])||[[Right Under Her Nose]]||Kill the Iudex without touching any water during the mission.||1||
+
+|-
+|42||Mission: [[Fragments]] ([[New Krucbury]])||[[For All the World To See (Fragments)]]||Finish mission without touching any hiding spots.||1||
+
+|-
+|43||Mission: [[Fragments]] ([[New Krucbury]])||[[Just Leave It]]||Don't pick up any bodies.||1||
+
+|-
+|44||Mission: [[Fragments]] ([[New Krucbury]])||[[The Long Way Round]]||Do not use the ladders at the shady beach.||1||
+
+|-
+|45||Island: [[Iron Bay]]||Back To the Marley (Iron Bay)||Use all Tears.||4||
+
+|-
+|46||Island: [[Iron Bay]]||All Done (Iron Bay)||Finish all missions on this location.||5||
+
+|-
+|47||Island: [[Iron Bay]]||Choose Your Landing (Iron Bay)||Use all landing spots.||4||
+
+|-
+|48||Island: [[Iron Bay]]||[[Forced Meditation]]||Tie up a guard and put them on a free mat.||1||
+
+|-
+|49||Island: [[Iron Bay]]||[[Give Them No Quarter (Iron Bay)]]||Kill all enemies in any mission.||1||
+
+|-
+|50||Island: [[Iron Bay]]||[[Workplace Accidents]]||Kill 10 guards with environment kills in one mission.||1||
+
+|-
+|51||Island: [[Iron Bay]]||[[Your Highness]]||Kill the Prognosticar standing on a tower.||1||
+
+|-
+|52||Island: [[Iron Bay]]||[[Wishing Well]]||Throw a coin into a well at the Sanatorium.||1||
+
+|-
+|53||Island: [[Iron Bay]]||[[Temple Of Doom]]||Throw a Prognosticar into the fiery pit.||1||
+
+|-
+|54||Island: [[Iron Bay]]||[[Back To the Pit]]||Throw 5 tied up guards into the prison pit.||1||
+
+|-
+|55||Mission: [[Snatched From the Pit]] ([[Iron Bay]])||[[What A Thrill]]||Finish the mission without entering the doors at the big bridge.||1||
+
+|-
+|56||Mission: [[Snatched From the Pit]] ([[Iron Bay]])||First Step (Snatched From the Pit)||Finish the mission.||1||
+
+|-
+|57||Mission: [[Snatched From the Pit]] ([[Iron Bay]])||[[Close And Personal]]||Don't take Gaëlle or Quentin on this mission.||1||
+
+|-
+|58||Mission: [[Snatched From the Pit]] ([[Iron Bay]])||[[For All the World To See (Snatched From the Pit)]]||Finish mission without touching any hiding spots.||1||
+
+|-
+|59||Mission: [[Snatched From the Pit]] ([[Iron Bay]])||[[Nothing Profane]]||Don't set fire to the crates.||1||
+
+|-
+|60||Mission: [[Snatched From the Pit]] ([[Iron Bay]])||[[Lockpicks Anyone?]]||Don't pick up any keys.||1||
+
+|-
+|61||Mission: [[Pinkus' duty (Ch. 1)]] ([[Iron Bay]])||First Step (Pinkus' duty 1)||Finish the mission.||1||
+
+|-
+|62||Mission: [[Pinkus' duty (Ch. 1)]] ([[Iron Bay]])||[[Our Own Way Up (Pinkus' duty 1)]]||Don't use any ladders or ivies.||1||
+
+|-
+|63||Mission: [[Pinkus' duty (Ch. 1)]] ([[Iron Bay]])||[[Minimalist Approach (Pinkus' duty 1)]]||Don't use any distractions.||1||
+
+|-
+|64||Mission: [[Pinkus' duty (Ch. 1)]] ([[Iron Bay]])||[[Straight To The Point]]||Don't step foot in the main prison yard (the one with the L shaped pit).||1||
+
+|-
+|65||Mission: [[Pinkus' duty (Ch. 1)]] ([[Iron Bay]])||[[A Noble Pursuit]]||Finish the mission with only Pinkus in your team.||1||
+
+|-
+|66||Mission: [[Pinkus' duty (Ch. 1)]] ([[Iron Bay]])||[[Valuable Secrets]]||Enter the secret cave that leads into the prison.||1||
+
+|-
+|67||Mission: [[Ash and Ore]] ([[Iron Bay]])||First Step (Ash and Ore)||Finish the mission.||1||
+
+|-
+|68||Mission: [[Ash and Ore]] ([[Iron Bay]])||[[Minimalist Approach (Ash and Ore)]]||Don't use any distractions.||1||
+
+|-
+|69||Mission: [[Ash and Ore]] ([[Iron Bay]])||[[Keep It Quiet (Ash and Ore)]]||Finish the mission without using any guns.||1||
+
+|-
+|70||Mission: [[Ash and Ore]] ([[Iron Bay]])||[[Measure Is Unceasing]]||Don't attack any of the 4 Commissarius that are scrutinizing cursed objects.||1||
+
+|-
+|71||Mission: [[Ash and Ore]] ([[Iron Bay]])||[[The White Mile]]||Only one crewmate is allowed to step on the grand bridge.||1||
+
+|-
+|72||Mission: [[Ash and Ore]] ([[Iron Bay]])||[[To Xibalba!]]||Throw the guard at the end of the grand bridge into the pit.||1||
+
+|-
+|73||Mission: [[Teresa's Lament (Ch. 1)]] ([[Iron Bay]])||First Step (Teresa's Lament 1)||Finish the mission.||1||
+
+|-
+|74||Mission: [[Teresa's Lament (Ch. 1)]] ([[Iron Bay]])||[[All Is Quiet]]||Kill all guards in the Sanatorium.||1||
+
+|-
+|75||Mission: [[Teresa's Lament (Ch. 1)]] ([[Iron Bay]])||[[No Shortcuts]]||Finish the mission without John, Suleidy or Pinkus in your team.||1||
+
+|-
+|76||Mission: [[Teresa's Lament (Ch. 1)]] ([[Iron Bay]])||[[Our Own Way Up (Teresa's Lament 1)]]||Don't use any ladders or ivies.||1||
+
+|-
+|77||Mission: [[Teresa's Lament (Ch. 1)]] ([[Iron Bay]])||[[The Other Way In]]||Don't use any doors or gates.||1||
+
+|-
+|78||Mission: [[Teresa's Lament (Ch. 1)]] ([[Iron Bay]])||[[Keep It Quiet (Teresa's Lament 1)]]||Finish the mission without using any guns.||1||
+
+|-
+|79||Mission: [[Quentin's Hunt (Ch. 2)]] ([[Iron Bay]])||First Step (Quentin's Hunt 2)||Finish the mission.||1||
+
+|-
+|80||Mission: [[Quentin's Hunt (Ch. 2)]] ([[Iron Bay]])||[[Absent Assassin]]||Kill the Prognosticar while no one is inside the red square area.||1||
+
+|-
+|81||Mission: [[Quentin's Hunt (Ch. 2)]] ([[Iron Bay]])||[[True Ghosts (Quentin's Hunt 2)]]||Finish the mission without raising alarm.||1||
+
+|-
+|82||Mission: [[Quentin's Hunt (Ch. 2)]] ([[Iron Bay]])||[[Pitman]]||Finish the mission without setting foot on the big bridge.||1||
+
+|-
+|83||Mission: [[Quentin's Hunt (Ch. 2)]] ([[Iron Bay]])||[[For All the World To See (Quentin's Hunt 2)]]||Finish mission without touching any hiding spots.||1||
+
+|-
+|84||Mission: [[Quentin's Hunt (Ch. 2)]] ([[Iron Bay]])||[[In the Light (Quentin's Hunt 2)]]||Don't use Shadow Mode.||1||
+
+|-
+|85||Island: [[Twins of Nerechtemeresch]]||Back To the Marley (Twins of Nerechtemeresch)||Use all Tears.||2||
+
+|-
+|86||Island: [[Twins of Nerechtemeresch]]||Choose Your Landing (Twins of Nerechtemeresch)||Use all landing spots.||2||
+
+|-
+|87||Island: [[Twins of Nerechtemeresch]]||[[Deadly Ascent]]||Kill all guards on the island in ascending order. Guards on the same height level have to be killed before ascending to a higher level.||1||
+
+|-
+|88||Island: [[Twins of Nerechtemeresch]]||[[Just Fun and Games]]||Finish a mission without attacking anyone.||1||
+
+|-
+|89||Island: [[Twins of Nerechtemeresch]]||[[Switcheroo]]||Kill each Kindred while they are on the half of the island their partner is normally posted on.||1||
+
+|-
+|90||Island: [[Twins of Nerechtemeresch]]||[[That Silent Secret]]||Find the message in a bottle.||1||
+
+|-
+|91||Island: [[Twins of Nerechtemeresch]]||[[Salt-Soaked Caverns]]||Find the ominous door.||1||
+
+|-
+|92||Mission: [[Prepare for Trouble]] ([[Twins of Nerechtemeresch]])||First Step (Prepare for Trouble)||Finish the mission.||1||
+
+|-
+|93||Mission: [[Prepare for Trouble]] ([[Twins of Nerechtemeresch]])||[[No Favorites]]||Hide at least one body in both the red and the blue bush.||1||
+
+|-
+|94||Mission: [[Prepare for Trouble]] ([[Twins of Nerechtemeresch]])||[[It Was Enough 10 Bodies Ago]]||Hide 20 guards in the magic bushes.||1||
+
+|-
+|95||Mission: [[Prepare for Trouble]] ([[Twins of Nerechtemeresch]])||[[For All the World To See (Prepare for Trouble)]]||Finish mission without touching any hiding spots.||1||
+
+|-
+|96||Mission: [[Prepare for Trouble]] ([[Twins of Nerechtemeresch]])||[[Not That Kind Of Magic]]||Do not enter the cave.||1||
+
+|-
+|97||Mission: [[Prepare for Trouble]] ([[Twins of Nerechtemeresch]])||[[The Bridge Must Hold]]||Don't attack the Kindred.||1||
+
+|-
+|98||Mission: [[John's Revenge (Ch. 1)]] ([[Twins of Nerechtemeresch]])||First Step (John's Revenge 1)||Finish the mission.||1||
+
+|-
+|99||Mission: [[John's Revenge (Ch. 1)]] ([[Twins of Nerechtemeresch]])||[[Lights Out]]||Kill all guards that carry lanterns. Only have John in your team.||1||
+
+|-
+|100||Mission: [[John's Revenge (Ch. 1)]] ([[Twins of Nerechtemeresch]])||[[Enough Of the Below]]||Don't use the Anchor Down skill more than 4 times. Only have John in your team.||1||
+
+|-
+|101||Mission: [[John's Revenge (Ch. 1)]] ([[Twins of Nerechtemeresch]])||[[Minimalist Approach (John's Revenge 1)]]||Don't use any distractions.||1||
+
+|-
+|102||Mission: [[John's Revenge (Ch. 1)]] ([[Twins of Nerechtemeresch]])||[[Firekeeper (John's Revenge 1)]]||Don't extinguish any lights.||1||
+
+|-
+|103||Mission: [[John's Revenge (Ch. 1)]] ([[Twins of Nerechtemeresch]])||[[Land Route (John's Revenge 1)]]||Finish mission without swimming.||1||
+
+|-
+|104||Island: [[Isle of Penance]]||Back To the Marley (Isle of Penance)||Use all Tears.||2||
+
+|-
+|105||Island: [[Isle of Penance]]||Choose Your Landing (Isle of Penance)||Use all landing spots.||2||
+
+|-
+|106||Island: [[Isle of Penance]]||[[Chain Reaction]]||Kill a Custodes with an environment kill so his death turns 4 guards catatonic.||1||
+
+|-
+|107||Island: [[Isle of Penance]]||[[Swift Penance]]||Kill all guards within 8 minutes.||1||
+
+|-
+|108||Island: [[Isle of Penance]]||[[Nobody Leaves]]||Kill the guard on the Inquisition ship.||1||
+
+|-
+|109||Island: [[Isle of Penance]]||[[Fire in the Hole]]||Throw Gaëlle's Firecracker down the soul urn shaft.||1||
+
+|-
+|110||Island: [[Isle of Penance]]||[[Piling On]]||Throw a guard down the body chute.||1||
+
+|-
+|111||Mission: [[Bone and Fingers]] ([[Isle of Penance]])||First Step (Bone and Fingers)||Finish the mission.||1||
+
+|-
+|112||Mission: [[Bone and Fingers]] ([[Isle of Penance]])||[[Our Own Way Up (Bone and Fingers)]]||Don't use any ladders or ivies.||1||
+
+|-
+|113||Mission: [[Bone and Fingers]] ([[Isle of Penance]])||[[Nobody Likes Doors]]||Don't use any doors/gates.||1||
+
+|-
+|114||Mission: [[Bone and Fingers]] ([[Isle of Penance]])||[[I Don't Go Up There]]||Don't set foot in or on any of the towers.||1||
+
+|-
+|115||Mission: [[Bone and Fingers]] ([[Isle of Penance]])||[[Just Leave Them Be]]||Don't attack the Kindred.||1||
+
+|-
+|116||Mission: [[Bone and Fingers]] ([[Isle of Penance]])||[[Peaceful Beach]]||Do not attack any guard outside of the main fort.||1||
+
+|-
+|117||Island: [[Dread Vine's Cove]]||Back To the Marley (Dread Vine's Cove)||Use all Tears.||4||
+
+|-
+|118||Island: [[Dread Vine's Cove]]||All Done (Dread Vine's Cove)||Finish all missions on this location.||4||
+
+|-
+|119||Island: [[Dread Vine's Cove]]||Choose Your Landing (Dread Vine's Cove)||Use all landing spots.||4||
+
+|-
+|120||Island: [[Dread Vine's Cove]]||[[Hey, We Can See Each Other!]]||Stand on 3 Inquisition towers at the same time.||1||
+
+|-
+|121||Island: [[Dread Vine's Cove]]||[[Alcoba Azul]]||Dive into this hidden grotto with a crewmate who can swim.||1||
+
+|-
+|122||Island: [[Dread Vine's Cove]]||[[Give Them No Quarter (Dread Vine's Cove)]]||Kill all enemies in any mission.||1||
+
+|-
+|123||Island: [[Dread Vine's Cove]]||[[Highly Volatile]]||Kill 10 or more guards with Fear Fruit environment kills in one mission.||1||
+
+|-
+|124||Island: [[Dread Vine's Cove]]||[[Silence the Custodes!]]||Kill 7 Custodes in one mission.||1||
+
+|-
+|125||Island: [[Dread Vine's Cove]]||[[Feeding Dread]]||Throw 20 Bodies into the gulch around the Dreadvine||1||
+
+|-
+|126||Island: [[Dread Vine's Cove]]||[[Cliff Racer]]||Reach the highest point on this island.||1||
+
+|-
+|127||Mission: [[Fruits of Her Labor]] ([[Dread Vine's Cove]])||[[Sinister Thoughts]]||Collect all memory fragments.||1||
+
+|-
+|128||Mission: [[Fruits of Her Labor]] ([[Dread Vine's Cove]])||First Step (Fruits of Her Labor)||Finish the mission.||1||
+
+|-
+|129||Mission: [[Fruits of Her Labor]] ([[Dread Vine's Cove]])||[[No More Experiments]]||Kill all guards inside the research outpost.||1||
+
+|-
+|130||Mission: [[Fruits of Her Labor]] ([[Dread Vine's Cove]])||[[For All the World To See (Fruits of Her Labor)]]||Finish mission without touching any hiding spots.||1||
+
+|-
+|131||Mission: [[Fruits of Her Labor]] ([[Dread Vine's Cove]])||[[Firekeeper (Fruits of Her Labor)]]||Don't extinguish any lights.||1||
+
+|-
+|132||Mission: [[Fruits of Her Labor]] ([[Dread Vine's Cove]])||[[Pickpocket]]||Steal the key without attacking any Kindred.||1||
+
+|-
+|133||Mission: [[Bark and Bramble]] ([[Dread Vine's Cove]])||First Step (Bark and Bramble)||Finish the mission.||1||
+
+|-
+|134||Mission: [[Bark and Bramble]] ([[Dread Vine's Cove]])||[[Trouble At The Beach]]||Don't take Afia, Suleidy, John or Pinkus on this mission.||1||
+
+|-
+|135||Mission: [[Bark and Bramble]] ([[Dread Vine's Cove]])||[[Beach Safety]]||Don't attack any guard on the beach.||1||
+
+|-
+|136||Mission: [[Bark and Bramble]] ([[Dread Vine's Cove]])||[[I'm Going In Alone]]||Only one crewmate is allowed to set foot on the beach.||1||
+
+|-
+|137||Mission: [[Bark and Bramble]] ([[Dread Vine's Cove]])||[[Land Route (Bark and Bramble)]]||Finish mission without swimming.||1||
+
+|-
+|138||Mission: [[Bark and Bramble]] ([[Dread Vine's Cove]])||[[3-2-1 Relic!]]||Grab all 3 relic pieces at the same time.||1||
+
+|-
+|139||Mission: [[Haggling With a Plant]] ([[Dread Vine's Cove]])||First Step (Haggling With a Plant)||Finish the mission.||1||
+
+|-
+|140||Mission: [[Haggling With a Plant]] ([[Dread Vine's Cove]])||[[True Ghosts (Haggling With a Plant)]]||Finish the mission without raising alarm.||1||
+
+|-
+|141||Mission: [[Haggling With a Plant]] ([[Dread Vine's Cove]])||[[Cliff Jumpers]]||Don't use any bridges.||1||
+
+|-
+|142||Mission: [[Haggling With a Plant]] ([[Dread Vine's Cove]])||[[For All the World To See (Haggling With a Plant)]]||Finish mission without touching any hiding spots.||1||
+
+|-
+|143||Mission: [[Haggling With a Plant]] ([[Dread Vine's Cove]])||[[Prognosticar From Afar]]||Only one crewmate is allowed to enter the islet with the Black Pearl.||1||
+
+|-
+|144||Mission: [[Haggling With a Plant]] ([[Dread Vine's Cove]])||[[Three Against One]]||Defeat the Magistratus and his 2 lackeys using only a single crewmate and without raising alarm.||1||
+
+|-
+|145||Mission: [[Suleidy's Cure]] ([[Dread Vine's Cove]])||[[Comfort Food]]||Feed the Dread Vine 8 bodies.||1||
+
+|-
+|146||Mission: [[Suleidy's Cure]] ([[Dread Vine's Cove]])||First Step (Suleidy's Cure)||Finish the mission.||1||
+
+|-
+|147||Mission: [[Suleidy's Cure]] ([[Dread Vine's Cove]])||[[Oh No You Don't]]||Kill the Grand Rectificator with Suleidy.||1||
+
+|-
+|148||Mission: [[Suleidy's Cure]] ([[Dread Vine's Cove]])||[[Double Operation]]||Kill both Kindred with Suleidy.||1||
+
+|-
+|149||Mission: [[Suleidy's Cure]] ([[Dread Vine's Cove]])||[[Clean Hands]]||Don't kill anyone until the Suleidy has examined the root.||1||
+
+|-
+|150||Mission: [[Suleidy's Cure]] ([[Dread Vine's Cove]])||[[Risky Venture (Suleidy's Cure)]]||Finish the mission without unleashing a memory.||1||
+
+|-
+|151||Island: [[Gran Alcázar]]||Back To the Marley (Gran Alcázar)||Use all Tears.||4||
+
+|-
+|152||Island: [[Gran Alcázar]]||All Done (Gran Alcázar)||Finish all missions on this location.||4||
+
+|-
+|153||Island: [[Gran Alcázar]]||Choose Your Landing (Gran Alcázar)||Use all landing spots.||4||
+
+|-
+|154||Island: [[Gran Alcázar]]||[[What's a Ravelin?]]||Conquer the ravelin near the loading bay.||1||
+
+|-
+|155||Island: [[Gran Alcázar]]||[[Hopeless Apprentice]]||Take control of the head blacksmith with Pinkus, then use the cannon to get rid of his apprentice.||1||
+
+|-
+|156||Island: [[Gran Alcázar]]||[[Give Them No Quarter (Gran Alcázar)]]||Kill all enemies in any mission.||1||
+
+|-
+|157||Island: [[Gran Alcázar]]||[[For Whom the Bell Tolls]]||Kill all guards that carry an Alarm Bell without attacking any other guards.||1||
+
+|-
+|158||Island: [[Gran Alcázar]]||[[Solitary Reign]]||Kill the lonely Iudex.||1||
+
+|-
+|159||Island: [[Gran Alcázar]]||[[The Court Is Adjourned]]||Kill 6 Iudex within 6 seconds on any mission.||1||
+
+|-
+|160||Island: [[Gran Alcázar]]||[[Garden Meditation]]||Knock out every guard at the Maiden's Gardens and don't hide a single body.||1||
+
+|-
+|161||Mission: [[Into the Lion's Den]] ([[Gran Alcázar]])||First Step (Into the Lion's Den)||Finish the mission.||1||
+
+|-
+|162||Mission: [[Into the Lion's Den]] ([[Gran Alcázar]])||[[Third Time's the Charm]]||Kill the Custodes who guards the Captain's head 3 times without unleashing a memory on your own.||1||
+
+|-
+|163||Mission: [[Into the Lion's Den]] ([[Gran Alcázar]])||[[Just the Basics]]||Only use melee attacks and distractions.||1||
+
+|-
+|164||Mission: [[Into the Lion's Den]] ([[Gran Alcázar]])||[[Lightning Justice]]||Kill 3 Iudex within 2 seconds.||1||
+
+|-
+|165||Mission: [[Into the Lion's Den]] ([[Gran Alcázar]])||[[Minimalist Approach (Into the Lion's Den)]]||Don't use any distractions.||1||
+
+|-
+|166||Mission: [[Into the Lion's Den]] ([[Gran Alcázar]])||[[Firekeeper (Into the Lion's Den)]]||Don't extinguish any lights.||1||
+
+|-
+|167||Mission: [[Ignacia Unleashed]] ([[Gran Alcázar]])||[[We Play Another Game]]||Avoid a forced unleash by the Inquisitor.||1||
+
+|-
+|168||Mission: [[Ignacia Unleashed]] ([[Gran Alcázar]])||First Step (Ignacia Unleashed)||Finish the mission.||1||
+
+|-
+|169||Mission: [[Ignacia Unleashed]] ([[Gran Alcázar]])||[[True Ghosts (Ignacia Unleashed)]]||Finish the mission without raising alarm.||1||
+
+|-
+|170||Mission: [[Ignacia Unleashed]] ([[Gran Alcázar]])||[[Reserved For the Inquisition]]||Don't enter the Barracks or the Scriptorium.||1||
+
+|-
+|171||Mission: [[Ignacia Unleashed]] ([[Gran Alcázar]])||[[For All the World To See (Ignacia Unleashed)]]||Finish mission without touching any hiding spots.||1||
+
+|-
+|172||Mission: [[Ignacia Unleashed]] ([[Gran Alcázar]])||[[In the Light (Ignacia Unleashed)]]||Don't use Shadow Mode.||1||
+
+|-
+|173||Mission: [[Pinkus's Duty (Ch. 2)]] ([[Gran Alcázar]])||First Step (Pinkus's Duty 2)||Finish the mission.||1||
+
+|-
+|174||Mission: [[Pinkus's Duty (Ch. 2)]] ([[Gran Alcázar]])||[[Too Many Connections]]||Kill the 4 Kindred within the Scriptorium.||1||
+
+|-
+|175||Mission: [[Pinkus's Duty (Ch. 2)]] ([[Gran Alcázar]])||[[The Rite is Clear]]||Get the objects for the ceremony without perusing the mind of any guard.||1||
+
+|-
+|176||Mission: [[Pinkus's Duty (Ch. 2)]] ([[Gran Alcázar]])||[[Focused On the Job]]||Peruse the priest's mind without attacking anyone else beforehand.||1||
+
+|-
+|177||Mission: [[Pinkus's Duty (Ch. 2)]] ([[Gran Alcázar]])||[[Solo Quartermaster]]||Finish the mission with only Pinkus in your team.||1||✔️❌
+
+|-
+|178||Mission: [[Pinkus's Duty (Ch. 2)]] ([[Gran Alcázar]])||[[Dressed For the Occasion]]||Burn Sebastian's remains while in the body of the Confessor.||1||
+
+|-
+|179||Mission: [[Teresa's Lament (Ch. 2)]] ([[Gran Alcázar]])||First Step (Teresa's Lament 2)||Finish the mission.||1||
+
+|-
+|180||Mission: [[Teresa's Lament (Ch. 2)]] ([[Gran Alcázar]])||[[Eager Pilgrim]]||Arrive at the Beacon of Judgment before the Confessor.||1||
+
+|-
+|181||Mission: [[Teresa's Lament (Ch. 2)]] ([[Gran Alcázar]])||[[Crossbow Gunner]]||Take out 30 guards with the Crossbow.||1||
+
+|-
+|182||Mission: [[Teresa's Lament (Ch. 2)]] ([[Gran Alcázar]])||[[Old But Gold]]||Finish the mission with only Teresa and Pinkus in your team.||1||
+
+|-
+|183||Mission: [[Teresa's Lament (Ch. 2)]] ([[Gran Alcázar]])||[[True Ghosts (Teresa's Lament 2)]]||Finish the mission without raising alarm.||1||
+
+|-
+|184||Mission: [[Teresa's Lament (Ch. 2)]] ([[Gran Alcázar]])||[[Bad Back]]||Don't use any ladders with Teresa.||1||
+
+|-
+|185||Island: [[Angler's Grave]]||Back To the Marley (Angler's Grave)||Use all Tears.||6||
+
+|-
+|186||Island: [[Angler's Grave]]||All Done (Angler's Grave)||Finish all missions on this location.||5||
+
+|-
+|187||Island: [[Angler's Grave]]||Choose Your Landing (Angler's Grave)||Use all landing spots.||5||
+
+|-
+|188||Island: [[Angler's Grave]]||[[Scatter!]]||Exit a mission with 3 crewmates at 3 different Tears.||1||
+
+|-
+|189||Island: [[Angler's Grave]]||[[Head To Tail]]||Start a mission at the Angler's Jaws landing and leave through the Tear at the Tailfin Piers.||1||
+
+|-
+|190||Island: [[Angler's Grave]]||[[A Far Cry]]||Kill all guards within garrison walls, including the inspection yard and the harbor.||1||
+
+|-
+|191||Island: [[Angler's Grave]]||[[No Monkey Business]]||Kill the guard knocking at the door high above the banana vendor.||1||
+
+|-
+|192||Island: [[Angler's Grave]]||[[The Old Man And the Sea]]||Throw the lonely Prognosticar into the sea.||1||
+
+|-
+|193||Island: [[Angler's Grave]]||[[This Is Halloween]]||Inspect several dubious remains at the upper graveyard.||1||
+
+|-
+|194||Island: [[Angler's Grave]]||[[Egg Thief]]||Find the actual crow's nest at the Saucy Sloop.||1||
+
+|-
+|195||Mission: [[Graveyard Haunt]] ([[Angler's Grave]])||First Step (Graveyard Haunt)||Finish the mission.||1||
+
+|-
+|196||Mission: [[Graveyard Haunt]] ([[Angler's Grave]])||[[No Skull Zone]]||Finish the mission without Toya or Quentin in your team.||1||
+
+|-
+|197||Mission: [[Graveyard Haunt]] ([[Angler's Grave]])||[[True Ghosts (Graveyard Haunt)]]||Finish the mission without raising alarm.||1||
+
+|-
+|198||Mission: [[Graveyard Haunt]] ([[Angler's Grave]])||[[Let's Not Go There]]||Don't enter the lower graveyard area.||1||
+
+|-
+|199||Mission: [[Graveyard Haunt]] ([[Angler's Grave]])||[[Risky Venture (Graveyard Haunt)]]||Finish the mission without unleashing a memory.||1||
+
+|-
+|200||Mission: [[Graveyard Haunt]] ([[Angler's Grave]])||[[Lonely Graveyard]]||Only one crewmate is allowed to be on the upper graveyard at the same time.||1||
+
+|-
+|201||Mission: [[The Kumquat Connection]] ([[Angler's Grave]])||First Step (The Kumquat Connection)||Finish the mission.||1||
+
+|-
+|202||Mission: [[The Kumquat Connection]] ([[Angler's Grave]])||[[Green Avoidance]]||Don't climb any ivies.||1||
+
+|-
+|203||Mission: [[The Kumquat Connection]] ([[Angler's Grave]])||[[Minimalist Approach (The Kumquat Connection)]]||Don't use any distractions.||1||
+
+|-
+|204||Mission: [[The Kumquat Connection]] ([[Angler's Grave]])||[[Let Judgment Commence]]||Don't attack any Iudex.||1||
+
+|-
+|205||Mission: [[The Kumquat Connection]] ([[Angler's Grave]])||[[Brittle Walls]]||Don't enter the outer ring of the garrisson.||1||
+
+|-
+|206||Mission: [[The Kumquat Connection]] ([[Angler's Grave]])||[[Next!]]||Shoot the guard who's taking in complaints.||1||
+
+|-
+|207||Mission: [[Gaëlle's Letter (Ch. 2)]] ([[Angler's Grave]])||[[The Whole Wardrobe]]||Shoot every type of guard into Arimtice's backyard. Custodes are not required.||1||
+
+|-
+|208||Mission: [[Gaëlle's Letter (Ch. 2)]] ([[Angler's Grave]])||First Step (Gaëlle's Letter 2)||Finish the mission.||1||
+
+|-
+|209||Mission: [[Gaëlle's Letter (Ch. 2)]] ([[Angler's Grave]])||[[Our Own Way Up (Gaëlle's Letter 2)]]||Don't use any ladders or ivies.||1||
+
+|-
+|210||Mission: [[Gaëlle's Letter (Ch. 2)]] ([[Angler's Grave]])||[[Arimtice Can Handle It]]||Carry Arimtice in the cannon and never drop him until the warehouse.||1||
+
+|-
+|211||Mission: [[Gaëlle's Letter (Ch. 2)]] ([[Angler's Grave]])||[[No Small Explosions]]||Gaëlle is not allowed to use her Firecracker skill.||1||
+
+|-
+|212||Mission: [[Gaëlle's Letter (Ch. 2)]] ([[Angler's Grave]])||[[Solo Cannoness]]||Finish the mission with only Gaëlle in your team.||1||
+
+|-
+|213||Mission: [[John's Revenge (Ch. 2)]] ([[Angler's Grave]])||First Step (John's Revenge 2)||Finish the mission.||1||
+
+|-
+|214||Mission: [[John's Revenge (Ch. 2)]] ([[Angler's Grave]])||[[Cheap Rum For Everyone]]||Kill all guards at the Saucy Sloop.||1||
+
+|-
+|215||Mission: [[John's Revenge (Ch. 2)]] ([[Angler's Grave]])||[[Their Real Crime Is Making Me Read]]||Get information from ledger.||1||
+
+|-
+|216||Mission: [[John's Revenge (Ch. 2)]] ([[Angler's Grave]])||[[Risky Venture (John's Revenge 2)]]||Finish the mission without unleashing a memory.||1||
+
+|-
+|217||Mission: [[John's Revenge (Ch. 2)]] ([[Angler's Grave]])||[[Three's Too Many (John's Revenge 2)]]||Finish the mission with less than three crewmates in your team.||1||
+
+|-
+|218||Mission: [[John's Revenge (Ch. 2)]] ([[Angler's Grave]])||[[Excuse Me Madam]]||Get information from Yolanda.||1||
+
+|-
+|219||Mission: [[Toya's Perfection (Ch. 1)]] ([[Angler's Grave]])||First Step (Toya's Perfection 1)||Finish the mission.||1||
+
+|-
+|220||Mission: [[Toya's Perfection (Ch. 1)]] ([[Angler's Grave]])||[[Have Some Of Column A]]||Get ingredients from the merchant at the docks.||1||
+
+|-
+|221||Mission: [[Toya's Perfection (Ch. 1)]] ([[Angler's Grave]])||[[Take All Of Column B]]||Get ingredients from the merchant at the fish market.||1||
+
+|-
+|222||Mission: [[Toya's Perfection (Ch. 1)]] ([[Angler's Grave]])||[[My Hand Is For Cooking Only]]||Toya is not allowed to climb any ladders or ivies.||1||
+
+|-
+|223||Mission: [[Toya's Perfection (Ch. 1)]] ([[Angler's Grave]])||[[No Need For Bloodshed (Toya's Perfection 1)]]||Don't attack or kill anyone.||1||
+
+|-
+|224||Mission: [[Toya's Perfection (Ch. 1)]] ([[Angler's Grave]])||[[Solo Ship Cook (Toya's Perfection 1)]]||Finish the mission with only Toya in your team.||1||
+
+|-
+|225||Island: [[Calamity Reef]]||Back To the Marley (Calamity Reef)||Use all Tears.||4||
+
+|-
+|226||Island: [[Calamity Reef]]||All Done (Calamity Reef)||Finish all missions on this location.||5||
+
+|-
+|227||Island: [[Calamity Reef]]||Choose Your Landing (Calamity Reef)||Use all landing spots.||4||
+
+|-
+|228||Island: [[Calamity Reef]]||[[Rickety Rods]]||Go fishing at the Rickety Piers.||1||
+
+|-
+|229||Island: [[Calamity Reef]]||[[Give Them No Quarter (Calamity Reef)]]||Kill all enemies in any mission.||1||
+
+|-
+|230||Island: [[Calamity Reef]]||[[Flow of Calamity]]||Kill 5 guards at once with environment kills.||1||
+
+|-
+|231||Island: [[Calamity Reef]]||[[Like Rats To Cheese]]||Kill 3 guards who are following your footsteps with environment kills.||1||
+
+|-
+|232||Island: [[Calamity Reef]]||[[I Like To Stay Dry]]||Finish a mission without touching water.||1||
+
+|-
+|233||Island: [[Calamity Reef]]||[[Roasted]]||Throw both Kindred on the ship into the fire.||1||
+
+|-
+|234||Island: [[Calamity Reef]]||[[So This Is How You Get Here]]||Reach the top of the Light House.||1||
+
+|-
+|235||Mission: [[Lighthouse Locutions]] ([[Calamity Reef]])||First Step (Lighthouse Locutions)||Finish the mission.||1||
+
+|-
+|236||Mission: [[Lighthouse Locutions]] ([[Calamity Reef]])||[[I Knew He Was Annoying]]||Kill the Prognosticar before entering the lighthouse.||1||
+
+|-
+|237||Mission: [[Lighthouse Locutions]] ([[Calamity Reef]])||[[Deadly View]]||Kill a guard with a crewmate who is positioned on the lighthouse.||1||
+
+|-
+|238||Mission: [[Lighthouse Locutions]] ([[Calamity Reef]])||[[Let's Not Cross That Bridge When We Get There]]||Do not cross any bridges.||1||
+
+|-
+|239||Mission: [[Lighthouse Locutions]] ([[Calamity Reef]])||[[For All the World To See (Lighthouse Locutions)]]||Finish mission without touching any hiding spots.||1||
+
+|-
+|240||Mission: [[Lighthouse Locutions]] ([[Calamity Reef]])||[[Our Own Way Up (Lighthouse Locutions)]]||Don't use any ladders or ivies.||1||
+
+|-
+|241||Mission: [[Small Crew, Big Plans]] ([[Calamity Reef]])||First Step (Small Crew, Big Plans)||Finish the mission.||1||
+
+|-
+|242||Mission: [[Small Crew, Big Plans]] ([[Calamity Reef]])||[[No Need For Bloodshed (Small Crew, Big Plans)]]||Don't attack or kill anyone.||1||
+
+|-
+|243||Mission: [[Small Crew, Big Plans]] ([[Calamity Reef]])||[[No Iudex Were Harmed During This Mission]]||Don't attack any Iudex.||1||
+
+|-
+|244||Mission: [[Small Crew, Big Plans]] ([[Calamity Reef]])||[[Three's Too Many (Small Crew, Big Plans)]]||Finish the mission with less than three crewmates in your team.||1||
+
+|-
+|245||Mission: [[Small Crew, Big Plans]] ([[Calamity Reef]])||[[A Whiff Of Urgency]]||Collect the Soul Trace by the boat.||1||
+
+|-
+|246||Mission: [[Small Crew, Big Plans]] ([[Calamity Reef]])||[[A Hint Of Despair]]||Collect the Soul Trace by the cannon.||1||
+
+|-
+|247||Mission: [[Gaëlle's Letter (Ch. 1)]] ([[Calamity Reef]])||[[Cannoness Ready!]]||Shoot a cannon and kill at least 2 guards.||1||
+
+|-
+|248||Mission: [[Gaëlle's Letter (Ch. 1)]] ([[Calamity Reef]])||First Step (Gaëlle's Letter 1)||Finish the mission.||1||
+
+|-
+|249||Mission: [[Gaëlle's Letter (Ch. 1)]] ([[Calamity Reef]])||[[True Ghosts (Gaëlle's Letter 1)]]||Finish the mission without raising alarm.||1||
+
+|-
+|250||Mission: [[Gaëlle's Letter (Ch. 1)]] ([[Calamity Reef]])||[[Minimalist Approach (Gaëlle's Letter 1)]]||Don't use any distractions.||1||
+
+|-
+|251||Mission: [[Gaëlle's Letter (Ch. 1)]] ([[Calamity Reef]])||[[They'll Burn Eventually]]||Don't attack the Kindred on top of the Brine Razor.||1||
+
+|-
+|252||Mission: [[Gaëlle's Letter (Ch. 1)]] ([[Calamity Reef]])||[[Let's Not All Go There]]||Only one crewmate is allowed to enter the deck of the Brine Razor.||1||
+
+|-
+|253||Mission: [[Toya's Perfection (Ch. 2)]] ([[Calamity Reef]])||First Step (Toya's Perfection 2)||Finish the mission.||1||
+
+|-
+|254||Mission: [[Toya's Perfection (Ch. 2)]] ([[Calamity Reef]])||[[Blades Won't Do]]||Always kill Sam Bellamy with a firearm.||1||
+
+|-
+|255||Mission: [[Toya's Perfection (Ch. 2)]] ([[Calamity Reef]])||[[Clear Target]]||Don't kill anyone except Sam Bellamy.||1||
+
+|-
+|256||Mission: [[Toya's Perfection (Ch. 2)]] ([[Calamity Reef]])||[[Let's Stay Connected]]||Don't attack any Kindred.||1||
+
+|-
+|257||Mission: [[Toya's Perfection (Ch. 2)]] ([[Calamity Reef]])||[[Water-Shy]]||Don't touch any water.||1||
+
+|-
+|258||Mission: [[Toya's Perfection (Ch. 2)]] ([[Calamity Reef]])||[[Solo Ship Cook (Toya's Perfection 2)]]||Finish the mission with only Toya in your team.||1||
+
+|-
+|259||Mission: [[Quentin's Hunt]] ([[Calamity Reef]])||First Step (Quentin's Hunt)||Finish the mission.||1||
+
+|-
+|260||Mission: [[Quentin's Hunt]] ([[Calamity Reef]])||[[What Else Is He Going To Do?]]||Quentin is not allowed to use any skills other than his Treasure Rod.||1||
+
+|-
+|261||Mission: [[Quentin's Hunt]] ([[Calamity Reef]])||[[No Need For Bloodshed (Quentin's Hunt)]]||Don't attack or kill anyone.||1||
+
+|-
+|262||Mission: [[Quentin's Hunt]] ([[Calamity Reef]])||[[Firekeeper (Quentin's Hunt)]]||Don't extinguish any lights.||1||
+
+|-
+|263||Mission: [[Quentin's Hunt]] ([[Calamity Reef]])||[[Risky Venture (Quentin's Hunt)]]||Finish the mission without unleashing a memory.||1||
+
+|-
+|264||Mission: [[Quentin's Hunt]] ([[Calamity Reef]])||[[Grounded]]||No crewmate may move higher than the lowest level.||1||
+
+|-
+|265||Mission: [[Measure Is Unceasing]] ([[Memory of the Grand Design]])||First Step (Measure Is Unceasing)||Finish the mission.||1||
+
+|-
+|266||Mission: [[Measure Is Unceasing]] ([[Memory of the Grand Design]])||[[The Smell Of Violence]]||Free your crewmates at the Rectificarium first.||1||
+
+|-
+|267||Mission: [[Measure Is Unceasing]] ([[Memory of the Grand Design]])||[[True Ghosts (Measure Is Unceasing)]]||Finish the mission without raising alarm.||1||
+
+|-
+|268||Mission: [[Measure Is Unceasing]] ([[Memory of the Grand Design]])||[[Nah, It'll Be Fine]]||Don't use Shadow Mode.||1||
+
+|-
+|269||Mission: [[Measure Is Unceasing]] ([[Memory of the Grand Design]])||[[The Sting Of Judgment]]||Free your crewmates at the Calcularium first.||1||
+
+|-
+|270||Mission: [[Measure Is Unceasing]] ([[Memory of the Grand Design]])||[[Glutton For Punishment]]||Provoke 2 Prognosticars at the same time with only 1 crewmate.||1||
+
+|-
+|271||Crew: [[Afia_Manicato|Afia]]||Privateer (Afia)||Finish missions with this crewmate.||3||
+
+|-
+|272||Crew: [[Afia_Manicato|Afia]]||[[Long Distance Prodding]]||Provoke a Prognosticar over a distance of 15 meters.||1||
+
+|-
+|273||Crew: [[Afia_Manicato|Afia]]||[[Afia's World]]||Kill 5 guards while someone is affected by Time Freeze.||1||
+
+|-
+|274||Crew: [[Afia_Manicato|Afia]]||Swashbuckler (Afia)||Take down guards with this crewmate.||3||
+
+|-
+|275||Crew: [[Afia_Manicato|Afia]]||[[Unshackled]]||Kill 3 guards within 7 seconds with only Afia.||1||
+
+|-
+|276||Crew: [[Afia_Manicato|Afia]]||[[Alone In The Dread]]||Finish a mission on Dread Vine's Grove with only Afia in your team.||1||
+
+|-
+|277||Crew: [[Afia_Manicato|Afia]]||[[Zoned Out]]||Use Time Freeze on a guard who is in a conversation with at least 2 other guards.||1||
+
+|-
+|278||Crew: [[Afia_Manicato|Afia]]||[[There Is No Distance]]||Travel a certain distance with Blink.||3||
+
+|-
+|279||Crew: [[Afia_Manicato|Afia]]||[[The Only Way Forward Is Up]]||Travel a distance of 5 or more meters upwards with Blink on 5 different locations.||5||
+
+|-
+|280||Crew: [[Afia_Manicato|Afia]]||Explorer (Afia)||Finish a mission with this crewmate on all islands.||10||
+
+|-
+|281||Crew: [[Suleidy]]||[[Look At The Time!]]||Break up 5 conversations on 5 different islands with Wander Dust.||5||
+
+|-
+|282||Crew: [[Suleidy]]||Privateer (Suleidy)||Finish missions with this crewmate.||3||
+
+|-
+|283||Crew: [[Suleidy]]||[[Let the Leaves Cover All]]||Hide 200 bodies in total with Cover seeds.||3||
+
+|-
+|284||Crew: [[Suleidy]]||[[The Tricky Part]]||Hide 5 or more bodies at once with Cover Seeds.||1||
+
+|-
+|285||Crew: [[Suleidy]]||[[Cover Crowd]]||Hide 8 crewmates at once with Cover Seeds.||1||
+
+|-
+|286||Crew: [[Suleidy]]||Swashbuckler (Suleidy)||Take down guards with this crewmate.||3||
+
+|-
+|287||Crew: [[Suleidy]]||[[Mad House Visit]]||Finish a mission on the Pillars of Nerechtemeresch with only Suleidy in your team.||1||
+
+|-
+|288||Crew: [[Suleidy]]||Explorer (Suleidy)||Finish a mission with this crewmate on all islands.||10||
+
+|-
+|289||Crew: [[Suleidy]]||[[Walking Is Good For You]]||Move guards around with Wander Dust (or it's upgrade) for 500 meters.||3||
+
+|-
+|290||Crew: [[Suleidy]]||[[You'll Be Fine]]||Send a guard into an environment kill with Wander Dust.||1||
+
+|-
+|291||Crew: [[Pinkus_von_Presswald|Pinkus]]||Privateer (Pinkus)||Finish missions with this crewmate.||3||
+
+|-
+|292||Crew: [[Pinkus_von_Presswald|Pinkus]]||[[Halt!]]||Attack a Prognosticar as a Prognosticar.||1||
+
+|-
+|293||Crew: [[Pinkus_von_Presswald|Pinkus]]||Swashbuckler (Pinkus)||Take down guards with this crewmate.||3||
+
+|-
+|294||Crew: [[Pinkus_von_Presswald|Pinkus]]||[[Growing Collection]]||Take control of at least one Mimimi Dev on each island.||10||
+
+|-
+|295||Crew: [[Pinkus_von_Presswald|Pinkus]]||[[Adventure Tourism]]||Die to 4 different types of environment kills while in control of others.||4||
+
+|-
+|296||Crew: [[Pinkus_von_Presswald|Pinkus]]||[[Alarm! Ein Verletzter!]]||Use the alarm bell to call in Reinforcements||1||
+
+|-
+|297||Crew: [[Pinkus_von_Presswald|Pinkus]]||[[The Presswald Redemption]]||Finish a mission on the Isle of Penance with only Pinkus in your team.||1||
+
+|-
+|298||Crew: [[Pinkus_von_Presswald|Pinkus]]||[[New Servant]]||Finish a mission while Pinkus is in control of a Mimimi Dev.||1||
+
+|-
+|299||Crew: [[Pinkus_von_Presswald|Pinkus]]||[[Walking In Another's Shoes]]||Travel a distance of 10000 meters while in control of others.||3||
+
+|-
+|300||Crew: [[Pinkus_von_Presswald|Pinkus]]||Explorer (Pinkus)||Finish a mission with this crewmate on all islands.||10||
+
+|-
+|301||Crew: [[Teresa_la_Ciega|Teresa]]||Privateer (Teresa)||Finish missions with this crewmate.||3||
+
+|-
+|302||Crew: [[Teresa_la_Ciega|Teresa]]||[[Sniper Duel]]||Kill a Iudex that has spotted Teresa with Iron Judgment before they can raise the alarm.||1||
+
+|-
+|303||Crew: [[Teresa_la_Ciega|Teresa]]||Swashbuckler (Teresa)||Take down guards with this crewmate.||3||
+
+|-
+|304||Crew: [[Teresa_la_Ciega|Teresa]]||[[La Doncella Sea Contigo]]||Take down 30 Iudex with Iron Judgment.||3||
+
+|-
+|305||Crew: [[Teresa_la_Ciega|Teresa]]||[[Roosting]]||Take down 10 guards without moving between shots.||1||
+
+|-
+|306||Crew: [[Teresa_la_Ciega|Teresa]]||[[Death Comes To Greet You]]||Kill 20 guards over a distance of 30 meters.||1||
+
+|-
+|307||Crew: [[Teresa_la_Ciega|Teresa]]||[[Swift Judgment]]||Kill 3 guards within 5 seconds.||1||
+
+|-
+|308||Crew: [[Teresa_la_Ciega|Teresa]]||[[Private Pilgrimage]]||Finish a mission on Gran Alcázar with only Teresa in your team.||1||
+
+|-
+|309||Crew: [[Teresa_la_Ciega|Teresa]]||[[The Crow Flies]]||Visit all highest points of all islands.||10||
+
+|-
+|310||Crew: [[Teresa_la_Ciega|Teresa]]||Explorer (Teresa)||Finish a mission with this crewmate on all islands.||10||
+
+|-
+|311||Crew: [[Toya_of_Iga|Toya]]||Privateer (Toya)||Finish missions with this crewmate.||3||
+
+|-
+|312||Crew: [[Toya_of_Iga|Toya]]||Swashbuckler (Toya)||Take down guards with this crewmate.||3||
+
+|-
+|313||Crew: [[Toya_of_Iga|Toya]]||[[Two in One]]||Kill a pair of Kindred with Toya alone, without raising alarm.||1||
+
+|-
+|314||Crew: [[Toya_of_Iga|Toya]]||[[Cooking with Fire]]||Finish a mission on the Iron Bay with only Toya in your team.||1||
+
+|-
+|315||Crew: [[Toya_of_Iga|Toya]]||[[You Are Already Dead]]||Kill a Iudex who has spotted Toya with Shadow Step before they can raise the alarm.||1||
+
+|-
+|316||Crew: [[Toya_of_Iga|Toya]]||[[Move Like Water]]||Take down a guard with Shadow Step while swimming.||1||
+
+|-
+|317||Crew: [[Toya_of_Iga|Toya]]||[[Teleport Training]]||Kill 2 guards within 7 seconds by using Shadow Step twice in rapid succession.||1||
+
+|-
+|318||Crew: [[Toya_of_Iga|Toya]]||[[Miles and More]]||Travel a distance of 250 meters or more at once using Shadow Step.||1||
+
+|-
+|319||Crew: [[Toya_of_Iga|Toya]]||Explorer (Toya)||Finish a mission with this crewmate on all islands.||10||
+
+|-
+|320||Crew: [[Toya_of_Iga|Toya]]||[[Highly Effective]]||Lure 4 or more Acolytes or Kindred at once with Bird's Voice.||1||
+
+|-
+|321||Crew: [[Quentin_Aalbers|Quentin]]||[[Hook, Line and Sinker]]||Lure a guard with the Golden Head, then pick it back up before they reach it.||1||
+
+|-
+|322||Crew: [[Quentin_Aalbers|Quentin]]||[[A Little Ruckus]]||Make 5 or more guards watch the Cackling Cockle	 at the same time.||1||
+
+|-
+|323||Crew: [[Quentin_Aalbers|Quentin]]||Privateer (Quentin)||Finish missions with this crewmate.||3||
+
+|-
+|324||Crew: [[Quentin_Aalbers|Quentin]]||[[Elevating Experience]]||Reel in a crewmate that is 12 meters below Quentin on 4 set islands||4||
+
+|-
+|325||Crew: [[Quentin_Aalbers|Quentin]]||[[Feeding the Chest]]||Reel in 150 dead bodies with your Treasure Rod.||3||
+
+|-
+|326||Crew: [[Quentin_Aalbers|Quentin]]||[[Wombo Combo]]||Reel in Gaëlle with your Treasure Rod after she shot Quentin somewhere with her Kanol.||1||
+
+|-
+|327||Crew: [[Quentin_Aalbers|Quentin]]||Swashbuckler (Quentin)||Take down guards with this crewmate.||3||
+
+|-
+|328||Crew: [[Quentin_Aalbers|Quentin]]||[[Treasure Trap]]||Lure a guard into an environment kill.||1||
+
+|-
+|329||Crew: [[Quentin_Aalbers|Quentin]]||[[Iron Bargain]]||Finish a mission on Iron Bay with only Quentin in your team.||1||
+
+|-
+|330||Crew: [[Quentin_Aalbers|Quentin]]||Explorer (Quentin)||Finish a mission with this crewmate on all islands.||10||
+
+|-
+|331||Crew: [[Gaëlle_le_Bris|Gaëlle]]||[[Piggyback Ride]]||Carry other crewmates around for 500 meters.||3||
+
+|-
+|332||Crew: [[Gaëlle_le_Bris|Gaëlle]]||Privateer (Gaëlle)||Finish missions with this crewmate.||3||
+
+|-
+|333||Crew: [[Gaëlle_le_Bris|Gaëlle]]||Swashbuckler (Gaëlle)||Take down guards with this crewmate.||3||
+
+|-
+|334||Crew: [[Gaëlle_le_Bris|Gaëlle]]||[[Grand Carambole]]||Knock out a Prognosticar with another Prognosticar.||1||
+
+|-
+|335||Crew: [[Gaëlle_le_Bris|Gaëlle]]||[[Get Over Here!]]||Pull a crewmate from 150 meters or farther away into your Kanol.||1||
+
+|-
+|336||Crew: [[Gaëlle_le_Bris|Gaëlle]]||[[Taking the Plunge]]||Send a crewmate 18 metres downwards into water with your Kanol.||1||
+
+|-
+|337||Crew: [[Gaëlle_le_Bris|Gaëlle]]||[[Cirque de Gaëlle]]||Shoot someone through the burning ring.||1||
+
+|-
+|338||Crew: [[Gaëlle_le_Bris|Gaëlle]]||[[A Poet at the Festival]]||Finish a mission on Angler's Grave with only Gaëlle in your team.||1||
+
+|-
+|339||Crew: [[Gaëlle_le_Bris|Gaëlle]]||[[Welcome on Board]]||Take a Mimimi Dev with you back to the Marley.||1||
+
+|-
+|340||Crew: [[Gaëlle_le_Bris|Gaëlle]]||Explorer (Gaëlle)||Finish a mission with this crewmate on all islands.||10||
+
+|-
+|341||Crew: [[John_Hughes_Mercury|John]]||[[Food For the Turtles]]||Hide 50 bodies with Anchor Down.||3||
+
+|-
+|342||Crew: [[John_Hughes_Mercury|John]]||[[Laying Low]]||Get spotted with John, then use Anchor Down to hide until things calm down.||1||
+
+|-
+|343||Crew: [[John_Hughes_Mercury|John]]||[[Never Saw It Coming]]||Kill a Prognosticar with Anchor Up.||1||
+
+|-
+|344||Crew: [[John_Hughes_Mercury|John]]||[[Line Them Up, Knock Them Down]]||Kill 15 guards in one mission with Achor Up.||1||
+
+|-
+|345||Crew: [[John_Hughes_Mercury|John]]||[[From the Shadows]]||Kill 3 guards within 3 seconds with crewmates that were hidden in the Below.||1||
+
+|-
+|346||Crew: [[John_Hughes_Mercury|John]]||Privateer (John)||Finish missions with this crewmate.||3||
+
+|-
+|347||Crew: [[John_Hughes_Mercury|John]]||[[Have At Thee!]]||Distract 5 or more guards at the same time with Sir Reginald.||1||
+
+|-
+|348||Crew: [[John_Hughes_Mercury|John]]||Swashbuckler (John)||Take down guards with this crewmate.||3||
+
+|-
+|349||Crew: [[John_Hughes_Mercury|John]]||[[Seabed Stroll]]||Finish a mission on Calamity Reef with only John in your team.||1||
+
+|-
+|350||Crew: [[John_Hughes_Mercury|John]]||Explorer (John)||Finish a mission with this crewmate on all islands.||10||
+
+|-
+|351||General||[[True Pirate]]||Earn all badges.||3||
+
+|-
+|352||General||[[Power of the Soul]]||Earn all crew badges.||3||
+
+|-
+|353||General||[[Been There, Done That]]||Earn all location badges.||3||
+
+|-
+|354||General||[[Once More Unto The Breach]]||Earn all mission badges.||3||
+
+|-
+|355||General||[[Spice of Life]]||Finish 5 missions with each crewmate.||8||
+
+|-
+|356||General||[[No Regrets]]||Finish all Captain's Tests.||7||
+
+|-
+|357||General||[[Grand Design]]||Execute a plan with 8 crewmates.||1||
+
+|-
+|358||General||[[Piercing Shot]]||Kill more than 2 guards with a cannon environment kill.||1||
+
+|-
+|359||General||[[Face the Maiden's Wrath]]||Keep an alarm going for 5 consecutive minutes||1||
+
+|-
+|360||General||[[Bigger On The Inside]]||Step inside the Marley's holds.||1||❌
+
+|-
+|361||General||[[Keep It Simple]]||Finish a mission without using any distractions.||1||
+
+|-
+|362||General||[[Tick-Tock]]||Finish any mission in under 3:00 minutes.||1||
+
+|-
+|363||General||[[Legend In the Making]]||Finish 10 missions on Legend or Cursed difficulty.||1||
+
+|-
+|364||General||[[Ghost Pirate]]||Finish 10 missions without raising alarm.||1||
+
+|-
+|365||General||[[Bloodless Raid]]||Finish 10 missions without killing anyone (excluding mission targets).||1||
+
+|-
+|366||General||[[Out of Sight, Out of Mind]]||Hide 750 bodies.||4||
+
+|-
+|367||General||[[High Spirits]]||Unlock all skill upgrades||1||
+
+|-
+|368||General||[[Beach Episode]]||On the Marley, have all crewmates who can swim in the water at the same time.||1||
+
+|-
+|369||General||[[All Hands on Deck]]||Revive all crewmates.||1||
+
+|-
+|370||General||[[Spooky Lighting]]||On the Marley, have all usable light sources extinguished at the same time.||1||
+
+|-
+|371||General||[[All In A Day's Work]]||Finish all Crew Tales.||7||
+
+|-
+|372||General||[[And Stay Down]]||Kill all skellys on deck before one is revived again.||1||
+
+|-
+|373||General||[[Quick Inspection]]||On the Marley, move from the Captain's cabin to the very front of the ship in 5 seconds.||1||
+
+|-
+|374||General||[[Burial At Sea]]||On the Marley, shoot a skeleton into water with Gaëlle.||1||
+
+|-
+|375||General||[[A Presto, Signora]]||Unlock the secret crewmate.||1||
+
+|-
+|376||General||[[Cry Some More]]||Find and kill all Mimimi Devs.||45||
+
+|-
+|377||General||[[Fate Is Cruel]]||Kill 50 guards using environment kills.||3||
+
+|-
+|378||General||[[You Cannot Break Me!]]||Kill Inquisitor Ignacia 10 times in one mission.||1||
+
+|-
+|379||General||[[Welcome To the Other Side]]||Take down 3000 guards in total.||3||
+
+|-
+|380||General||[[Team Effort]]||Take down 16 guards within 10 seconds.||1||
+
+|-
+|381||General||[[Blasphemous Uncertainty]]||Take down 100 Prognosticars.||3||
+
+|-
+|382||General||[[Eternal Bond]]||Take down 150 Kindred.||3||
+
+|-
+|383||General||[[Judgment Postponed]]||Take down 100 Iudex||3||
+
+|}
+Texts have been data-mined from game version '''1.0.70.r38399.f''' (2023-08-25).

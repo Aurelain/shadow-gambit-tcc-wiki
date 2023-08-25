@@ -1,5 +1,5 @@
 import attemptSelfRun from '../utils/attemptSelfRun.js';
-import {DEBUG, OUTPUT_DIR} from '../CONFIG.js';
+import {DEBUG, GAME_VERSION, OUTPUT_DIR} from '../CONFIG.js';
 import fs from 'fs';
 import open from 'open';
 import readYamlFileAsJson from '../utils/readYamlFileAsJson.js';
@@ -11,6 +11,7 @@ import sortJson from '../utils/sortJson.js';
 import {BADGES} from './BADGES.js';
 import generateWikiTable from '../utils/generateWikiTable.js';
 import buildBadgesTable from './buildBadgesTable.js';
+import suggestBadgePage from './suggestBadgePage.js';
 
 // =====================================================================================================================
 //  D E C L A R A T I O N S
@@ -47,23 +48,29 @@ const suggest = async () => {
  */
 const suggestBadges = () => {
     const badgesRepository = readBadgesRepository();
-    const badgesList = compactBadgesRepository(badgesRepository);
+    const minedBadges = compactBadgesRepository(badgesRepository);
 
     const languagePaths = findFiles(TEXTS_DIR, TEXTS_FILE_PATTERN);
     assert(languagePaths.length > 1, 'Expecting many language files!');
     const i18n = readI18n(languagePaths);
-    enrichByNid(badgesList, i18n);
+    enrichByNid(minedBadges, i18n);
+    const englishBadges = getEnglishBadges(minedBadges);
 
-    validateBadges(badgesList, BADGES);
-    const table = buildBadgesTable(badgesList, BADGES);
+    validateBadges(minedBadges, BADGES);
+    const table = buildBadgesTable(BADGES, englishBadges);
 
     const badgesWiki = `
 ${generateWikiTable(table)}
+Texts have been data-mined from game version ''${GAME_VERSION}''. 
     `.trim();
 
-    fs.writeFileSync(OUTPUT_DIR + '/Badges.json', JSON.stringify(sortJson(badgesList), null, 4));
+    fs.writeFileSync(OUTPUT_DIR + '/Badges.json', JSON.stringify(sortJson(minedBadges), null, 4));
     fs.writeFileSync(OUTPUT_PAGE, badgesWiki);
     open(OUTPUT_PAGE);
+
+    for (const badge of BADGES) {
+        suggestBadgePage(badge, englishBadges);
+    }
 };
 
 /**
@@ -186,6 +193,20 @@ const enrichByNid = (target, i18n) => {
             enrichByNid(item, i18n);
         }
     }
+};
+
+/**
+ *
+ */
+const getEnglishBadges = (minedBadges) => {
+    const output = {};
+    for (const minedBadge of minedBadges) {
+        output[minedBadge.name] = {
+            title: minedBadge._text,
+            description: minedBadge.kids[0]._text,
+        };
+    }
+    return output;
 };
 
 /**

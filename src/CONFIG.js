@@ -52,3 +52,21 @@ export const API_LIMIT = 50;
  * A flag for verbosity.
  */
 export const DEBUG = true;
+
+/**
+ * Some badges don't require a dedicated page:
+ */
+export const GENERIC_BADGES = {
+    badge_loc_generic_all_spawns: true, // Choose Your Landing
+    badge_loc_generic_all_exits: true, // Back To the Marley
+    badge_loc_generic_all_missions: true, // All Done
+    badge_cha_generic_finish_mission: true, // Privateer
+    badge_cha_generic_kill_ko: true, // Swashbuckler
+    badge_cha_generic_visit_islands: true, // Explorer
+    badge_mis_generic_finish_mission: true, // First Step
+};
+
+/**
+ * TODO: get it from input\game\ExportedProject\Assets\MiSingletons\Addressables\MiVersion.asset
+ */
+export const GAME_VERSION = '1.0.70.r38399.f (2023-08-23)';

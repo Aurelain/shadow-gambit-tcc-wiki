@@ -1,8 +1,9 @@
+import linkPage from '../shared/linkPage.js';
+import {GENERIC_BADGES} from '../CONFIG.js';
+
 // =====================================================================================================================
 //  D E C L A R A T I O N S
 // =====================================================================================================================
-import linkPage from './linkPage.js';
-
 const WORD_LOCATION = 'Island';
 const WORD_MISSION = 'Mission';
 const WORD_CREW = 'Crew';
@@ -17,7 +18,7 @@ const VALID_STATUS = {
 /**
  *
  */
-const buildBadgesTable = (minedList, hardcodedList) => {
+const buildBadgesTable = (hardcodedList, englishBadges) => {
     const output = [
         [
             // 'Name', // hidden
@@ -30,11 +31,6 @@ const buildBadgesTable = (minedList, hardcodedList) => {
         ],
     ];
 
-    const minedListByName = {};
-    for (const badge of minedList) {
-        minedListByName[badge.name] = badge;
-    }
-
     const nameCollisions = {};
     const usedNames = {};
     for (const {name} of hardcodedList) {
@@ -46,7 +42,7 @@ const buildBadgesTable = (minedList, hardcodedList) => {
 
     for (let i = 0; i < hardcodedList.length; i++) {
         const badge = hardcodedList[i];
-        const row = buildRow(badge, i + 1, minedListByName, nameCollisions);
+        const row = buildRow(badge, i + 1, englishBadges, nameCollisions);
         output.push(row);
     }
 
@@ -59,10 +55,10 @@ const buildBadgesTable = (minedList, hardcodedList) => {
 /**
  *
  */
-const buildRow = (badge, nr, minedListByName, nameCollisions) => {
+const buildRow = (badge, nr, englishBadges, nameCollisions) => {
     const {name, steps} = badge;
-    const title = getTitle(badge, minedListByName, nameCollisions);
-    const description = minedListByName[name].kids[0]._text;
+    const title = getTitle(badge, englishBadges, nameCollisions);
+    const {description} = englishBadges[name];
     const type = getType(badge);
     return {
         // name, // hidden
@@ -78,13 +74,16 @@ const buildRow = (badge, nr, minedListByName, nameCollisions) => {
 /**
  *
  */
-const getTitle = (badge, minedListByName, nameCollisions) => {
+const getTitle = (badge, englishBadges, nameCollisions) => {
     const {name, loc, mis, crew} = badge;
-    let title = minedListByName[name]._text;
+    let title = englishBadges[name].title;
     if (name in nameCollisions) {
         const clarification = mis || loc || crew;
         title += ` (${clarification})`;
         title = title.replace(/\(Ch. (\d)\)/, '$1');
+    }
+    if (name in GENERIC_BADGES) {
+        return title;
     }
     return linkPage(title);
 };
