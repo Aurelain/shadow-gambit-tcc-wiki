@@ -1,5 +1,5 @@
 import attemptSelfRun from '../utils/attemptSelfRun.js';
-import {DEBUG, GAME_VERSION, OUTPUT_DIR} from '../CONFIG.js';
+import {DEBUG, GAME_VERSION, GENERIC_BADGES, OUTPUT_DIR} from '../CONFIG.js';
 import fs from 'fs';
 import open from 'open';
 import readYamlFileAsJson from '../utils/readYamlFileAsJson.js';
@@ -69,10 +69,12 @@ Texts have been data-mined from game version ''${GAME_VERSION}''.
 
     // fs.writeFileSync(OUTPUT_DIR + '/Badges.json', JSON.stringify(sortJson(minedBadges), null, 4));
     fs.writeFileSync(OUTPUT_PAGE, badgesWiki);
-    open(OUTPUT_PAGE);
+    // open(OUTPUT_PAGE);
 
     for (const badge of BADGES) {
-        suggestBadgePage(badge, englishBadges);
+        if (!GENERIC_BADGES[badge.name]) {
+            suggestBadgePage(badge, englishBadges);
+        }
     }
 };
 

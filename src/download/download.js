@@ -4,6 +4,7 @@ import attemptSelfRun from '../utils/attemptSelfRun.js';
 import {API_LIMIT, DEBUG, ENDPOINT, REPLACEMENTS, WIKI_DIR} from '../CONFIG.js';
 import requestMultiple from './requestMultiple.js';
 import {strict as assert} from 'assert';
+import storeWikiMetadata from '../shared/storeWikiMetadata.js';
 
 // =====================================================================================================================
 //  D E C L A R A T I O N S
@@ -19,6 +20,7 @@ const download = async () => {
     try {
         const normalPages = await requestMultiple(getPages, '0');
         writePages(normalPages);
+        storeWikiMetadata(normalPages);
     } catch (e) {
         console.log('Error:', e.message);
         DEBUG && console.log(e.stack);

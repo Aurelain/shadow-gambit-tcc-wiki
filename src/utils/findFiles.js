@@ -1,19 +1,19 @@
 import fs from 'fs';
-import {join} from 'path';
 
 /**
  * https://stackoverflow.com/a/16684530
  */
 const findFiles = (dir, pattern, results = []) => {
-    const list = fs.readdirSync(dir);
+    const unixDir = dir.replaceAll('\\', '/');
+    const list = fs.readdirSync(unixDir);
     for (const file of list) {
-        const joinedPath = join(dir, file);
-        const stat = fs.statSync(joinedPath);
+        const fullPath = unixDir + '/' + file;
+        const stat = fs.statSync(fullPath);
         if (stat && stat.isDirectory()) {
             findFiles(joinedPath, pattern, results);
         } else {
-            if (!pattern || joinedPath.match(pattern)) {
-                results.push(joinedPath.split('\\').join('/'));
+            if (!pattern || fullPath.match(pattern)) {
+                results.push(fullPath);
             }
         }
     }

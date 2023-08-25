@@ -1,0 +1,9 @@
+'''All Is Quiet''' is a [[Badges|badge]] that can be obtained by playing the mission [[Teresa's Lament (Ch. 1)]] on the island of [[Iron Bay]].
+
+Objective: <big style="color:yellow">Kill all guards in the Sanatorium.</big>
+
+{| class="mw-collapsible mw-collapsed"
+|+ style=white-space:nowrap;text-align:left | <big style="color:yellow">💡 Walkthrough</big>
+|-
+| Please contribute...
+|}

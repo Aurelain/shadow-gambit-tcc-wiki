@@ -1,0 +1,3 @@
+'''All Done''' is a generic [[Badges|badge]] that appears in several islands.
+
+Objective: <big style="color:yellow">Finish all missions on this location.</big>

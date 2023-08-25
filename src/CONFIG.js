@@ -1,10 +1,21 @@
 import * as url from 'url';
+import {resolve} from 'path';
 const __dirname = url.fileURLToPath(new URL('.', import.meta.url));
 
 /**
  * The wiki url, pointing to /api.php
  */
 export const ENDPOINT = 'https://shadowgambit.fandom.com/api.php';
+
+/**
+ * Authentication information, obtained from `Special:BotPasswords`, needed by `upload`.
+ */
+export const CREDENTIALS_FILE = resolve(__dirname + '../credentials.json');
+
+/**
+ * File created after by `download` and updated by `upload`, containing hashes and revision ids.
+ */
+export const WIKI_METADATA_FILE = resolve(__dirname + '../wiki-metadata.json');
 
 /**
  * A file name (in the local OS file system) cannot contain some special characters, so we replace them.

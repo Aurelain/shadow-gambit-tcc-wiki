@@ -1,0 +1,9 @@
+'''And Stay Down''' is a general [[Badges|badge]].
+
+Objective: <big style="color:yellow">Kill all skellys on deck before one is revived again.</big>
+
+{| class="mw-collapsible mw-collapsed"
+|+ style=white-space:nowrap;text-align:left | <big style="color:yellow">💡 Walkthrough</big>
+|-
+| Please contribute...
+|}

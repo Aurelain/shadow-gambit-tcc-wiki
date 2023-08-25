@@ -1,0 +1,9 @@
+'''A Hint Of Despair''' is a [[Badges|badge]] that can be obtained by playing the mission [[Small Crew, Big Plans]] on the island of [[Calamity Reef]].
+
+Objective: <big style="color:yellow">Collect the Soul Trace by the cannon.</big>
+
+{| class="mw-collapsible mw-collapsed"
+|+ style=white-space:nowrap;text-align:left | <big style="color:yellow">💡 Walkthrough</big>
+|-
+| Please contribute...
+|}

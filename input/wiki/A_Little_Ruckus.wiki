@@ -1,0 +1,9 @@
+'''A Little Ruckus''' is a [[Badges|badge]] that can be obtained by playing with crew member [[Quentin_Aalbers|Quentin]].
+
+Objective: <big style="color:yellow">Make 5 or more guards watch the Cackling Cockle	 at the same time.</big>
+
+{| class="mw-collapsible mw-collapsed"
+|+ style=white-space:nowrap;text-align:left | <big style="color:yellow">💡 Walkthrough</big>
+|-
+| Please contribute...
+|}

@@ -1,0 +1,9 @@
+'''Back To the Pit''' is a [[Badges|badge]] that can be obtained by playing on the island of [[Iron Bay]].
+
+Objective: <big style="color:yellow">Throw 5 tied up guards into the prison pit.</big>
+
+{| class="mw-collapsible mw-collapsed"
+|+ style=white-space:nowrap;text-align:left | <big style="color:yellow">💡 Walkthrough</big>
+|-
+| Please contribute...
+|}

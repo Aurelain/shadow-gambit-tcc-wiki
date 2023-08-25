@@ -1,0 +1,9 @@
+'''A Far Cry''' is a [[Badges|badge]] that can be obtained by playing on the island of [[Angler's Grave]].
+
+Objective: <big style="color:yellow">Kill all guards within garrison walls, including the inspection yard and the harbor.</big>
+
+{| class="mw-collapsible mw-collapsed"
+|+ style=white-space:nowrap;text-align:left | <big style="color:yellow">💡 Walkthrough</big>
+|-
+| Please contribute...
+|}
